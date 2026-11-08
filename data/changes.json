@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:50:12Z",
+ "generated_at": "2026-11-08T20:09:42Z",
  "changes": [
   {
    "d": "2026-11-06",
@@ -144,6 +144,15 @@
    "to": "buy",
    "score_from": 75,
    "score_to": 75
+  },
+  {
+   "d": "2026-11-06",
+   "symbol": "TEP.PA",
+   "horizon": "long",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 48,
+   "score_to": 48
   },
   {
    "d": "2026-11-06",
@@ -401,8 +410,8 @@
    "d": "2026-11-06",
    "symbol": "LII",
    "horizon": "short",
-   "from": "hold",
-   "to": "avoid",
+   "from": "avoid",
+   "to": "hold",
    "score_from": 30,
    "score_to": 30
   },
@@ -567,6 +576,15 @@
    "to": "hold",
    "score_from": 83,
    "score_to": 83
+  },
+  {
+   "d": "2026-11-06",
+   "symbol": "GF.SW",
+   "horizon": "long",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 75,
+   "score_to": 32
   },
   {
    "d": "2026-11-06",
