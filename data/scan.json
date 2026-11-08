@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T12:51:44Z",
+ "generated_at": "2026-11-08T13:14:22Z",
  "disclaimer": "Keine Anlageberatung. Alle Angaben ohne Gewähr.",
  "schema_version": 5,
  "count": 572,
@@ -70,10 +70,12 @@
    "data_warnings": [],
    "short": {
     "score": 89,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 32,
+    "score": 39,
+    "pct": 3,
     "signal": "avoid"
    }
   },
@@ -122,11 +124,13 @@
    "data_warnings": [],
    "short": {
     "score": 88,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 64,
-    "signal": "hold"
+    "score": 75,
+    "pct": 91,
+    "signal": "buy"
    }
   },
   {
@@ -174,10 +178,12 @@
    "data_warnings": [],
    "short": {
     "score": 87,
+    "pct": 98,
     "signal": "buy"
    },
    "long": {
-    "score": 79,
+    "score": 76,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -226,11 +232,13 @@
    "data_warnings": [],
    "short": {
     "score": 87,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 61,
-    "signal": "hold"
+    "score": 72,
+    "pct": 88,
+    "signal": "buy"
    }
   },
   {
@@ -278,11 +286,13 @@
    "data_warnings": [],
    "short": {
     "score": 86,
+    "pct": 99,
     "signal": "buy"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 31,
+    "pct": 4,
+    "signal": "avoid"
    }
   },
   {
@@ -330,10 +340,12 @@
    "data_warnings": [],
    "short": {
     "score": 85,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 79,
+    "score": 75,
+    "pct": 94,
     "signal": "buy"
    }
   },
@@ -382,11 +394,13 @@
    "data_warnings": [],
    "short": {
     "score": 84,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 83,
+    "pct": 83,
+    "signal": "hold"
    }
   },
   {
@@ -434,11 +448,13 @@
    "data_warnings": [],
    "short": {
     "score": 84,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 78,
-    "signal": "buy"
+    "score": 75,
+    "pct": 52,
+    "signal": "hold"
    }
   },
   {
@@ -486,11 +502,13 @@
    "data_warnings": [],
    "short": {
     "score": 84,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 43,
-    "signal": "hold"
+    "score": 31,
+    "pct": 6,
+    "signal": "avoid"
    }
   },
   {
@@ -543,10 +561,12 @@
    "data_warnings": [],
    "short": {
     "score": 83,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 64,
+    "score": 57,
+    "pct": 48,
     "signal": "hold"
    }
   },
@@ -595,10 +615,12 @@
    "data_warnings": [],
    "short": {
     "score": 83,
+    "pct": 99,
     "signal": "buy"
    },
    "long": {
-    "score": 63,
+    "score": 75,
+    "pct": 51,
     "signal": "hold"
    }
   },
@@ -647,10 +669,12 @@
    "data_warnings": [],
    "short": {
     "score": 83,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 25,
+    "score": 32,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -699,10 +723,12 @@
    "data_warnings": [],
    "short": {
     "score": 81,
+    "pct": 96,
     "signal": "buy"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 49,
     "signal": "hold"
    }
   },
@@ -751,10 +777,12 @@
    "data_warnings": [],
    "short": {
     "score": 81,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 45,
+    "score": 53,
+    "pct": 21,
     "signal": "hold"
    }
   },
@@ -808,10 +836,12 @@
    "data_warnings": [],
    "short": {
     "score": 80,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 78,
+    "score": 75,
+    "pct": 94,
     "signal": "buy"
    }
   },
@@ -860,10 +890,12 @@
    "data_warnings": [],
    "short": {
     "score": 80,
+    "pct": 94,
     "signal": "buy"
    },
    "long": {
-    "score": 64,
+    "score": 58,
+    "pct": 51,
     "signal": "hold"
    }
   },
@@ -912,10 +944,12 @@
    "data_warnings": [],
    "short": {
     "score": 80,
+    "pct": 96,
     "signal": "buy"
    },
    "long": {
-    "score": 85,
+    "score": 82,
+    "pct": 96,
     "signal": "buy"
    }
   },
@@ -964,11 +998,13 @@
    "data_warnings": [],
    "short": {
     "score": 80,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 56,
+    "pct": 38,
+    "signal": "hold"
    }
   },
   {
@@ -1016,11 +1052,13 @@
    "data_warnings": [],
    "short": {
     "score": 78,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 43,
+    "pct": 7,
+    "signal": "avoid"
    }
   },
   {
@@ -1068,10 +1106,12 @@
    "data_warnings": [],
    "short": {
     "score": 77,
+    "pct": 96,
     "signal": "buy"
    },
    "long": {
-    "score": 24,
+    "score": 30,
+    "pct": 4,
     "signal": "avoid"
    }
   },
@@ -1120,11 +1160,13 @@
    "data_warnings": [],
    "short": {
     "score": 76,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 81,
+    "pct": 81,
+    "signal": "hold"
    }
   },
   {
@@ -1172,11 +1214,13 @@
    "data_warnings": [],
    "short": {
     "score": 75,
+    "pct": 99,
     "signal": "buy"
    },
    "long": {
-    "score": 80,
-    "signal": "buy"
+    "score": 76,
+    "pct": 67,
+    "signal": "hold"
    }
   },
   {
@@ -1224,11 +1268,13 @@
    "data_warnings": [],
    "short": {
     "score": 75,
+    "pct": 98,
     "signal": "buy"
    },
    "long": {
-    "score": 81,
-    "signal": "buy"
+    "score": 78,
+    "pct": 63,
+    "signal": "hold"
    }
   },
   {
@@ -1276,11 +1322,13 @@
    "data_warnings": [],
    "short": {
     "score": 75,
+    "pct": 93,
     "signal": "buy"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 54,
+    "pct": 37,
+    "signal": "hold"
    }
   },
   {
@@ -1328,11 +1376,13 @@
    "data_warnings": [],
    "short": {
     "score": 75,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 77,
+    "pct": 74,
+    "signal": "hold"
    }
   },
   {
@@ -1380,10 +1430,12 @@
    "data_warnings": [],
    "short": {
     "score": 75,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 43,
     "signal": "hold"
    }
   },
@@ -1432,11 +1484,13 @@
    "data_warnings": [],
    "short": {
     "score": 75,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 58,
+    "pct": 14,
+    "signal": "avoid"
    }
   },
   {
@@ -1484,10 +1538,12 @@
    "data_warnings": [],
    "short": {
     "score": 75,
+    "pct": 94,
     "signal": "buy"
    },
    "long": {
-    "score": 81,
+    "score": 78,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -1536,11 +1592,13 @@
    "data_warnings": [],
    "short": {
     "score": 74,
+    "pct": 90,
     "signal": "buy"
    },
    "long": {
-    "score": 45,
-    "signal": "hold"
+    "score": 30,
+    "pct": 1,
+    "signal": "avoid"
    }
   },
   {
@@ -1593,10 +1651,12 @@
    "data_warnings": [],
    "short": {
     "score": 74,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 52,
+    "score": 61,
+    "pct": 52,
     "signal": "hold"
    }
   },
@@ -1650,10 +1710,12 @@
    "data_warnings": [],
    "short": {
     "score": 74,
+    "pct": 95,
     "signal": "buy"
    },
    "long": {
-    "score": 43,
+    "score": 51,
+    "pct": 27,
     "signal": "hold"
    }
   },
@@ -1702,11 +1764,13 @@
    "data_warnings": [],
    "short": {
     "score": 74,
+    "pct": 93,
     "signal": "buy"
    },
    "long": {
-    "score": 50,
-    "signal": "hold"
+    "score": 41,
+    "pct": 7,
+    "signal": "avoid"
    }
   },
   {
@@ -1759,11 +1823,13 @@
    "data_warnings": [],
    "short": {
     "score": 73,
+    "pct": 100,
     "signal": "buy"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 61,
+    "pct": 40,
+    "signal": "hold"
    }
   },
   {
@@ -1811,10 +1877,12 @@
    "data_warnings": [],
    "short": {
     "score": 73,
+    "pct": 99,
     "signal": "buy"
    },
    "long": {
-    "score": 64,
+    "score": 57,
+    "pct": 22,
     "signal": "hold"
    }
   },
@@ -1863,10 +1931,12 @@
    "data_warnings": [],
    "short": {
     "score": 73,
+    "pct": 88,
     "signal": "buy"
    },
    "long": {
-    "score": 61,
+    "score": 53,
+    "pct": 31,
     "signal": "hold"
    }
   },
@@ -1915,11 +1985,13 @@
    "data_warnings": [],
    "short": {
     "score": 73,
+    "pct": 94,
     "signal": "buy"
    },
    "long": {
-    "score": 61,
-    "signal": "hold"
+    "score": 71,
+    "pct": 87,
+    "signal": "buy"
    }
   },
   {
@@ -1967,11 +2039,13 @@
    "data_warnings": [],
    "short": {
     "score": 73,
+    "pct": 98,
     "signal": "buy"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 54,
+    "pct": 10,
+    "signal": "avoid"
    }
   },
   {
@@ -2024,10 +2098,12 @@
    "data_warnings": [],
    "short": {
     "score": 72,
+    "pct": 87,
     "signal": "buy"
    },
    "long": {
-    "score": 55,
+    "score": 47,
+    "pct": 18,
     "signal": "hold"
    }
   },
@@ -2076,10 +2152,12 @@
    "data_warnings": [],
    "short": {
     "score": 72,
-    "signal": "buy"
+    "pct": 85,
+    "signal": "hold"
    },
    "long": {
-    "score": 52,
+    "score": 44,
+    "pct": 15,
     "signal": "hold"
    }
   },
@@ -2128,10 +2206,12 @@
    "data_warnings": [],
    "short": {
     "score": 72,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 63,
+    "score": 57,
+    "pct": 21,
     "signal": "hold"
    }
   },
@@ -2180,10 +2260,12 @@
    "data_warnings": [],
    "short": {
     "score": 72,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 47,
+    "score": 56,
+    "pct": 40,
     "signal": "hold"
    }
   },
@@ -2232,10 +2314,12 @@
    "data_warnings": [],
    "short": {
     "score": 72,
-    "signal": "buy"
+    "pct": 84,
+    "signal": "hold"
    },
    "long": {
-    "score": 64,
+    "score": 58,
+    "pct": 50,
     "signal": "hold"
    }
   },
@@ -2284,10 +2368,12 @@
    "data_warnings": [],
    "short": {
     "score": 71,
-    "signal": "buy"
+    "pct": 82,
+    "signal": "hold"
    },
    "long": {
-    "score": 60,
+    "score": 53,
+    "pct": 32,
     "signal": "hold"
    }
   },
@@ -2336,11 +2422,13 @@
    "data_warnings": [],
    "short": {
     "score": 70,
+    "pct": 90,
     "signal": "buy"
    },
    "long": {
-    "score": 49,
-    "signal": "hold"
+    "score": 40,
+    "pct": 3,
+    "signal": "avoid"
    }
   },
   {
@@ -2388,10 +2476,12 @@
    "data_warnings": [],
    "short": {
     "score": 70,
+    "pct": 92,
     "signal": "buy"
    },
    "long": {
-    "score": 65,
+    "score": 82,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -2440,11 +2530,13 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 94,
     "signal": "buy"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 60,
+    "pct": 36,
+    "signal": "hold"
    }
   },
   {
@@ -2492,10 +2584,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 98,
     "signal": "buy"
    },
    "long": {
-    "score": 63,
+    "score": 56,
+    "pct": 17,
     "signal": "hold"
    }
   },
@@ -2544,11 +2638,13 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 90,
     "signal": "buy"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 81,
+    "signal": "hold"
    }
   },
   {
@@ -2596,11 +2692,13 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 89,
     "signal": "buy"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 77,
+    "signal": "hold"
    }
   },
   {
@@ -2648,10 +2746,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 95,
     "signal": "buy"
    },
    "long": {
-    "score": 67,
+    "score": 78,
+    "pct": 93,
     "signal": "buy"
    }
   },
@@ -2705,10 +2805,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 96,
     "signal": "buy"
    },
    "long": {
-    "score": 61,
+    "score": 72,
+    "pct": 43,
     "signal": "hold"
    }
   },
@@ -2757,11 +2859,13 @@
    "data_warnings": [],
    "short": {
     "score": 69,
-    "signal": "buy"
+    "pct": 86,
+    "signal": "hold"
    },
    "long": {
-    "score": 42,
-    "signal": "hold"
+    "score": 30,
+    "pct": 3,
+    "signal": "avoid"
    }
   },
   {
@@ -2809,10 +2913,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 94,
     "signal": "buy"
    },
    "long": {
-    "score": 62,
+    "score": 73,
+    "pct": 80,
     "signal": "hold"
    }
   },
@@ -2866,10 +2972,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
-    "signal": "buy"
+    "pct": 83,
+    "signal": "hold"
    },
    "long": {
-    "score": 53,
+    "score": 62,
+    "pct": 54,
     "signal": "hold"
    }
   },
@@ -2918,10 +3026,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 49,
+    "score": 57,
+    "pct": 57,
     "signal": "hold"
    }
   },
@@ -2970,10 +3080,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
-    "signal": "buy"
+    "pct": 81,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 50,
+    "pct": 25,
     "signal": "hold"
    }
   },
@@ -3022,10 +3134,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 89,
     "signal": "buy"
    },
    "long": {
-    "score": 40,
+    "score": 47,
+    "pct": 16,
     "signal": "hold"
    }
   },
@@ -3074,10 +3188,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 95,
     "signal": "buy"
    },
    "long": {
-    "score": 89,
+    "score": 87,
+    "pct": 92,
     "signal": "buy"
    }
   },
@@ -3126,10 +3242,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 87,
     "signal": "buy"
    },
    "long": {
-    "score": 55,
+    "score": 65,
+    "pct": 52,
     "signal": "hold"
    }
   },
@@ -3178,11 +3296,13 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 93,
     "signal": "buy"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 59,
+    "pct": 28,
+    "signal": "hold"
    }
   },
   {
@@ -3230,10 +3350,12 @@
    "data_warnings": [],
    "short": {
     "score": 69,
+    "pct": 87,
     "signal": "buy"
    },
    "long": {
-    "score": 44,
+    "score": 54,
+    "pct": 34,
     "signal": "hold"
    }
   },
@@ -3287,10 +3409,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 79,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 50,
+    "pct": 26,
     "signal": "hold"
    }
   },
@@ -3339,11 +3463,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 78,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 61,
+    "pct": 66,
+    "signal": "hold"
    }
   },
   {
@@ -3391,10 +3517,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 85,
+    "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 66,
+    "pct": 73,
     "signal": "hold"
    }
   },
@@ -3443,11 +3571,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 84,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 60,
+    "pct": 50,
+    "signal": "hold"
    }
   },
   {
@@ -3495,11 +3625,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 82,
+    "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 71,
+    "signal": "hold"
    }
   },
   {
@@ -3552,11 +3684,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 97,
     "signal": "buy"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 64,
+    "pct": 36,
+    "signal": "hold"
    }
   },
   {
@@ -3609,10 +3743,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 80,
+    "signal": "hold"
    },
    "long": {
-    "score": 53,
+    "score": 45,
+    "pct": 17,
     "signal": "hold"
    }
   },
@@ -3661,11 +3797,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 76,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
-    "signal": "hold"
+    "score": 73,
+    "pct": 90,
+    "signal": "buy"
    }
   },
   {
@@ -3713,10 +3851,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 75,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 49,
+    "pct": 24,
     "signal": "hold"
    }
   },
@@ -3765,11 +3905,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 92,
     "signal": "buy"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 59,
+    "pct": 30,
+    "signal": "hold"
    }
   },
   {
@@ -3817,10 +3959,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 81,
+    "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 52,
+    "pct": 29,
     "signal": "hold"
    }
   },
@@ -3869,10 +4013,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 59,
+    "score": 70,
+    "pct": 74,
     "signal": "hold"
    }
   },
@@ -3921,11 +4067,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 95,
     "signal": "buy"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 58,
+    "pct": 21,
+    "signal": "hold"
    }
   },
   {
@@ -3973,11 +4121,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 94,
     "signal": "buy"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 62,
+    "pct": 28,
+    "signal": "hold"
    }
   },
   {
@@ -4030,11 +4180,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 90,
     "signal": "buy"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 70,
+    "pct": 72,
+    "signal": "hold"
    }
   },
   {
@@ -4082,11 +4234,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 93,
     "signal": "buy"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 81,
+    "pct": 76,
+    "signal": "hold"
    }
   },
   {
@@ -4134,11 +4288,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 74,
+    "signal": "hold"
    },
    "long": {
-    "score": 41,
-    "signal": "hold"
+    "score": 28,
+    "pct": 0,
+    "signal": "avoid"
    }
   },
   {
@@ -4191,10 +4347,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 77,
+    "signal": "hold"
    },
    "long": {
-    "score": 15,
+    "score": 18,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -4243,10 +4401,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 79,
+    "signal": "hold"
    },
    "long": {
-    "score": 33,
+    "score": 42,
+    "pct": 10,
     "signal": "avoid"
    }
   },
@@ -4295,10 +4455,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 77,
+    "signal": "hold"
    },
    "long": {
-    "score": 33,
+    "score": 39,
+    "pct": 5,
     "signal": "avoid"
    }
   },
@@ -4352,11 +4514,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 92,
     "signal": "buy"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 70,
+    "pct": 33,
+    "signal": "hold"
    }
   },
   {
@@ -4404,11 +4568,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 76,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 66,
+    "signal": "hold"
    }
   },
   {
@@ -4456,10 +4622,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 74,
+    "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 53,
+    "pct": 31,
     "signal": "hold"
    }
   },
@@ -4508,10 +4676,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 87,
     "signal": "buy"
    },
    "long": {
-    "score": 53,
+    "score": 45,
+    "pct": 17,
     "signal": "hold"
    }
   },
@@ -4560,10 +4730,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 74,
+    "signal": "hold"
    },
    "long": {
-    "score": 52,
+    "score": 42,
+    "pct": 14,
     "signal": "hold"
    }
   },
@@ -4612,11 +4784,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 72,
+    "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 76,
+    "signal": "hold"
    }
   },
   {
@@ -4664,11 +4838,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 71,
+    "signal": "hold"
    },
    "long": {
-    "score": 51,
-    "signal": "hold"
+    "score": 43,
+    "pct": 13,
+    "signal": "avoid"
    }
   },
   {
@@ -4716,10 +4892,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 89,
     "signal": "buy"
    },
    "long": {
-    "score": 59,
+    "score": 70,
+    "pct": 71,
     "signal": "hold"
    }
   },
@@ -4768,11 +4946,13 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 87,
     "signal": "buy"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 59,
+    "pct": 26,
+    "signal": "hold"
    }
   },
   {
@@ -4820,10 +5000,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 86,
+    "signal": "hold"
    },
    "long": {
-    "score": 42,
+    "score": 49,
+    "pct": 14,
     "signal": "hold"
    }
   },
@@ -4872,10 +5054,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
-    "signal": "buy"
+    "pct": 69,
+    "signal": "hold"
    },
    "long": {
-    "score": 85,
+    "score": 83,
+    "pct": 99,
     "signal": "buy"
    }
   },
@@ -4924,10 +5108,12 @@
    "data_warnings": [],
    "short": {
     "score": 68,
+    "pct": 86,
     "signal": "buy"
    },
    "long": {
-    "score": 64,
+    "score": 57,
+    "pct": 20,
     "signal": "hold"
    }
   },
@@ -4976,10 +5162,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 93,
     "signal": "buy"
    },
    "long": {
-    "score": 63,
+    "score": 56,
+    "pct": 19,
     "signal": "hold"
    }
   },
@@ -5028,11 +5216,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 63,
+    "pct": 21,
+    "signal": "hold"
    }
   },
   {
@@ -5080,11 +5270,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 90,
     "signal": "buy"
    },
    "long": {
-    "score": 79,
-    "signal": "buy"
+    "score": 75,
+    "pct": 54,
+    "signal": "hold"
    }
   },
   {
@@ -5137,11 +5329,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 85,
+    "signal": "hold"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 59,
+    "pct": 31,
+    "signal": "hold"
    }
   },
   {
@@ -5189,10 +5383,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 73,
+    "signal": "hold"
    },
    "long": {
-    "score": 63,
+    "score": 57,
+    "pct": 42,
     "signal": "hold"
    }
   },
@@ -5241,11 +5437,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 71,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 62,
+    "pct": 60,
+    "signal": "hold"
    }
   },
   {
@@ -5293,10 +5491,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 92,
     "signal": "buy"
    },
    "long": {
-    "score": 86,
+    "score": 84,
+    "pct": 88,
     "signal": "buy"
    }
   },
@@ -5345,11 +5545,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 83,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 61,
+    "pct": 59,
+    "signal": "hold"
    }
   },
   {
@@ -5397,10 +5599,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 79,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 49,
+    "pct": 21,
     "signal": "hold"
    }
   },
@@ -5454,11 +5658,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 71,
+    "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 63,
+    "pct": 61,
+    "signal": "hold"
    }
   },
   {
@@ -5506,10 +5712,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 69,
+    "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 55,
+    "pct": 37,
     "signal": "hold"
    }
   },
@@ -5558,10 +5766,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 83,
+    "signal": "hold"
    },
    "long": {
-    "score": 51,
+    "score": 60,
+    "pct": 35,
     "signal": "hold"
    }
   },
@@ -5610,10 +5820,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 68,
+    "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 52,
+    "pct": 28,
     "signal": "hold"
    }
   },
@@ -5662,10 +5874,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 83,
+    "signal": "hold"
    },
    "long": {
-    "score": 45,
+    "score": 53,
+    "pct": 39,
     "signal": "hold"
    }
   },
@@ -5714,10 +5928,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 78,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 49,
+    "pct": 30,
     "signal": "hold"
    }
   },
@@ -5766,11 +5982,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 84,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
-    "signal": "hold"
+    "score": 51,
+    "pct": 6,
+    "signal": "avoid"
    }
   },
   {
@@ -5823,11 +6041,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 69,
+    "signal": "hold"
    },
    "long": {
-    "score": 53,
-    "signal": "hold"
+    "score": 45,
+    "pct": 13,
+    "signal": "avoid"
    }
   },
   {
@@ -5875,11 +6095,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 55,
+    "signal": "hold"
    }
   },
   {
@@ -5927,11 +6149,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 88,
     "signal": "buy"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 65,
+    "pct": 52,
+    "signal": "hold"
    }
   },
   {
@@ -5979,10 +6203,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 66,
+    "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 47,
+    "pct": 23,
     "signal": "hold"
    }
   },
@@ -6031,11 +6257,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 91,
     "signal": "buy"
    },
    "long": {
-    "score": 61,
-    "signal": "hold"
+    "score": 54,
+    "pct": 13,
+    "signal": "avoid"
    }
   },
   {
@@ -6083,10 +6311,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 85,
+    "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 52,
+    "pct": 15,
     "signal": "hold"
    }
   },
@@ -6135,11 +6365,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 66,
+    "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 59,
+    "pct": 57,
+    "signal": "hold"
    }
   },
   {
@@ -6187,10 +6419,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 68,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 50,
+    "pct": 23,
     "signal": "hold"
    }
   },
@@ -6244,10 +6478,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 63,
+    "signal": "hold"
    },
    "long": {
-    "score": 34,
+    "score": 40,
+    "pct": 11,
     "signal": "avoid"
    }
   },
@@ -6296,11 +6532,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 83,
+    "signal": "hold"
    },
    "long": {
-    "score": 56,
-    "signal": "hold"
+    "score": 48,
+    "pct": 3,
+    "signal": "avoid"
    }
   },
   {
@@ -6348,11 +6586,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 60,
+    "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 71,
+    "pct": 83,
+    "signal": "hold"
    }
   },
   {
@@ -6400,10 +6640,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 57,
+    "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 47,
+    "pct": 20,
     "signal": "hold"
    }
   },
@@ -6452,10 +6694,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 65,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
+    "score": 71,
+    "pct": 87,
     "signal": "buy"
    }
   },
@@ -6504,10 +6748,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 66,
+    "signal": "hold"
    },
    "long": {
-    "score": 48,
+    "score": 57,
+    "pct": 40,
     "signal": "hold"
    }
   },
@@ -6561,11 +6807,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 90,
     "signal": "buy"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 38,
+    "signal": "hold"
    }
   },
   {
@@ -6618,11 +6866,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 82,
+    "signal": "hold"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 69,
+    "pct": 69,
+    "signal": "hold"
    }
   },
   {
@@ -6670,11 +6920,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 88,
     "signal": "buy"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 60,
+    "pct": 23,
+    "signal": "hold"
    }
   },
   {
@@ -6722,10 +6974,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 54,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
+    "score": 73,
+    "pct": 89,
     "signal": "buy"
    }
   },
@@ -6774,11 +7028,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 80,
+    "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 60,
+    "pct": 34,
+    "signal": "hold"
    }
   },
   {
@@ -6826,11 +7082,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 87,
     "signal": "buy"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 68,
+    "pct": 45,
+    "signal": "hold"
    }
   },
   {
@@ -6878,11 +7136,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 89,
     "signal": "buy"
    },
    "long": {
-    "score": 53,
-    "signal": "hold"
+    "score": 45,
+    "pct": 3,
+    "signal": "avoid"
    }
   },
   {
@@ -6930,10 +7190,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 65,
+    "signal": "hold"
    },
    "long": {
-    "score": 49,
+    "score": 57,
+    "pct": 39,
     "signal": "hold"
    }
   },
@@ -6982,10 +7244,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 51,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 71,
     "signal": "hold"
    }
   },
@@ -7034,10 +7298,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 63,
+    "signal": "hold"
    },
    "long": {
-    "score": 91,
+    "score": 89,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -7086,10 +7352,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 62,
+    "signal": "hold"
    },
    "long": {
-    "score": 60,
+    "score": 53,
+    "pct": 29,
     "signal": "hold"
    }
   },
@@ -7138,11 +7406,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
+    "pct": 86,
     "signal": "buy"
    },
    "long": {
-    "score": 61,
-    "signal": "hold"
+    "score": 53,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -7190,11 +7460,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 63,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 62,
+    "pct": 56,
+    "signal": "hold"
    }
   },
   {
@@ -7242,11 +7514,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 79,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
-    "signal": "hold"
+    "score": 50,
+    "pct": 5,
+    "signal": "avoid"
    }
   },
   {
@@ -7294,10 +7568,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 76,
+    "signal": "hold"
    },
    "long": {
-    "score": 54,
+    "score": 65,
+    "pct": 76,
     "signal": "hold"
    }
   },
@@ -7346,10 +7622,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 74,
+    "signal": "hold"
    },
    "long": {
-    "score": 54,
+    "score": 46,
+    "pct": 22,
     "signal": "hold"
    }
   },
@@ -7398,11 +7676,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 78,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 61,
+    "pct": 37,
+    "signal": "hold"
    }
   },
   {
@@ -7450,11 +7730,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 82,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
-    "signal": "buy"
+    "score": 73,
+    "pct": 82,
+    "signal": "hold"
    }
   },
   {
@@ -7502,11 +7784,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 49,
+    "signal": "hold"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 36,
+    "pct": 6,
+    "signal": "avoid"
    }
   },
   {
@@ -7554,11 +7838,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 85,
+    "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 40,
+    "signal": "hold"
    }
   },
   {
@@ -7606,10 +7892,12 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 60,
+    "signal": "hold"
    },
    "long": {
-    "score": 60,
+    "score": 54,
+    "pct": 35,
     "signal": "hold"
    }
   },
@@ -7658,11 +7946,13 @@
    "data_warnings": [],
    "short": {
     "score": 67,
-    "signal": "buy"
+    "pct": 84,
+    "signal": "hold"
    },
    "long": {
-    "score": 73,
-    "signal": "buy"
+    "score": 68,
+    "pct": 43,
+    "signal": "hold"
    }
   },
   {
@@ -7715,11 +8005,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
+    "pct": 88,
     "signal": "buy"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 71,
+    "pct": 39,
+    "signal": "hold"
    }
   },
   {
@@ -7767,11 +8059,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 83,
+    "signal": "hold"
    },
    "long": {
-    "score": 60,
-    "signal": "hold"
+    "score": 53,
+    "pct": 12,
+    "signal": "avoid"
    }
   },
   {
@@ -7819,11 +8113,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 81,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 72,
+    "pct": 58,
+    "signal": "hold"
    }
   },
   {
@@ -7871,11 +8167,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 77,
+    "signal": "hold"
    },
    "long": {
-    "score": 73,
-    "signal": "buy"
+    "score": 68,
+    "pct": 67,
+    "signal": "hold"
    }
   },
   {
@@ -7923,11 +8221,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 80,
+    "signal": "hold"
    },
    "long": {
-    "score": 42,
-    "signal": "hold"
+    "score": 32,
+    "pct": 0,
+    "signal": "avoid"
    }
   },
   {
@@ -7975,10 +8275,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 79,
+    "signal": "hold"
    },
    "long": {
-    "score": 78,
+    "score": 74,
+    "pct": 88,
     "signal": "buy"
    }
   },
@@ -8027,11 +8329,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 59,
+    "signal": "hold"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 59,
+    "pct": 59,
+    "signal": "hold"
    }
   },
   {
@@ -8079,11 +8383,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
+    "pct": 87,
     "signal": "buy"
    },
    "long": {
-    "score": 58,
-    "signal": "hold"
+    "score": 51,
+    "pct": 10,
+    "signal": "avoid"
    }
   },
   {
@@ -8136,10 +8442,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 79,
+    "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 64,
+    "pct": 35,
     "signal": "hold"
    }
   },
@@ -8188,11 +8496,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 78,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 62,
+    "pct": 29,
+    "signal": "hold"
    }
   },
   {
@@ -8240,10 +8550,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 70,
+    "signal": "hold"
    },
    "long": {
-    "score": 91,
+    "score": 90,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -8292,11 +8604,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 77,
+    "signal": "hold"
    },
    "long": {
-    "score": 59,
-    "signal": "hold"
+    "score": 51,
+    "pct": 7,
+    "signal": "avoid"
    }
   },
   {
@@ -8344,10 +8658,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 61,
+    "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 47,
+    "pct": 18,
     "signal": "hold"
    }
   },
@@ -8401,10 +8717,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 76,
+    "signal": "hold"
    },
    "long": {
-    "score": 39,
+    "score": 46,
+    "pct": 9,
     "signal": "avoid"
    }
   },
@@ -8458,10 +8776,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 46,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 51,
+    "pct": 26,
     "signal": "hold"
    }
   },
@@ -8510,10 +8830,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 76,
+    "signal": "hold"
    },
    "long": {
-    "score": 47,
+    "score": 55,
+    "pct": 17,
     "signal": "hold"
    }
   },
@@ -8562,11 +8884,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 60,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 79,
+    "signal": "hold"
    }
   },
   {
@@ -8614,11 +8938,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 73,
+    "signal": "hold"
    },
    "long": {
-    "score": 73,
-    "signal": "buy"
+    "score": 68,
+    "pct": 61,
+    "signal": "hold"
    }
   },
   {
@@ -8666,11 +8992,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 43,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 63,
+    "signal": "hold"
    }
   },
   {
@@ -8718,11 +9046,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 57,
+    "signal": "hold"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 70,
+    "pct": 85,
+    "signal": "hold"
    }
   },
   {
@@ -8770,11 +9100,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 56,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 75,
+    "signal": "hold"
    }
   },
   {
@@ -8822,10 +9154,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 65,
+    "signal": "hold"
    },
    "long": {
-    "score": 56,
+    "score": 48,
+    "pct": 26,
     "signal": "hold"
    }
   },
@@ -8874,11 +9208,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 75,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 68,
+    "pct": 64,
+    "signal": "hold"
    }
   },
   {
@@ -8926,10 +9262,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 70,
+    "signal": "hold"
    },
    "long": {
-    "score": 38,
+    "score": 45,
+    "pct": 6,
     "signal": "avoid"
    }
   },
@@ -8978,11 +9316,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 74,
+    "signal": "hold"
    },
    "long": {
-    "score": 60,
-    "signal": "hold"
+    "score": 53,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -9030,11 +9370,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 76,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
-    "signal": "buy"
+    "score": 75,
+    "pct": 66,
+    "signal": "hold"
    }
   },
   {
@@ -9082,11 +9424,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
+    "pct": 86,
     "signal": "buy"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 72,
+    "pct": 45,
+    "signal": "hold"
    }
   },
   {
@@ -9134,11 +9478,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 85,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
-    "signal": "buy"
+    "score": 76,
+    "pct": 58,
+    "signal": "hold"
    }
   },
   {
@@ -9186,11 +9532,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 72,
+    "signal": "hold"
    },
    "long": {
-    "score": 50,
-    "signal": "hold"
+    "score": 41,
+    "pct": 1,
+    "signal": "avoid"
    }
   },
   {
@@ -9238,11 +9586,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 71,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 68,
+    "pct": 63,
+    "signal": "hold"
    }
   },
   {
@@ -9290,11 +9640,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 58,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 65,
+    "signal": "hold"
    }
   },
   {
@@ -9342,11 +9694,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 70,
+    "signal": "hold"
    },
    "long": {
-    "score": 45,
-    "signal": "hold"
+    "score": 53,
+    "pct": 8,
+    "signal": "avoid"
    }
   },
   {
@@ -9394,11 +9748,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 74,
+    "signal": "hold"
    },
    "long": {
-    "score": 79,
-    "signal": "buy"
+    "score": 75,
+    "pct": 65,
+    "signal": "hold"
    }
   },
   {
@@ -9446,10 +9802,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 54,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 49,
+    "pct": 22,
     "signal": "hold"
    }
   },
@@ -9498,10 +9856,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 53,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 49,
+    "pct": 21,
     "signal": "hold"
    }
   },
@@ -9550,10 +9910,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 69,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 16,
     "signal": "hold"
    }
   },
@@ -9602,11 +9964,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 84,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
-    "signal": "buy"
+    "score": 73,
+    "pct": 47,
+    "signal": "hold"
    }
   },
   {
@@ -9654,10 +10018,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 73,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 73,
+    "pct": 59,
     "signal": "hold"
    }
   },
@@ -9711,11 +10077,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 67,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 71,
+    "pct": 73,
+    "signal": "hold"
    }
   },
   {
@@ -9763,10 +10131,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 68,
+    "signal": "hold"
    },
    "long": {
-    "score": 79,
+    "score": 76,
+    "pct": 89,
     "signal": "buy"
    }
   },
@@ -9815,10 +10185,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 51,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
+    "score": 76,
+    "pct": 93,
     "signal": "buy"
    }
   },
@@ -9867,11 +10239,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 72,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 34,
+    "signal": "hold"
    }
   },
   {
@@ -9919,11 +10293,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 71,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
-    "signal": "buy"
+    "score": 77,
+    "pct": 71,
+    "signal": "hold"
    }
   },
   {
@@ -9971,10 +10347,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 64,
+    "signal": "hold"
    },
    "long": {
-    "score": 79,
+    "score": 75,
+    "pct": 91,
     "signal": "buy"
    }
   },
@@ -10028,10 +10406,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 61,
+    "signal": "hold"
    },
    "long": {
-    "score": 54,
+    "score": 64,
+    "pct": 48,
     "signal": "hold"
    }
   },
@@ -10080,10 +10460,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 56,
+    "signal": "hold"
    },
    "long": {
-    "score": 34,
+    "score": 40,
+    "pct": 6,
     "signal": "avoid"
    }
   },
@@ -10137,10 +10519,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 72,
+    "signal": "hold"
    },
    "long": {
-    "score": 56,
+    "score": 65,
+    "pct": 79,
     "signal": "hold"
    }
   },
@@ -10189,10 +10573,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 78,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 56,
+    "pct": 26,
     "signal": "hold"
    }
   },
@@ -10246,10 +10632,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 40,
+    "signal": "hold"
    },
    "long": {
-    "score": 63,
+    "score": 56,
+    "pct": 46,
     "signal": "hold"
    }
   },
@@ -10298,10 +10686,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 55,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 51,
+    "pct": 26,
     "signal": "hold"
    }
   },
@@ -10350,11 +10740,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 61,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 62,
+    "pct": 65,
+    "signal": "hold"
    }
   },
   {
@@ -10402,11 +10794,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 70,
+    "signal": "hold"
    },
    "long": {
-    "score": 58,
-    "signal": "hold"
+    "score": 50,
+    "pct": 5,
+    "signal": "avoid"
    }
   },
   {
@@ -10454,10 +10848,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 53,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
+    "score": 73,
+    "pct": 89,
     "signal": "buy"
    }
   },
@@ -10506,10 +10902,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 52,
+    "signal": "hold"
    },
    "long": {
-    "score": 41,
+    "score": 49,
+    "pct": 19,
     "signal": "hold"
    }
   },
@@ -10558,11 +10956,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 67,
+    "signal": "hold"
    },
    "long": {
-    "score": 61,
-    "signal": "hold"
+    "score": 54,
+    "pct": 11,
+    "signal": "avoid"
    }
   },
   {
@@ -10610,11 +11010,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 69,
+    "signal": "hold"
    },
    "long": {
-    "score": 73,
-    "signal": "buy"
+    "score": 69,
+    "pct": 48,
+    "signal": "hold"
    }
   },
   {
@@ -10667,10 +11069,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 37,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
+    "score": 77,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -10719,11 +11123,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 50,
+    "signal": "hold"
    },
    "long": {
-    "score": 53,
-    "signal": "hold"
+    "score": 45,
+    "pct": 11,
+    "signal": "avoid"
    }
   },
   {
@@ -10771,10 +11177,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 66,
+    "signal": "hold"
    },
    "long": {
-    "score": 51,
+    "score": 62,
+    "pct": 43,
     "signal": "hold"
    }
   },
@@ -10823,11 +11231,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 67,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 71,
+    "pct": 57,
+    "signal": "hold"
    }
   },
   {
@@ -10875,10 +11285,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 50,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 41,
     "signal": "hold"
    }
   },
@@ -10927,11 +11339,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 69,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 63,
+    "pct": 62,
+    "signal": "hold"
    }
   },
   {
@@ -10979,11 +11393,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 58,
+    "signal": "hold"
    },
    "long": {
-    "score": 78,
-    "signal": "buy"
+    "score": 74,
+    "pct": 85,
+    "signal": "hold"
    }
   },
   {
@@ -11031,10 +11447,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 48,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
+    "score": 76,
+    "pct": 95,
     "signal": "buy"
    }
   },
@@ -11083,10 +11501,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 47,
+    "signal": "hold"
    },
    "long": {
-    "score": 79,
+    "score": 75,
+    "pct": 94,
     "signal": "buy"
    }
   },
@@ -11135,11 +11555,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 66,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 63,
+    "pct": 31,
+    "signal": "hold"
    }
   },
   {
@@ -11187,11 +11609,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 34,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 61,
+    "pct": 49,
+    "signal": "hold"
    }
   },
   {
@@ -11239,10 +11663,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 45,
+    "signal": "hold"
    },
    "long": {
-    "score": 46,
+    "score": 54,
+    "pct": 32,
     "signal": "hold"
    }
   },
@@ -11296,11 +11722,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 44,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 62,
+    "pct": 55,
+    "signal": "hold"
    }
   },
   {
@@ -11348,10 +11776,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 42,
+    "signal": "hold"
    },
    "long": {
-    "score": 49,
+    "score": 58,
+    "pct": 44,
     "signal": "hold"
    }
   },
@@ -11400,10 +11830,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 49,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 54,
+    "pct": 34,
     "signal": "hold"
    }
   },
@@ -11452,11 +11884,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 31,
+    "signal": "hold"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 37,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -11504,10 +11938,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 47,
+    "signal": "hold"
    },
    "long": {
-    "score": 53,
+    "score": 45,
+    "pct": 16,
     "signal": "hold"
    }
   },
@@ -11556,11 +11992,13 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 65,
+    "signal": "hold"
    },
    "long": {
-    "score": 42,
-    "signal": "hold"
+    "score": 50,
+    "pct": 2,
+    "signal": "avoid"
    }
   },
   {
@@ -11608,10 +12046,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 57,
+    "signal": "hold"
    },
    "long": {
-    "score": 64,
+    "score": 56,
+    "pct": 48,
     "signal": "hold"
    }
   },
@@ -11660,10 +12100,12 @@
    "data_warnings": [],
    "short": {
     "score": 66,
-    "signal": "buy"
+    "pct": 64,
+    "signal": "hold"
    },
    "long": {
-    "score": 64,
+    "score": 57,
+    "pct": 20,
     "signal": "hold"
    }
   },
@@ -11717,10 +12159,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 63,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 56,
+    "pct": 16,
     "signal": "hold"
    }
   },
@@ -11774,11 +12218,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 62,
+    "signal": "hold"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 77,
+    "pct": 73,
+    "signal": "hold"
    }
   },
   {
@@ -11826,11 +12272,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 60,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
-    "signal": "buy"
+    "score": 73,
+    "pct": 60,
+    "signal": "hold"
    }
   },
   {
@@ -11878,10 +12326,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 40,
+    "signal": "hold"
    },
    "long": {
-    "score": 56,
+    "score": 67,
+    "pct": 76,
     "signal": "hold"
    }
   },
@@ -11930,10 +12380,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 55,
+    "signal": "hold"
    },
    "long": {
-    "score": 52,
+    "score": 61,
+    "pct": 39,
     "signal": "hold"
    }
   },
@@ -11982,11 +12434,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 52,
+    "signal": "hold"
    },
    "long": {
-    "score": 53,
-    "signal": "hold"
+    "score": 45,
+    "pct": 3,
+    "signal": "avoid"
    }
   },
   {
@@ -12034,11 +12488,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 48,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 72,
+    "pct": 79,
+    "signal": "hold"
    }
   },
   {
@@ -12086,10 +12542,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 64,
+    "signal": "hold"
    },
    "long": {
     "score": 37,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -12138,11 +12596,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 66,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 63,
+    "pct": 66,
+    "signal": "hold"
    }
   },
   {
@@ -12190,11 +12650,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 39,
+    "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 63,
+    "pct": 60,
+    "signal": "hold"
    }
   },
   {
@@ -12242,11 +12704,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 46,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 61,
+    "pct": 65,
+    "signal": "hold"
    }
   },
   {
@@ -12294,11 +12758,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 29,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 62,
+    "pct": 57,
+    "signal": "hold"
    }
   },
   {
@@ -12346,10 +12812,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 44,
+    "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 55,
+    "pct": 44,
     "signal": "hold"
    }
   },
@@ -12398,10 +12866,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 52,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 56,
+    "pct": 52,
     "signal": "hold"
    }
   },
@@ -12455,11 +12925,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 37,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 60,
+    "pct": 48,
+    "signal": "hold"
    }
   },
   {
@@ -12507,11 +12979,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 35,
+    "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 65,
+    "pct": 68,
+    "signal": "hold"
    }
   },
   {
@@ -12559,11 +13033,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 26,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 74,
+    "signal": "hold"
    }
   },
   {
@@ -12611,10 +13087,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 34,
+    "signal": "hold"
    },
    "long": {
-    "score": 54,
+    "score": 64,
+    "pct": 63,
     "signal": "hold"
    }
   },
@@ -12663,11 +13141,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 63,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 66,
+    "pct": 55,
+    "signal": "hold"
    }
   },
   {
@@ -12715,10 +13195,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 59,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 56,
+    "pct": 15,
     "signal": "hold"
    }
   },
@@ -12772,10 +13254,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 62,
+    "signal": "hold"
    },
    "long": {
-    "score": 47,
+    "score": 55,
+    "pct": 15,
     "signal": "hold"
    }
   },
@@ -12824,11 +13308,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 43,
+    "signal": "hold"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 59,
+    "pct": 56,
+    "signal": "hold"
    }
   },
   {
@@ -12876,11 +13362,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 83,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 63,
+    "pct": 20,
+    "signal": "hold"
    }
   },
   {
@@ -12933,10 +13421,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 62,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
+    "score": 66,
+    "pct": 90,
     "signal": "buy"
    }
   },
@@ -12985,11 +13475,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 58,
+    "signal": "hold"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 81,
+    "pct": 78,
+    "signal": "hold"
    }
   },
   {
@@ -13037,11 +13529,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 61,
+    "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 61,
+    "pct": 36,
+    "signal": "hold"
    }
   },
   {
@@ -13089,11 +13583,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 57,
+    "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 71,
+    "pct": 55,
+    "signal": "hold"
    }
   },
   {
@@ -13141,11 +13637,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 32,
+    "signal": "hold"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 59,
+    "pct": 45,
+    "signal": "hold"
    }
   },
   {
@@ -13198,10 +13696,12 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 60,
+    "signal": "hold"
    },
    "long": {
-    "score": 50,
+    "score": 58,
+    "pct": 24,
     "signal": "hold"
    }
   },
@@ -13250,11 +13750,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 48,
+    "signal": "hold"
    },
    "long": {
-    "score": 48,
-    "signal": "hold"
+    "score": 38,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -13302,11 +13804,13 @@
    "data_warnings": [],
    "short": {
     "score": 65,
-    "signal": "buy"
+    "pct": 74,
+    "signal": "hold"
    },
    "long": {
-    "score": 51,
-    "signal": "hold"
+    "score": 43,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -13354,11 +13858,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 56,
     "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 42,
+    "signal": "hold"
    }
   },
   {
@@ -13406,11 +13912,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 55,
     "signal": "hold"
    },
    "long": {
-    "score": 81,
-    "signal": "buy"
+    "score": 77,
+    "pct": 72,
+    "signal": "hold"
    }
   },
   {
@@ -13458,10 +13966,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 59,
     "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 65,
+    "pct": 86,
     "signal": "hold"
    }
   },
@@ -13510,10 +14020,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 31,
     "signal": "hold"
    },
    "long": {
-    "score": 67,
+    "score": 79,
+    "pct": 98,
     "signal": "buy"
    }
   },
@@ -13562,11 +14074,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 70,
     "signal": "hold"
    },
    "long": {
-    "score": 55,
-    "signal": "hold"
+    "score": 47,
+    "pct": 13,
+    "signal": "avoid"
    }
   },
   {
@@ -13619,11 +14133,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 59,
     "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 49,
+    "signal": "hold"
    }
   },
   {
@@ -13676,11 +14192,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 41,
     "signal": "hold"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 69,
+    "pct": 81,
+    "signal": "hold"
    }
   },
   {
@@ -13728,10 +14246,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 40,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 46,
     "signal": "hold"
    }
   },
@@ -13780,10 +14300,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 55,
     "signal": "hold"
    },
    "long": {
-    "score": 74,
+    "score": 69,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -13832,10 +14354,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 29,
     "signal": "hold"
    },
    "long": {
-    "score": 52,
+    "score": 63,
+    "pct": 58,
     "signal": "hold"
    }
   },
@@ -13884,10 +14408,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 52,
     "signal": "hold"
    },
    "long": {
-    "score": 60,
+    "score": 53,
+    "pct": 31,
     "signal": "hold"
    }
   },
@@ -13936,11 +14462,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 53,
     "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 63,
+    "pct": 33,
+    "signal": "hold"
    }
   },
   {
@@ -13988,11 +14516,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 82,
     "signal": "hold"
    },
    "long": {
-    "score": 82,
-    "signal": "buy"
+    "score": 79,
+    "pct": 64,
+    "signal": "hold"
    }
   },
   {
@@ -14040,10 +14570,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 48,
     "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 53,
+    "pct": 28,
     "signal": "hold"
    }
   },
@@ -14092,11 +14624,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 23,
     "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 66,
+    "signal": "hold"
    }
   },
   {
@@ -14144,11 +14678,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 27,
     "signal": "hold"
    },
    "long": {
-    "score": 39,
-    "signal": "avoid"
+    "score": 46,
+    "pct": 15,
+    "signal": "hold"
    }
   },
   {
@@ -14196,10 +14732,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 20,
     "signal": "hold"
    },
    "long": {
-    "score": 63,
+    "score": 56,
+    "pct": 43,
     "signal": "hold"
    }
   },
@@ -14248,11 +14786,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 52,
     "signal": "hold"
    },
    "long": {
-    "score": 57,
-    "signal": "hold"
+    "score": 50,
+    "pct": 3,
+    "signal": "avoid"
    }
   },
   {
@@ -14300,11 +14840,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 45,
     "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 70,
+    "pct": 70,
+    "signal": "hold"
    }
   },
   {
@@ -14352,10 +14894,12 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 17,
     "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 54,
+    "pct": 29,
     "signal": "hold"
    }
   },
@@ -14404,11 +14948,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 57,
     "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 47,
+    "signal": "hold"
    }
   },
   {
@@ -14456,11 +15002,13 @@
    "data_warnings": [],
    "short": {
     "score": 64,
+    "pct": 38,
     "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 59,
+    "pct": 54,
+    "signal": "hold"
    }
   },
   {
@@ -14508,10 +15056,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 45,
     "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 51,
+    "pct": 24,
     "signal": "hold"
    }
   },
@@ -14565,10 +15115,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 42,
     "signal": "hold"
    },
    "long": {
-    "score": 56,
+    "score": 66,
+    "pct": 58,
     "signal": "hold"
    }
   },
@@ -14617,10 +15169,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 56,
     "signal": "hold"
    },
    "long": {
-    "score": 50,
+    "score": 59,
+    "pct": 29,
     "signal": "hold"
    }
   },
@@ -14669,10 +15223,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 65,
     "signal": "hold"
    },
    "long": {
-    "score": 86,
+    "score": 84,
+    "pct": 91,
     "signal": "buy"
    }
   },
@@ -14721,11 +15277,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 61,
     "signal": "hold"
    },
    "long": {
-    "score": 86,
-    "signal": "buy"
+    "score": 83,
+    "pct": 78,
+    "signal": "hold"
    }
   },
   {
@@ -14773,10 +15331,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 26,
     "signal": "hold"
    },
    "long": {
-    "score": 77,
+    "score": 73,
+    "pct": 90,
     "signal": "buy"
    }
   },
@@ -14825,10 +15385,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 41,
     "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 65,
+    "pct": 83,
     "signal": "hold"
    }
   },
@@ -14877,10 +15439,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 55,
     "signal": "hold"
    },
    "long": {
-    "score": 80,
+    "score": 77,
+    "pct": 91,
     "signal": "buy"
    }
   },
@@ -14929,11 +15493,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 37,
     "signal": "hold"
    },
    "long": {
-    "score": 42,
-    "signal": "hold"
+    "score": 32,
+    "pct": 7,
+    "signal": "avoid"
    }
   },
   {
@@ -14981,10 +15547,12 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 38,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 34,
     "signal": "hold"
    }
   },
@@ -15033,11 +15601,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 54,
     "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 54,
+    "signal": "hold"
    }
   },
   {
@@ -15085,11 +15655,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 51,
     "signal": "hold"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 70,
+    "pct": 50,
+    "signal": "hold"
    }
   },
   {
@@ -15137,11 +15709,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 80,
     "signal": "hold"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 58,
+    "pct": 15,
+    "signal": "hold"
    }
   },
   {
@@ -15194,11 +15768,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 50,
     "signal": "hold"
    },
    "long": {
-    "score": 78,
-    "signal": "buy"
+    "score": 74,
+    "pct": 63,
+    "signal": "hold"
    }
   },
   {
@@ -15246,11 +15822,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 49,
     "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 61,
+    "pct": 26,
+    "signal": "hold"
    }
   },
   {
@@ -15298,11 +15876,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 48,
     "signal": "hold"
    },
    "long": {
-    "score": 73,
-    "signal": "buy"
+    "score": 68,
+    "pct": 44,
+    "signal": "hold"
    }
   },
   {
@@ -15350,11 +15930,13 @@
    "data_warnings": [],
    "short": {
     "score": 63,
+    "pct": 35,
     "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 70,
+    "pct": 82,
+    "signal": "hold"
    }
   },
   {
@@ -15402,10 +15984,12 @@
    "data_warnings": [],
    "short": {
     "score": 62,
+    "pct": 39,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 27,
     "signal": "hold"
    }
   },
@@ -15454,10 +16038,12 @@
    "data_warnings": [],
    "short": {
     "score": 62,
+    "pct": 57,
     "signal": "hold"
    },
    "long": {
-    "score": 53,
+    "score": 64,
+    "pct": 48,
     "signal": "hold"
    }
   },
@@ -15506,11 +16092,13 @@
    "data_warnings": [],
    "short": {
     "score": 62,
+    "pct": 34,
     "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 72,
+    "signal": "hold"
    }
   },
   {
@@ -15558,11 +16146,13 @@
    "data_warnings": [],
    "short": {
     "score": 62,
+    "pct": 34,
     "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 60,
+    "pct": 60,
+    "signal": "hold"
    }
   },
   {
@@ -15610,10 +16200,12 @@
    "data_warnings": [],
    "short": {
     "score": 62,
+    "pct": 36,
     "signal": "hold"
    },
    "long": {
-    "score": 35,
+    "score": 41,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -15662,11 +16254,13 @@
    "data_warnings": [],
    "short": {
     "score": 62,
+    "pct": 33,
     "signal": "hold"
    },
    "long": {
-    "score": 59,
-    "signal": "hold"
+    "score": 52,
+    "pct": 12,
+    "signal": "avoid"
    }
   },
   {
@@ -15714,10 +16308,12 @@
    "data_warnings": [],
    "short": {
     "score": 61,
+    "pct": 52,
     "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 50,
+    "pct": 17,
     "signal": "hold"
    }
   },
@@ -15766,10 +16362,12 @@
    "data_warnings": [],
    "short": {
     "score": 61,
+    "pct": 31,
     "signal": "hold"
    },
    "long": {
-    "score": 48,
+    "score": 57,
+    "pct": 45,
     "signal": "hold"
    }
   },
@@ -15818,10 +16416,12 @@
    "data_warnings": [],
    "short": {
     "score": 61,
+    "pct": 53,
     "signal": "hold"
    },
    "long": {
-    "score": 51,
+    "score": 60,
+    "pct": 33,
     "signal": "hold"
    }
   },
@@ -15870,11 +16470,13 @@
    "data_warnings": [],
    "short": {
     "score": 61,
+    "pct": 43,
     "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 70,
+    "signal": "hold"
    }
   },
   {
@@ -15922,11 +16524,13 @@
    "data_warnings": [],
    "short": {
     "score": 61,
+    "pct": 47,
     "signal": "hold"
    },
    "long": {
-    "score": 85,
-    "signal": "buy"
+    "score": 82,
+    "pct": 84,
+    "signal": "hold"
    }
   },
   {
@@ -15974,11 +16578,13 @@
    "data_warnings": [],
    "short": {
     "score": 61,
+    "pct": 45,
     "signal": "hold"
    },
    "long": {
-    "score": 81,
-    "signal": "buy"
+    "score": 77,
+    "pct": 69,
+    "signal": "hold"
    }
   },
   {
@@ -16026,11 +16632,13 @@
    "data_warnings": [],
    "short": {
     "score": 61,
+    "pct": 44,
     "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 59,
+    "pct": 22,
+    "signal": "hold"
    }
   },
   {
@@ -16083,11 +16691,13 @@
    "data_warnings": [],
    "short": {
     "score": 60,
+    "pct": 30,
     "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 63,
+    "pct": 45,
+    "signal": "hold"
    }
   },
   {
@@ -16135,11 +16745,13 @@
    "data_warnings": [],
    "short": {
     "score": 60,
+    "pct": 27,
     "signal": "hold"
    },
    "long": {
-    "score": 77,
-    "signal": "buy"
+    "score": 72,
+    "pct": 76,
+    "signal": "hold"
    }
   },
   {
@@ -16187,10 +16799,12 @@
    "data_warnings": [],
    "short": {
     "score": 60,
+    "pct": 39,
     "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 51,
+    "pct": 35,
     "signal": "hold"
    }
   },
@@ -16239,11 +16853,13 @@
    "data_warnings": [],
    "short": {
     "score": 60,
+    "pct": 32,
     "signal": "hold"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 31,
+    "pct": 3,
+    "signal": "avoid"
    }
   },
   {
@@ -16296,10 +16912,12 @@
    "data_warnings": [],
    "short": {
     "score": 60,
+    "pct": 43,
     "signal": "hold"
    },
    "long": {
-    "score": 94,
+    "score": 93,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -16348,11 +16966,13 @@
    "data_warnings": [],
    "short": {
     "score": 59,
+    "pct": 35,
     "signal": "hold"
    },
    "long": {
-    "score": 64,
-    "signal": "hold"
+    "score": 77,
+    "pct": 91,
+    "signal": "buy"
    }
   },
   {
@@ -16400,10 +17020,12 @@
    "data_warnings": [],
    "short": {
     "score": 59,
+    "pct": 31,
     "signal": "hold"
    },
    "long": {
-    "score": 66,
+    "score": 77,
+    "pct": 96,
     "signal": "buy"
    }
   },
@@ -16457,10 +17079,12 @@
    "data_warnings": [],
    "short": {
     "score": 59,
+    "pct": 48,
     "signal": "hold"
    },
    "long": {
-    "score": 55,
+    "score": 64,
+    "pct": 43,
     "signal": "hold"
    }
   },
@@ -16509,10 +17133,12 @@
    "data_warnings": [],
    "short": {
     "score": 58,
+    "pct": 28,
     "signal": "hold"
    },
    "long": {
-    "score": 18,
+    "score": 23,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -16561,11 +17187,13 @@
    "data_warnings": [],
    "short": {
     "score": 58,
+    "pct": 79,
     "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 64,
+    "pct": 23,
+    "signal": "hold"
    }
   },
   {
@@ -16613,11 +17241,13 @@
    "data_warnings": [],
    "short": {
     "score": 58,
+    "pct": 14,
     "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 69,
+    "signal": "hold"
    }
   },
   {
@@ -16665,10 +17295,12 @@
    "data_warnings": [],
    "short": {
     "score": 58,
+    "pct": 78,
     "signal": "hold"
    },
    "long": {
-    "score": 52,
+    "score": 61,
+    "pct": 17,
     "signal": "hold"
    }
   },
@@ -16717,10 +17349,12 @@
    "data_warnings": [],
    "short": {
     "score": 58,
+    "pct": 24,
     "signal": "hold"
    },
    "long": {
-    "score": 41,
+    "score": 50,
+    "pct": 21,
     "signal": "hold"
    }
   },
@@ -16769,10 +17403,12 @@
    "data_warnings": [],
    "short": {
     "score": 58,
+    "pct": 77,
     "signal": "hold"
    },
    "long": {
-    "score": 32,
+    "score": 38,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -16821,11 +17457,13 @@
    "data_warnings": [],
    "short": {
     "score": 58,
+    "pct": 42,
     "signal": "hold"
    },
    "long": {
-    "score": 63,
-    "signal": "hold"
+    "score": 56,
+    "pct": 14,
+    "signal": "avoid"
    }
   },
   {
@@ -16873,10 +17511,12 @@
    "data_warnings": [],
    "short": {
     "score": 57,
+    "pct": 30,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 43,
     "signal": "hold"
    }
   },
@@ -16925,11 +17565,13 @@
    "data_warnings": [],
    "short": {
     "score": 57,
+    "pct": 29,
     "signal": "hold"
    },
    "long": {
-    "score": 51,
-    "signal": "hold"
+    "score": 41,
+    "pct": 10,
+    "signal": "avoid"
    }
   },
   {
@@ -16977,11 +17619,13 @@
    "data_warnings": [],
    "short": {
     "score": 57,
+    "pct": 28,
     "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 71,
+    "signal": "hold"
    }
   },
   {
@@ -17034,10 +17678,12 @@
    "data_warnings": [],
    "short": {
     "score": 57,
+    "pct": 26,
     "signal": "hold"
    },
    "long": {
-    "score": 42,
+    "score": 49,
+    "pct": 19,
     "signal": "hold"
    }
   },
@@ -17086,11 +17732,13 @@
    "data_warnings": [],
    "short": {
     "score": 57,
+    "pct": 76,
     "signal": "hold"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 72,
+    "pct": 40,
+    "signal": "hold"
    }
   },
   {
@@ -17138,10 +17786,12 @@
    "data_warnings": [],
    "short": {
     "score": 57,
+    "pct": 25,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 40,
     "signal": "hold"
    }
   },
@@ -17190,10 +17840,12 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 43,
     "signal": "hold"
    },
    "long": {
-    "score": 47,
+    "score": 58,
+    "pct": 30,
     "signal": "hold"
    }
   },
@@ -17242,10 +17894,12 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 23,
     "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 54,
+    "pct": 35,
     "signal": "hold"
    }
   },
@@ -17294,10 +17948,12 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 41,
     "signal": "hold"
    },
    "long": {
-    "score": 73,
+    "score": 87,
+    "pct": 93,
     "signal": "buy"
    }
   },
@@ -17351,10 +18007,12 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 40,
     "signal": "hold"
    },
    "long": {
-    "score": 69,
+    "score": 83,
+    "pct": 86,
     "signal": "buy"
    }
   },
@@ -17403,11 +18061,13 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 38,
     "signal": "hold"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 80,
+    "pct": 74,
+    "signal": "hold"
    }
   },
   {
@@ -17455,11 +18115,13 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 21,
     "signal": "hold"
    },
    "long": {
-    "score": 73,
-    "signal": "buy"
+    "score": 69,
+    "pct": 82,
+    "signal": "hold"
    }
   },
   {
@@ -17507,11 +18169,13 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 24,
     "signal": "hold"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 69,
+    "pct": 67,
+    "signal": "hold"
    }
   },
   {
@@ -17559,11 +18223,13 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 37,
     "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 37,
+    "signal": "hold"
    }
   },
   {
@@ -17611,10 +18277,12 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 39,
     "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 61,
     "signal": "hold"
    }
   },
@@ -17663,10 +18331,12 @@
    "data_warnings": [],
    "short": {
     "score": 56,
+    "pct": 19,
     "signal": "hold"
    },
    "long": {
-    "score": 56,
+    "score": 66,
+    "pct": 69,
     "signal": "hold"
    }
   },
@@ -17720,10 +18390,12 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 36,
     "signal": "hold"
    },
    "long": {
-    "score": 88,
+    "score": 86,
+    "pct": 92,
     "signal": "buy"
    }
   },
@@ -17772,11 +18444,13 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 35,
     "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 82,
+    "pct": 85,
+    "signal": "hold"
    }
   },
   {
@@ -17829,10 +18503,12 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 24,
     "signal": "hold"
    },
    "long": {
-    "score": 36,
+    "score": 43,
+    "pct": 10,
     "signal": "avoid"
    }
   },
@@ -17886,11 +18562,13 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 24,
     "signal": "hold"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 36,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -17938,10 +18616,12 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 34,
     "signal": "hold"
    },
    "long": {
-    "score": 90,
+    "score": 88,
+    "pct": 95,
     "signal": "buy"
    }
   },
@@ -17995,10 +18675,12 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 21,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 24,
     "signal": "hold"
    }
   },
@@ -18047,11 +18729,13 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 75,
     "signal": "hold"
    },
    "long": {
-    "score": 55,
-    "signal": "hold"
+    "score": 48,
+    "pct": 8,
+    "signal": "avoid"
    }
   },
   {
@@ -18104,11 +18788,13 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 18,
     "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 74,
+    "signal": "hold"
    }
   },
   {
@@ -18156,11 +18842,13 @@
    "data_warnings": [],
    "short": {
     "score": 55,
+    "pct": 33,
     "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 71,
+    "pct": 56,
+    "signal": "hold"
    }
   },
   {
@@ -18213,10 +18901,12 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 22,
     "signal": "hold"
    },
    "long": {
-    "score": 77,
+    "score": 73,
+    "pct": 91,
     "signal": "buy"
    }
   },
@@ -18265,10 +18955,12 @@
    "data_warnings": [],
    "short": {
     "score": 54,
-    "signal": "hold"
+    "pct": 11,
+    "signal": "avoid"
    },
    "long": {
-    "score": 59,
+    "score": 69,
+    "pct": 80,
     "signal": "hold"
    }
   },
@@ -18317,10 +19009,12 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 21,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 54,
+    "pct": 38,
     "signal": "hold"
    }
   },
@@ -18369,11 +19063,13 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 19,
     "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 70,
+    "pct": 84,
+    "signal": "hold"
    }
   },
   {
@@ -18421,10 +19117,12 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 16,
     "signal": "hold"
    },
    "long": {
-    "score": 14,
+    "score": 17,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -18473,10 +19171,12 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 31,
     "signal": "hold"
    },
    "long": {
-    "score": 90,
+    "score": 89,
+    "pct": 98,
     "signal": "buy"
    }
   },
@@ -18525,11 +19225,13 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 30,
     "signal": "hold"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 81,
+    "pct": 79,
+    "signal": "hold"
    }
   },
   {
@@ -18577,11 +19279,13 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 18,
     "signal": "hold"
    },
    "long": {
-    "score": 50,
-    "signal": "hold"
+    "score": 42,
+    "pct": 12,
+    "signal": "avoid"
    }
   },
   {
@@ -18629,11 +19333,13 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 26,
     "signal": "hold"
    },
    "long": {
-    "score": 44,
-    "signal": "hold"
+    "score": 34,
+    "pct": 4,
+    "signal": "avoid"
    }
   },
   {
@@ -18681,11 +19387,13 @@
    "data_warnings": [],
    "short": {
     "score": 54,
+    "pct": 16,
     "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 61,
+    "pct": 62,
+    "signal": "hold"
    }
   },
   {
@@ -18733,11 +19441,13 @@
    "data_warnings": [],
    "short": {
     "score": 53,
+    "pct": 15,
     "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 78,
+    "signal": "hold"
    }
   },
   {
@@ -18785,11 +19495,13 @@
    "data_warnings": [],
    "short": {
     "score": 53,
+    "pct": 29,
     "signal": "hold"
    },
    "long": {
-    "score": 83,
-    "signal": "buy"
+    "score": 80,
+    "pct": 77,
+    "signal": "hold"
    }
   },
   {
@@ -18837,10 +19549,12 @@
    "data_warnings": [],
    "short": {
     "score": 53,
+    "pct": 15,
     "signal": "hold"
    },
    "long": {
-    "score": 58,
+    "score": 70,
+    "pct": 85,
     "signal": "hold"
    }
   },
@@ -18889,11 +19603,13 @@
    "data_warnings": [],
    "short": {
     "score": 53,
-    "signal": "hold"
+    "pct": 9,
+    "signal": "avoid"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 62,
+    "pct": 51,
+    "signal": "hold"
    }
   },
   {
@@ -18941,11 +19657,13 @@
    "data_warnings": [],
    "short": {
     "score": 52,
+    "pct": 74,
     "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 80,
+    "pct": 70,
+    "signal": "hold"
    }
   },
   {
@@ -18993,11 +19711,13 @@
    "data_warnings": [],
    "short": {
     "score": 52,
+    "pct": 52,
     "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 62,
+    "pct": 41,
+    "signal": "hold"
    }
   },
   {
@@ -19045,10 +19765,12 @@
    "data_warnings": [],
    "short": {
     "score": 51,
+    "pct": 28,
     "signal": "hold"
    },
    "long": {
-    "score": 29,
+    "score": 37,
+    "pct": 1,
     "signal": "avoid"
    }
   },
@@ -19097,10 +19819,12 @@
    "data_warnings": [],
    "short": {
     "score": 51,
+    "pct": 21,
     "signal": "hold"
    },
    "long": {
-    "score": 64,
+    "score": 58,
+    "pct": 52,
     "signal": "hold"
    }
   },
@@ -19149,11 +19873,13 @@
    "data_warnings": [],
    "short": {
     "score": 51,
+    "pct": 27,
     "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 63,
+    "pct": 30,
+    "signal": "hold"
    }
   },
   {
@@ -19201,11 +19927,13 @@
    "data_warnings": [],
    "short": {
     "score": 50,
+    "pct": 51,
     "signal": "hold"
    },
    "long": {
-    "score": 73,
-    "signal": "buy"
+    "score": 68,
+    "pct": 62,
+    "signal": "hold"
    }
   },
   {
@@ -19258,10 +19986,12 @@
    "data_warnings": [],
    "short": {
     "score": 50,
+    "pct": 35,
     "signal": "hold"
    },
    "long": {
-    "score": 48,
+    "score": 56,
+    "pct": 22,
     "signal": "hold"
    }
   },
@@ -19310,11 +20040,13 @@
    "data_warnings": [],
    "short": {
     "score": 50,
+    "pct": 26,
     "signal": "hold"
    },
    "long": {
-    "score": 81,
-    "signal": "buy"
+    "score": 77,
+    "pct": 70,
+    "signal": "hold"
    }
   },
   {
@@ -19362,10 +20094,12 @@
    "data_warnings": [],
    "short": {
     "score": 50,
-    "signal": "hold"
+    "pct": 13,
+    "signal": "avoid"
    },
    "long": {
-    "score": 58,
+    "score": 51,
+    "pct": 24,
     "signal": "hold"
    }
   },
@@ -19414,10 +20148,12 @@
    "data_warnings": [],
    "short": {
     "score": 49,
+    "pct": 18,
     "signal": "hold"
    },
    "long": {
-    "score": 53,
+    "score": 62,
+    "pct": 42,
     "signal": "hold"
    }
   },
@@ -19466,10 +20202,12 @@
    "data_warnings": [],
    "short": {
     "score": 49,
+    "pct": 22,
     "signal": "hold"
    },
    "long": {
-    "score": 48,
+    "score": 58,
+    "pct": 61,
     "signal": "hold"
    }
   },
@@ -19518,10 +20256,12 @@
    "data_warnings": [],
    "short": {
     "score": 49,
+    "pct": 73,
     "signal": "hold"
    },
    "long": {
-    "score": 74,
+    "score": 89,
+    "pct": 96,
     "signal": "buy"
    }
   },
@@ -19570,10 +20310,12 @@
    "data_warnings": [],
    "short": {
     "score": 49,
+    "pct": 49,
     "signal": "hold"
    },
    "long": {
-    "score": 49,
+    "score": 58,
+    "pct": 25,
     "signal": "hold"
    }
   },
@@ -19622,11 +20364,13 @@
    "data_warnings": [],
    "short": {
     "score": 49,
+    "pct": 24,
     "signal": "hold"
    },
    "long": {
-    "score": 85,
-    "signal": "buy"
+    "score": 82,
+    "pct": 83,
+    "signal": "hold"
    }
   },
   {
@@ -19674,10 +20418,12 @@
    "data_warnings": [],
    "short": {
     "score": 48,
-    "signal": "hold"
+    "pct": 11,
+    "signal": "avoid"
    },
    "long": {
-    "score": 63,
+    "score": 56,
+    "pct": 37,
     "signal": "hold"
    }
   },
@@ -19726,11 +20472,13 @@
    "data_warnings": [],
    "short": {
     "score": 48,
+    "pct": 72,
     "signal": "hold"
    },
    "long": {
-    "score": 83,
-    "signal": "buy"
+    "score": 80,
+    "pct": 72,
+    "signal": "hold"
    }
   },
   {
@@ -19778,10 +20526,12 @@
    "data_warnings": [],
    "short": {
     "score": 48,
+    "pct": 17,
     "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 49,
+    "pct": 17,
     "signal": "hold"
    }
   },
@@ -19830,10 +20580,12 @@
    "data_warnings": [],
    "short": {
     "score": 48,
+    "pct": 48,
     "signal": "hold"
    },
    "long": {
-    "score": 52,
+    "score": 61,
+    "pct": 38,
     "signal": "hold"
    }
   },
@@ -19882,10 +20634,12 @@
    "data_warnings": [],
    "short": {
     "score": 48,
+    "pct": 23,
     "signal": "hold"
    },
    "long": {
-    "score": 73,
+    "score": 86,
+    "pct": 90,
     "signal": "buy"
    }
   },
@@ -19934,11 +20688,13 @@
    "data_warnings": [],
    "short": {
     "score": 48,
+    "pct": 71,
     "signal": "hold"
    },
    "long": {
-    "score": 47,
-    "signal": "hold"
+    "score": 38,
+    "pct": 1,
+    "signal": "avoid"
    }
   },
   {
@@ -19986,10 +20742,12 @@
    "data_warnings": [],
    "short": {
     "score": 48,
+    "pct": 47,
     "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 69,
+    "pct": 68,
     "signal": "hold"
    }
   },
@@ -20038,10 +20796,12 @@
    "data_warnings": [],
    "short": {
     "score": 47,
+    "pct": 70,
     "signal": "hold"
    },
    "long": {
-    "score": 56,
+    "score": 66,
+    "pct": 26,
     "signal": "hold"
    }
   },
@@ -20095,10 +20855,12 @@
    "data_warnings": [],
    "short": {
     "score": 46,
-    "signal": "hold"
+    "pct": 13,
+    "signal": "avoid"
    },
    "long": {
-    "score": 56,
+    "score": 68,
+    "pct": 79,
     "signal": "hold"
    }
   },
@@ -20147,10 +20909,12 @@
    "data_warnings": [],
    "short": {
     "score": 46,
+    "pct": 30,
     "signal": "hold"
    },
    "long": {
-    "score": 23,
+    "score": 28,
+    "pct": 0,
     "signal": "avoid"
    }
   },
@@ -20199,10 +20963,12 @@
    "data_warnings": [],
    "short": {
     "score": 46,
-    "signal": "hold"
+    "pct": 6,
+    "signal": "avoid"
    },
    "long": {
-    "score": 46,
+    "score": 54,
+    "pct": 31,
     "signal": "hold"
    }
   },
@@ -20251,11 +21017,13 @@
    "data_warnings": [],
    "short": {
     "score": 46,
+    "pct": 46,
     "signal": "hold"
    },
    "long": {
-    "score": 45,
-    "signal": "hold"
+    "score": 53,
+    "pct": 7,
+    "signal": "avoid"
    }
   },
   {
@@ -20303,11 +21071,13 @@
    "data_warnings": [],
    "short": {
     "score": 45,
+    "pct": 45,
     "signal": "hold"
    },
    "long": {
-    "score": 78,
-    "signal": "buy"
+    "score": 74,
+    "pct": 83,
+    "signal": "hold"
    }
   },
   {
@@ -20355,11 +21125,13 @@
    "data_warnings": [],
    "short": {
     "score": 45,
-    "signal": "hold"
+    "pct": 12,
+    "signal": "avoid"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 72,
+    "signal": "hold"
    }
   },
   {
@@ -20407,11 +21179,13 @@
    "data_warnings": [],
    "short": {
     "score": 45,
+    "pct": 44,
     "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 70,
+    "pct": 70,
+    "signal": "hold"
    }
   },
   {
@@ -20459,10 +21233,12 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 15,
     "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 68,
+    "pct": 64,
     "signal": "hold"
    }
   },
@@ -20511,10 +21287,12 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 22,
     "signal": "hold"
    },
    "long": {
-    "score": 89,
+    "score": 87,
+    "pct": 94,
     "signal": "buy"
    }
   },
@@ -20568,10 +21346,12 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 21,
     "signal": "hold"
    },
    "long": {
-    "score": 72,
+    "score": 86,
+    "pct": 91,
     "signal": "buy"
    }
   },
@@ -20620,11 +21400,13 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 20,
     "signal": "hold"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 81,
+    "pct": 80,
+    "signal": "hold"
    }
   },
   {
@@ -20672,10 +21454,12 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 14,
     "signal": "hold"
    },
    "long": {
-    "score": 48,
+    "score": 58,
+    "pct": 55,
     "signal": "hold"
    }
   },
@@ -20724,10 +21508,12 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 19,
     "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 70,
+    "pct": 53,
     "signal": "hold"
    }
   },
@@ -20776,11 +21562,13 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 17,
     "signal": "hold"
    },
    "long": {
-    "score": 60,
-    "signal": "hold"
+    "score": 53,
+    "pct": 10,
+    "signal": "avoid"
    }
   },
   {
@@ -20828,10 +21616,12 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 16,
     "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 70,
+    "pct": 51,
     "signal": "hold"
    }
   },
@@ -20880,10 +21670,12 @@
    "data_warnings": [],
    "short": {
     "score": 44,
-    "signal": "hold"
+    "pct": 10,
+    "signal": "avoid"
    },
    "long": {
-    "score": 82,
+    "score": 79,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -20937,11 +21729,13 @@
    "data_warnings": [],
    "short": {
     "score": 44,
+    "pct": 15,
     "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 62,
+    "pct": 27,
+    "signal": "hold"
    }
   },
   {
@@ -20989,11 +21783,13 @@
    "data_warnings": [],
    "short": {
     "score": 44,
-    "signal": "hold"
+    "pct": 100,
+    "signal": "buy"
    },
    "long": {
-    "score": 90,
-    "signal": "buy"
+    "score": 88,
+    "pct": 77,
+    "signal": "hold"
    }
   },
   {
@@ -21041,11 +21837,13 @@
    "data_warnings": [],
    "short": {
     "score": 43,
-    "signal": "hold"
+    "pct": 9,
+    "signal": "avoid"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 63,
+    "pct": 69,
+    "signal": "hold"
    }
   },
   {
@@ -21093,11 +21891,13 @@
    "data_warnings": [],
    "short": {
     "score": 43,
-    "signal": "hold"
+    "pct": 14,
+    "signal": "avoid"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 80,
+    "pct": 76,
+    "signal": "hold"
    }
   },
   {
@@ -21145,11 +21945,13 @@
    "data_warnings": [],
    "short": {
     "score": 43,
+    "pct": 68,
     "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 80,
+    "pct": 71,
+    "signal": "hold"
    }
   },
   {
@@ -21197,10 +21999,12 @@
    "data_warnings": [],
    "short": {
     "score": 43,
+    "pct": 67,
     "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 73,
+    "pct": 46,
     "signal": "hold"
    }
   },
@@ -21249,11 +22053,13 @@
    "data_warnings": [],
    "short": {
     "score": 43,
+    "pct": 43,
     "signal": "hold"
    },
    "long": {
-    "score": 79,
-    "signal": "buy"
+    "score": 75,
+    "pct": 84,
+    "signal": "hold"
    }
   },
   {
@@ -21301,10 +22107,12 @@
    "data_warnings": [],
    "short": {
     "score": 43,
-    "signal": "hold"
+    "pct": 7,
+    "signal": "avoid"
    },
    "long": {
-    "score": 80,
+    "score": 77,
+    "pct": 94,
     "signal": "buy"
    }
   },
@@ -21353,11 +22161,13 @@
    "data_warnings": [],
    "short": {
     "score": 42,
+    "pct": 66,
     "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 62,
+    "pct": 18,
+    "signal": "hold"
    }
   },
   {
@@ -21405,10 +22215,12 @@
    "data_warnings": [],
    "short": {
     "score": 42,
-    "signal": "hold"
+    "pct": 10,
+    "signal": "avoid"
    },
    "long": {
-    "score": 53,
+    "score": 63,
+    "pct": 69,
     "signal": "hold"
    }
   },
@@ -21457,11 +22269,13 @@
    "data_warnings": [],
    "short": {
     "score": 42,
+    "pct": 41,
     "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 64,
+    "pct": 52,
+    "signal": "hold"
    }
   },
   {
@@ -21509,10 +22323,12 @@
    "data_warnings": [],
    "short": {
     "score": 42,
-    "signal": "hold"
+    "pct": 13,
+    "signal": "avoid"
    },
    "long": {
-    "score": 70,
+    "score": 83,
+    "pct": 87,
     "signal": "buy"
    }
   },
@@ -21566,11 +22382,13 @@
    "data_warnings": [],
    "short": {
     "score": 42,
-    "signal": "hold"
+    "pct": 12,
+    "signal": "avoid"
    },
    "long": {
-    "score": 78,
-    "signal": "buy"
+    "score": 75,
+    "pct": 64,
+    "signal": "hold"
    }
   },
   {
@@ -21618,10 +22436,12 @@
    "data_warnings": [],
    "short": {
     "score": 42,
+    "pct": 40,
     "signal": "hold"
    },
    "long": {
-    "score": 68,
+    "score": 81,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -21670,10 +22490,12 @@
    "data_warnings": [],
    "short": {
     "score": 42,
-    "signal": "hold"
+    "pct": 12,
+    "signal": "avoid"
    },
    "long": {
-    "score": 47,
+    "score": 56,
+    "pct": 30,
     "signal": "hold"
    }
   },
@@ -21722,11 +22544,13 @@
    "data_warnings": [],
    "short": {
     "score": 42,
-    "signal": "hold"
+    "pct": 7,
+    "signal": "avoid"
    },
    "long": {
-    "score": 56,
-    "signal": "hold"
+    "score": 66,
+    "pct": 93,
+    "signal": "buy"
    }
   },
   {
@@ -21774,10 +22598,12 @@
    "data_warnings": [],
    "short": {
     "score": 42,
+    "pct": 65,
     "signal": "hold"
    },
    "long": {
-    "score": 60,
+    "score": 72,
+    "pct": 41,
     "signal": "hold"
    }
   },
@@ -21831,11 +22657,13 @@
    "data_warnings": [],
    "short": {
     "score": 42,
-    "signal": "hold"
+    "pct": 6,
+    "signal": "avoid"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 61,
+    "pct": 63,
+    "signal": "hold"
    }
   },
   {
@@ -21883,11 +22711,13 @@
    "data_warnings": [],
    "short": {
     "score": 42,
+    "pct": 39,
     "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 57,
+    "signal": "hold"
    }
   },
   {
@@ -21935,11 +22765,13 @@
    "data_warnings": [],
    "short": {
     "score": 42,
-    "signal": "hold"
+    "pct": 95,
+    "signal": "buy"
    },
    "long": {
-    "score": 86,
-    "signal": "buy"
+    "score": 83,
+    "pct": 50,
+    "signal": "hold"
    }
   },
   {
@@ -21987,10 +22819,12 @@
    "data_warnings": [],
    "short": {
     "score": 41,
+    "pct": 64,
     "signal": "hold"
    },
    "long": {
-    "score": 38,
+    "score": 45,
+    "pct": 7,
     "signal": "avoid"
    }
   },
@@ -22039,11 +22873,13 @@
    "data_warnings": [],
    "short": {
     "score": 41,
+    "pct": 63,
     "signal": "hold"
    },
    "long": {
-    "score": 79,
-    "signal": "buy"
+    "score": 75,
+    "pct": 53,
+    "signal": "hold"
    }
   },
   {
@@ -22091,10 +22927,12 @@
    "data_warnings": [],
    "short": {
     "score": 41,
-    "signal": "hold"
+    "pct": 4,
+    "signal": "avoid"
    },
    "long": {
-    "score": 61,
+    "score": 55,
+    "pct": 47,
     "signal": "hold"
    }
   },
@@ -22143,10 +22981,12 @@
    "data_warnings": [],
    "short": {
     "score": 41,
+    "pct": 62,
     "signal": "hold"
    },
    "long": {
-    "score": 63,
+    "score": 74,
+    "pct": 50,
     "signal": "hold"
    }
   },
@@ -22195,11 +23035,13 @@
    "data_warnings": [],
    "short": {
     "score": 41,
-    "signal": "hold"
+    "pct": 3,
+    "signal": "avoid"
    },
    "long": {
-    "score": 60,
-    "signal": "hold"
+    "score": 70,
+    "pct": 100,
+    "signal": "buy"
    }
   },
   {
@@ -22247,11 +23089,13 @@
    "data_warnings": [],
    "short": {
     "score": 41,
-    "signal": "hold"
+    "pct": 10,
+    "signal": "avoid"
    },
    "long": {
-    "score": 49,
-    "signal": "hold"
+    "score": 40,
+    "pct": 8,
+    "signal": "avoid"
    }
   },
   {
@@ -22304,10 +23148,12 @@
    "data_warnings": [],
    "short": {
     "score": 41,
+    "pct": 38,
     "signal": "hold"
    },
    "long": {
-    "score": 52,
+    "score": 61,
+    "pct": 39,
     "signal": "hold"
    }
   },
@@ -22361,10 +23207,12 @@
    "data_warnings": [],
    "short": {
     "score": 41,
-    "signal": "hold"
+    "pct": 10,
+    "signal": "avoid"
    },
    "long": {
-    "score": 59,
+    "score": 70,
+    "pct": 52,
     "signal": "hold"
    }
   },
@@ -22413,10 +23261,12 @@
    "data_warnings": [],
    "short": {
     "score": 41,
-    "signal": "hold"
+    "pct": 3,
+    "signal": "avoid"
    },
    "long": {
-    "score": 62,
+    "score": 55,
+    "pct": 34,
     "signal": "hold"
    }
   },
@@ -22465,10 +23315,12 @@
    "data_warnings": [],
    "short": {
     "score": 41,
-    "signal": "hold"
+    "pct": 9,
+    "signal": "avoid"
    },
    "long": {
-    "score": 92,
+    "score": 90,
+    "pct": 99,
     "signal": "buy"
    }
   },
@@ -22517,11 +23369,13 @@
    "data_warnings": [],
    "short": {
     "score": 41,
+    "pct": 37,
     "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 60,
+    "pct": 32,
+    "signal": "hold"
    }
   },
   {
@@ -22569,11 +23423,13 @@
    "data_warnings": [],
    "short": {
     "score": 41,
+    "pct": 61,
     "signal": "hold"
    },
    "long": {
-    "score": 75,
-    "signal": "buy"
+    "score": 71,
+    "pct": 35,
+    "signal": "hold"
    }
   },
   {
@@ -22621,10 +23477,12 @@
    "data_warnings": [],
    "short": {
     "score": 40,
-    "signal": "hold"
+    "pct": 8,
+    "signal": "avoid"
    },
    "long": {
-    "score": 55,
+    "score": 66,
+    "pct": 41,
     "signal": "hold"
    }
   },
@@ -22673,11 +23531,13 @@
    "data_warnings": [],
    "short": {
     "score": 40,
-    "signal": "hold"
+    "pct": 3,
+    "signal": "avoid"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 74,
+    "signal": "hold"
    }
   },
   {
@@ -22725,11 +23585,13 @@
    "data_warnings": [],
    "short": {
     "score": 40,
+    "pct": 60,
     "signal": "hold"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 81,
+    "pct": 74,
+    "signal": "hold"
    }
   },
   {
@@ -22782,10 +23644,12 @@
    "data_warnings": [],
    "short": {
     "score": 40,
-    "signal": "hold"
+    "pct": 9,
+    "signal": "avoid"
    },
    "long": {
-    "score": 47,
+    "score": 57,
+    "pct": 33,
     "signal": "hold"
    }
   },
@@ -22834,10 +23698,12 @@
    "data_warnings": [],
    "short": {
     "score": 40,
-    "signal": "hold"
+    "pct": 6,
+    "signal": "avoid"
    },
    "long": {
-    "score": 66,
+    "score": 78,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -22886,11 +23752,13 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 59,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
-    "signal": "buy"
+    "score": 76,
+    "pct": 59,
+    "signal": "hold"
    }
   },
   {
@@ -22943,10 +23811,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
+    "pct": 7,
     "signal": "avoid"
    },
    "long": {
-    "score": 73,
+    "score": 88,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -22995,10 +23865,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
+    "pct": 3,
     "signal": "avoid"
    },
    "long": {
-    "score": 44,
+    "score": 52,
+    "pct": 18,
     "signal": "hold"
    }
   },
@@ -23052,10 +23924,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 17,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 78,
     "signal": "hold"
    }
   },
@@ -23104,10 +23978,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 26,
+    "signal": "hold"
    },
    "long": {
-    "score": 63,
+    "score": 74,
+    "pct": 70,
     "signal": "hold"
    }
   },
@@ -23156,10 +24032,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 22,
+    "signal": "hold"
    },
    "long": {
-    "score": 63,
+    "score": 74,
+    "pct": 65,
     "signal": "hold"
    }
   },
@@ -23208,10 +24086,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 58,
+    "signal": "hold"
    },
    "long": {
-    "score": 37,
+    "score": 45,
+    "pct": 4,
     "signal": "avoid"
    }
   },
@@ -23260,10 +24140,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 57,
+    "signal": "hold"
    },
    "long": {
-    "score": 73,
+    "score": 85,
+    "pct": 89,
     "signal": "buy"
    }
   },
@@ -23317,11 +24199,13 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 55,
+    "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 81,
+    "pct": 75,
+    "signal": "hold"
    }
   },
   {
@@ -23369,11 +24253,13 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 54,
+    "signal": "hold"
    },
    "long": {
-    "score": 42,
-    "signal": "hold"
+    "score": 49,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -23421,10 +24307,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 17,
+    "signal": "hold"
    },
    "long": {
-    "score": 78,
+    "score": 92,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -23473,11 +24361,13 @@
    "data_warnings": [],
    "short": {
     "score": 39,
+    "pct": 8,
     "signal": "avoid"
    },
    "long": {
-    "score": 74,
-    "signal": "buy"
+    "score": 70,
+    "pct": 84,
+    "signal": "hold"
    }
   },
   {
@@ -23525,10 +24415,12 @@
    "data_warnings": [],
    "short": {
     "score": 39,
-    "signal": "avoid"
+    "pct": 53,
+    "signal": "hold"
    },
    "long": {
-    "score": 88,
+    "score": 85,
+    "pct": 87,
     "signal": "buy"
    }
   },
@@ -23577,10 +24469,12 @@
    "data_warnings": [],
    "short": {
     "score": 38,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 61,
+    "score": 72,
+    "pct": 86,
     "signal": "hold"
    }
   },
@@ -23634,11 +24528,13 @@
    "data_warnings": [],
    "short": {
     "score": 38,
-    "signal": "avoid"
+    "pct": 36,
+    "signal": "hold"
    },
    "long": {
-    "score": 64,
-    "signal": "hold"
+    "score": 76,
+    "pct": 90,
+    "signal": "buy"
    }
   },
   {
@@ -23686,10 +24582,12 @@
    "data_warnings": [],
    "short": {
     "score": 38,
-    "signal": "avoid"
+    "pct": 52,
+    "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 69,
+    "pct": 32,
     "signal": "hold"
    }
   },
@@ -23738,11 +24636,13 @@
    "data_warnings": [],
    "short": {
     "score": 38,
-    "signal": "avoid"
+    "pct": 51,
+    "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 77,
+    "pct": 61,
+    "signal": "hold"
    }
   },
   {
@@ -23790,11 +24690,13 @@
    "data_warnings": [],
    "short": {
     "score": 38,
+    "pct": 6,
     "signal": "avoid"
    },
    "long": {
-    "score": 44,
-    "signal": "hold"
+    "score": 52,
+    "pct": 8,
+    "signal": "avoid"
    }
   },
   {
@@ -23842,10 +24744,12 @@
    "data_warnings": [],
    "short": {
     "score": 38,
+    "pct": 13,
     "signal": "avoid"
    },
    "long": {
-    "score": 72,
+    "score": 84,
+    "pct": 87,
     "signal": "buy"
    }
   },
@@ -23894,10 +24798,12 @@
    "data_warnings": [],
    "short": {
     "score": 38,
-    "signal": "avoid"
+    "pct": 34,
+    "signal": "hold"
    },
    "long": {
-    "score": 64,
+    "score": 75,
+    "pct": 85,
     "signal": "hold"
    }
   },
@@ -23946,10 +24852,12 @@
    "data_warnings": [],
    "short": {
     "score": 37,
-    "signal": "avoid"
+    "pct": 33,
+    "signal": "hold"
    },
    "long": {
-    "score": 36,
+    "score": 44,
+    "pct": 2,
     "signal": "avoid"
    }
   },
@@ -23998,10 +24906,12 @@
    "data_warnings": [],
    "short": {
     "score": 37,
+    "pct": 6,
     "signal": "avoid"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 77,
     "signal": "hold"
    }
   },
@@ -24055,10 +24965,12 @@
    "data_warnings": [],
    "short": {
     "score": 37,
-    "signal": "avoid"
+    "pct": 91,
+    "signal": "buy"
    },
    "long": {
-    "score": 94,
+    "score": 93,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -24112,10 +25024,12 @@
    "data_warnings": [],
    "short": {
     "score": 37,
-    "signal": "avoid"
+    "pct": 32,
+    "signal": "hold"
    },
    "long": {
-    "score": 66,
+    "score": 77,
+    "pct": 92,
     "signal": "buy"
    }
   },
@@ -24164,10 +25078,12 @@
    "data_warnings": [],
    "short": {
     "score": 37,
+    "pct": 5,
     "signal": "avoid"
    },
    "long": {
-    "score": 59,
+    "score": 69,
+    "pct": 49,
     "signal": "hold"
    }
   },
@@ -24216,10 +25132,12 @@
    "data_warnings": [],
    "short": {
     "score": 37,
+    "pct": 9,
     "signal": "avoid"
    },
    "long": {
-    "score": 76,
+    "score": 89,
+    "pct": 96,
     "signal": "buy"
    }
   },
@@ -24268,11 +25186,13 @@
    "data_warnings": [],
    "short": {
     "score": 37,
-    "signal": "avoid"
+    "pct": 50,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 81,
+    "pct": 73,
+    "signal": "hold"
    }
   },
   {
@@ -24325,10 +25245,12 @@
    "data_warnings": [],
    "short": {
     "score": 36,
-    "signal": "avoid"
+    "pct": 86,
+    "signal": "hold"
    },
    "long": {
-    "score": 92,
+    "score": 91,
+    "pct": 91,
     "signal": "buy"
    }
   },
@@ -24377,10 +25299,12 @@
    "data_warnings": [],
    "short": {
     "score": 36,
-    "signal": "avoid"
+    "pct": 31,
+    "signal": "hold"
    },
    "long": {
-    "score": 56,
+    "score": 66,
+    "pct": 56,
     "signal": "hold"
    }
   },
@@ -24429,11 +25353,13 @@
    "data_warnings": [],
    "short": {
     "score": 36,
-    "signal": "avoid"
+    "pct": 49,
+    "signal": "hold"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 54,
+    "pct": 12,
+    "signal": "avoid"
    }
   },
   {
@@ -24486,10 +25412,12 @@
    "data_warnings": [],
    "short": {
     "score": 36,
+    "pct": 3,
     "signal": "avoid"
    },
    "long": {
-    "score": 62,
+    "score": 74,
+    "pct": 62,
     "signal": "hold"
    }
   },
@@ -24538,10 +25466,12 @@
    "data_warnings": [],
    "short": {
     "score": 35,
-    "signal": "avoid"
+    "pct": 48,
+    "signal": "hold"
    },
    "long": {
-    "score": 49,
+    "score": 58,
+    "pct": 16,
     "signal": "hold"
    }
   },
@@ -24590,11 +25520,13 @@
    "data_warnings": [],
    "short": {
     "score": 35,
-    "signal": "avoid"
+    "pct": 82,
+    "signal": "hold"
    },
    "long": {
-    "score": 50,
-    "signal": "hold"
+    "score": 59,
+    "pct": 5,
+    "signal": "avoid"
    }
   },
   {
@@ -24642,11 +25574,13 @@
    "data_warnings": [],
    "short": {
     "score": 35,
-    "signal": "avoid"
+    "pct": 47,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 71,
+    "pct": 36,
+    "signal": "hold"
    }
   },
   {
@@ -24694,11 +25628,13 @@
    "data_warnings": [],
    "short": {
     "score": 34,
-    "signal": "avoid"
+    "pct": 77,
+    "signal": "hold"
    },
    "long": {
-    "score": 92,
-    "signal": "buy"
+    "score": 90,
+    "pct": 86,
+    "signal": "hold"
    }
   },
   {
@@ -24746,11 +25682,13 @@
    "data_warnings": [],
    "short": {
     "score": 34,
-    "signal": "avoid"
+    "pct": 73,
+    "signal": "hold"
    },
    "long": {
-    "score": 91,
-    "signal": "buy"
+    "score": 90,
+    "pct": 82,
+    "signal": "hold"
    }
   },
   {
@@ -24798,11 +25736,13 @@
    "data_warnings": [],
    "short": {
     "score": 34,
-    "signal": "avoid"
+    "pct": 30,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
-    "signal": "buy"
+    "score": 67,
+    "pct": 61,
+    "signal": "hold"
    }
   },
   {
@@ -24850,11 +25790,13 @@
    "data_warnings": [],
    "short": {
     "score": 34,
+    "pct": 13,
     "signal": "avoid"
    },
    "long": {
-    "score": 51,
-    "signal": "hold"
+    "score": 41,
+    "pct": 13,
+    "signal": "avoid"
    }
   },
   {
@@ -24902,10 +25844,12 @@
    "data_warnings": [],
    "short": {
     "score": 34,
+    "pct": 9,
     "signal": "avoid"
    },
    "long": {
-    "score": 55,
+    "score": 67,
+    "pct": 74,
     "signal": "hold"
    }
   },
@@ -24959,11 +25903,13 @@
    "data_warnings": [],
    "short": {
     "score": 34,
-    "signal": "avoid"
+    "pct": 29,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 63,
+    "pct": 46,
+    "signal": "hold"
    }
   },
   {
@@ -25011,10 +25957,12 @@
    "data_warnings": [],
    "short": {
     "score": 34,
-    "signal": "avoid"
+    "pct": 28,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 59,
     "signal": "hold"
    }
   },
@@ -25063,11 +26011,13 @@
    "data_warnings": [],
    "short": {
     "score": 34,
-    "signal": "avoid"
+    "pct": 46,
+    "signal": "hold"
    },
    "long": {
-    "score": 69,
-    "signal": "buy"
+    "score": 64,
+    "pct": 22,
+    "signal": "hold"
    }
   },
   {
@@ -25115,11 +26065,13 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 68,
+    "signal": "hold"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 77,
+    "pct": 41,
+    "signal": "hold"
    }
   },
   {
@@ -25167,10 +26119,12 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 26,
+    "signal": "hold"
    },
    "long": {
-    "score": 72,
+    "score": 85,
+    "pct": 99,
     "signal": "buy"
    }
   },
@@ -25219,10 +26173,12 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 64,
+    "signal": "hold"
    },
    "long": {
-    "score": 64,
+    "score": 75,
+    "pct": 32,
     "signal": "hold"
    }
   },
@@ -25271,10 +26227,12 @@
    "data_warnings": [],
    "short": {
     "score": 33,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 46,
+    "score": 56,
+    "pct": 41,
     "signal": "hold"
    }
   },
@@ -25323,11 +26281,13 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 45,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
-    "signal": "buy"
+    "score": 73,
+    "pct": 48,
+    "signal": "hold"
    }
   },
   {
@@ -25380,10 +26340,12 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 43,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
+    "score": 94,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -25432,10 +26394,12 @@
    "data_warnings": [],
    "short": {
     "score": 33,
+    "pct": 4,
     "signal": "avoid"
    },
    "long": {
-    "score": 79,
+    "score": 76,
+    "pct": 87,
     "signal": "buy"
    }
   },
@@ -25484,10 +26448,12 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 42,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
+    "score": 89,
+    "pct": 95,
     "signal": "buy"
    }
   },
@@ -25536,10 +26502,12 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 41,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
+    "score": 93,
+    "pct": 99,
     "signal": "buy"
    }
   },
@@ -25588,11 +26556,13 @@
    "data_warnings": [],
    "short": {
     "score": 33,
-    "signal": "avoid"
+    "pct": 59,
+    "signal": "hold"
    },
    "long": {
-    "score": 88,
-    "signal": "buy"
+    "score": 85,
+    "pct": 73,
+    "signal": "hold"
    }
   },
   {
@@ -25640,10 +26610,12 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 40,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
+    "score": 83,
+    "pct": 86,
     "signal": "buy"
    }
   },
@@ -25692,10 +26664,12 @@
    "data_warnings": [],
    "short": {
     "score": 32,
+    "pct": 1,
     "signal": "avoid"
    },
    "long": {
-    "score": 50,
+    "score": 58,
+    "pct": 53,
     "signal": "hold"
    }
   },
@@ -25744,10 +26718,12 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 25,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
+    "score": 80,
+    "pct": 95,
     "signal": "buy"
    }
   },
@@ -25801,10 +26777,12 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 24,
+    "signal": "hold"
    },
    "long": {
-    "score": 71,
+    "score": 84,
+    "pct": 98,
     "signal": "buy"
    }
   },
@@ -25853,11 +26831,13 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 23,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
-    "signal": "buy"
+    "score": 73,
+    "pct": 82,
+    "signal": "hold"
    }
   },
   {
@@ -25910,10 +26890,12 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 22,
+    "signal": "hold"
    },
    "long": {
-    "score": 73,
+    "score": 86,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -25967,11 +26949,13 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 55,
+    "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 83,
+    "pct": 59,
+    "signal": "hold"
    }
   },
   {
@@ -26019,11 +27003,13 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 50,
+    "signal": "hold"
    },
    "long": {
-    "score": 65,
-    "signal": "buy"
+    "score": 76,
+    "pct": 36,
+    "signal": "hold"
    }
   },
   {
@@ -26076,11 +27062,13 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 39,
+    "signal": "hold"
    },
    "long": {
-    "score": 85,
-    "signal": "buy"
+    "score": 83,
+    "pct": 83,
+    "signal": "hold"
    }
   },
   {
@@ -26133,11 +27121,13 @@
    "data_warnings": [],
    "short": {
     "score": 32,
-    "signal": "avoid"
+    "pct": 38,
+    "signal": "hold"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 83,
+    "pct": 82,
+    "signal": "hold"
    }
   },
   {
@@ -26185,11 +27175,13 @@
    "data_warnings": [],
    "short": {
     "score": 31,
-    "signal": "avoid"
+    "pct": 37,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 83,
+    "pct": 85,
+    "signal": "hold"
    }
   },
   {
@@ -26242,11 +27234,13 @@
    "data_warnings": [],
    "short": {
     "score": 31,
-    "signal": "avoid"
+    "pct": 45,
+    "signal": "hold"
    },
    "long": {
-    "score": 50,
-    "signal": "hold"
+    "score": 58,
+    "pct": 0,
+    "signal": "avoid"
    }
   },
   {
@@ -26294,10 +27288,12 @@
    "data_warnings": [],
    "short": {
     "score": 31,
+    "pct": 2,
     "signal": "avoid"
    },
    "long": {
-    "score": 57,
+    "score": 68,
+    "pct": 47,
     "signal": "hold"
    }
   },
@@ -26351,10 +27347,12 @@
    "data_warnings": [],
    "short": {
     "score": 31,
-    "signal": "avoid"
+    "pct": 41,
+    "signal": "hold"
    },
    "long": {
-    "score": 63,
+    "score": 74,
+    "pct": 27,
     "signal": "hold"
    }
   },
@@ -26403,10 +27401,12 @@
    "data_warnings": [],
    "short": {
     "score": 31,
-    "signal": "avoid"
+    "pct": 36,
+    "signal": "hold"
    },
    "long": {
-    "score": 94,
+    "score": 93,
+    "pct": 95,
     "signal": "buy"
    }
   },
@@ -26455,10 +27455,12 @@
    "data_warnings": [],
    "short": {
     "score": 31,
+    "pct": 5,
     "signal": "avoid"
    },
    "long": {
-    "score": 51,
+    "score": 60,
+    "pct": 47,
     "signal": "hold"
    }
   },
@@ -26507,11 +27509,13 @@
    "data_warnings": [],
    "short": {
     "score": 30,
-    "signal": "avoid"
+    "pct": 36,
+    "signal": "hold"
    },
    "long": {
-    "score": 84,
-    "signal": "buy"
+    "score": 81,
+    "pct": 77,
+    "signal": "hold"
    }
   },
   {
@@ -26559,11 +27563,13 @@
    "data_warnings": [],
    "short": {
     "score": 30,
-    "signal": "avoid"
+    "pct": 32,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 83,
+    "pct": 64,
+    "signal": "hold"
    }
   },
   {
@@ -26611,10 +27617,12 @@
    "data_warnings": [],
    "short": {
     "score": 30,
-    "signal": "avoid"
+    "pct": 21,
+    "signal": "hold"
    },
    "long": {
     "score": 56,
+    "pct": 18,
     "signal": "hold"
    }
   },
@@ -26663,11 +27671,13 @@
    "data_warnings": [],
    "short": {
     "score": 30,
-    "signal": "avoid"
+    "pct": 35,
+    "signal": "hold"
    },
    "long": {
-    "score": 60,
-    "signal": "hold"
+    "score": 52,
+    "pct": 11,
+    "signal": "avoid"
    }
   },
   {
@@ -26715,10 +27725,12 @@
    "data_warnings": [],
    "short": {
     "score": 30,
-    "signal": "avoid"
+    "pct": 20,
+    "signal": "hold"
    },
    "long": {
-    "score": 53,
+    "score": 62,
+    "pct": 44,
     "signal": "hold"
    }
   },
@@ -26767,11 +27779,13 @@
    "data_warnings": [],
    "short": {
     "score": 30,
-    "signal": "avoid"
+    "pct": 18,
+    "signal": "hold"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 72,
+    "pct": 78,
+    "signal": "hold"
    }
   },
   {
@@ -26819,10 +27833,12 @@
    "data_warnings": [],
    "short": {
     "score": 30,
-    "signal": "avoid"
+    "pct": 17,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 60,
     "signal": "hold"
    }
   },
@@ -26871,10 +27887,12 @@
    "data_warnings": [],
    "short": {
     "score": 30,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 63,
+    "score": 74,
+    "pct": 83,
     "signal": "hold"
    }
   },
@@ -26923,10 +27941,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 34,
+    "signal": "hold"
    },
    "long": {
-    "score": 73,
+    "score": 86,
+    "pct": 90,
     "signal": "buy"
    }
   },
@@ -26975,11 +27995,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 33,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 82,
+    "pct": 80,
+    "signal": "hold"
    }
   },
   {
@@ -27027,10 +28049,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 32,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 29,
     "signal": "hold"
    }
   },
@@ -27084,11 +28108,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 30,
+    "signal": "hold"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 82,
+    "pct": 79,
+    "signal": "hold"
    }
   },
   {
@@ -27136,10 +28162,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 29,
+    "signal": "hold"
    },
    "long": {
-    "score": 77,
+    "score": 91,
+    "pct": 97,
     "signal": "buy"
    }
   },
@@ -27188,10 +28216,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 28,
+    "signal": "hold"
    },
    "long": {
-    "score": 62,
+    "score": 73,
+    "pct": 49,
     "signal": "hold"
    }
   },
@@ -27240,11 +28270,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 27,
+    "signal": "hold"
    },
    "long": {
-    "score": 82,
-    "signal": "buy"
+    "score": 79,
+    "pct": 67,
+    "signal": "hold"
    }
   },
   {
@@ -27292,10 +28324,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 26,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 28,
     "signal": "hold"
    }
   },
@@ -27344,10 +28378,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 25,
+    "signal": "hold"
    },
    "long": {
-    "score": 59,
+    "score": 72,
+    "pct": 42,
     "signal": "hold"
    }
   },
@@ -27396,11 +28432,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 27,
+    "signal": "hold"
    },
    "long": {
-    "score": 83,
-    "signal": "buy"
+    "score": 80,
+    "pct": 45,
+    "signal": "hold"
    }
   },
   {
@@ -27453,11 +28491,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 24,
+    "signal": "hold"
    },
    "long": {
-    "score": 80,
-    "signal": "buy"
+    "score": 76,
+    "pct": 57,
+    "signal": "hold"
    }
   },
   {
@@ -27505,11 +28545,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 16,
+    "signal": "hold"
    },
    "long": {
-    "score": 64,
-    "signal": "hold"
+    "score": 76,
+    "pct": 87,
+    "signal": "buy"
    }
   },
   {
@@ -27557,11 +28599,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 23,
+    "signal": "hold"
    },
    "long": {
-    "score": 79,
-    "signal": "buy"
+    "score": 76,
+    "pct": 55,
+    "signal": "hold"
    }
   },
   {
@@ -27609,10 +28653,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 69,
+    "score": 81,
+    "pct": 100,
     "signal": "buy"
    }
   },
@@ -27661,11 +28707,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 22,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 82,
+    "pct": 78,
+    "signal": "hold"
    }
   },
   {
@@ -27713,11 +28761,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 23,
+    "signal": "hold"
    },
    "long": {
-    "score": 86,
-    "signal": "buy"
+    "score": 83,
+    "pct": 55,
+    "signal": "hold"
    }
   },
   {
@@ -27765,10 +28815,12 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 21,
+    "signal": "hold"
    },
    "long": {
-    "score": 79,
+    "score": 93,
+    "pct": 98,
     "signal": "buy"
    }
   },
@@ -27817,11 +28869,13 @@
    "data_warnings": [],
    "short": {
     "score": 29,
-    "signal": "avoid"
+    "pct": 20,
+    "signal": "hold"
    },
    "long": {
-    "score": 81,
-    "signal": "buy"
+    "score": 77,
+    "pct": 60,
+    "signal": "hold"
    }
   },
   {
@@ -27869,10 +28923,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
-    "signal": "avoid"
+    "pct": 15,
+    "signal": "hold"
    },
    "long": {
-    "score": 57,
+    "score": 68,
+    "pct": 66,
     "signal": "hold"
    }
   },
@@ -27921,10 +28977,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 3,
     "signal": "avoid"
    },
    "long": {
-    "score": 51,
+    "score": 61,
+    "pct": 53,
     "signal": "hold"
    }
   },
@@ -27973,11 +29031,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
-    "signal": "avoid"
+    "pct": 18,
+    "signal": "hold"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 83,
+    "pct": 84,
+    "signal": "hold"
    }
   },
   {
@@ -28025,11 +29085,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
-    "signal": "avoid"
+    "pct": 18,
+    "signal": "hold"
    },
    "long": {
-    "score": 52,
-    "signal": "hold"
+    "score": 61,
+    "pct": 9,
+    "signal": "avoid"
    }
   },
   {
@@ -28077,10 +29139,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
-    "signal": "avoid"
+    "pct": 17,
+    "signal": "hold"
    },
    "long": {
-    "score": 60,
+    "score": 71,
+    "pct": 38,
     "signal": "hold"
    }
   },
@@ -28129,11 +29193,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 1,
     "signal": "avoid"
    },
    "long": {
-    "score": 41,
-    "signal": "hold"
+    "score": 50,
+    "pct": 6,
+    "signal": "avoid"
    }
   },
   {
@@ -28181,11 +29247,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
-    "signal": "avoid"
+    "pct": 16,
+    "signal": "hold"
    },
    "long": {
-    "score": 54,
-    "signal": "hold"
+    "score": 45,
+    "pct": 5,
+    "signal": "avoid"
    }
   },
   {
@@ -28233,10 +29301,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
-    "signal": "avoid"
+    "pct": 15,
+    "signal": "hold"
    },
    "long": {
-    "score": 61,
+    "score": 71,
+    "pct": 37,
     "signal": "hold"
    }
   },
@@ -28285,11 +29355,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 62,
+    "pct": 68,
+    "signal": "hold"
    }
   },
   {
@@ -28337,10 +29409,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 50,
+    "score": 60,
+    "pct": 24,
     "signal": "hold"
    }
   },
@@ -28389,11 +29463,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 14,
     "signal": "avoid"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 79,
+    "pct": 66,
+    "signal": "hold"
    }
   },
   {
@@ -28441,11 +29517,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 13,
     "signal": "avoid"
    },
    "long": {
-    "score": 70,
-    "signal": "buy"
+    "score": 65,
+    "pct": 24,
+    "signal": "hold"
    }
   },
   {
@@ -28493,10 +29571,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 12,
     "signal": "avoid"
    },
    "long": {
-    "score": 59,
+    "score": 70,
+    "pct": 34,
     "signal": "hold"
    }
   },
@@ -28545,11 +29625,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 11,
     "signal": "avoid"
    },
    "long": {
-    "score": 71,
-    "signal": "buy"
+    "score": 66,
+    "pct": 25,
+    "signal": "hold"
    }
   },
   {
@@ -28597,11 +29679,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 10,
     "signal": "avoid"
    },
    "long": {
-    "score": 62,
-    "signal": "hold"
+    "score": 54,
+    "pct": 13,
+    "signal": "avoid"
    }
   },
   {
@@ -28649,11 +29733,13 @@
    "data_warnings": [],
    "short": {
     "score": 28,
-    "signal": "avoid"
+    "pct": 14,
+    "signal": "hold"
    },
    "long": {
-    "score": 86,
-    "signal": "buy"
+    "score": 84,
+    "pct": 68,
+    "signal": "hold"
    }
   },
   {
@@ -28701,10 +29787,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 9,
     "signal": "avoid"
    },
    "long": {
-    "score": 74,
+    "score": 87,
+    "pct": 91,
     "signal": "buy"
    }
   },
@@ -28753,10 +29841,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 8,
     "signal": "avoid"
    },
    "long": {
-    "score": 75,
+    "score": 88,
+    "pct": 93,
     "signal": "buy"
    }
   },
@@ -28805,10 +29895,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 7,
     "signal": "avoid"
    },
    "long": {
-    "score": 33,
+    "score": 40,
+    "pct": 2,
     "signal": "avoid"
    }
   },
@@ -28857,10 +29949,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 2,
     "signal": "avoid"
    },
    "long": {
-    "score": 23,
+    "score": 27,
+    "pct": 2,
     "signal": "avoid"
    }
   },
@@ -28909,10 +30003,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 9,
     "signal": "avoid"
    },
    "long": {
-    "score": 58,
+    "score": 68,
+    "pct": 18,
     "signal": "hold"
    }
   },
@@ -28966,10 +30062,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 5,
     "signal": "avoid"
    },
    "long": {
-    "score": 57,
+    "score": 67,
+    "pct": 27,
     "signal": "hold"
    }
   },
@@ -29018,10 +30116,12 @@
    "data_warnings": [],
    "short": {
     "score": 28,
+    "pct": 14,
     "signal": "avoid"
    },
    "long": {
-    "score": 62,
+    "score": 73,
+    "pct": 79,
     "signal": "hold"
    }
   },
@@ -29070,10 +30170,12 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 13,
     "signal": "avoid"
    },
    "long": {
-    "score": 51,
+    "score": 62,
+    "pct": 45,
     "signal": "hold"
    }
   },
@@ -29127,11 +30229,13 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 11,
     "signal": "avoid"
    },
    "long": {
-    "score": 42,
-    "signal": "hold"
+    "score": 54,
+    "pct": 14,
+    "signal": "avoid"
    }
   },
   {
@@ -29179,10 +30283,12 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 10,
     "signal": "avoid"
    },
    "long": {
-    "score": 59,
+    "score": 70,
+    "pct": 75,
     "signal": "hold"
    }
   },
@@ -29231,10 +30337,12 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 9,
     "signal": "avoid"
    },
    "long": {
-    "score": 54,
+    "score": 64,
+    "pct": 51,
     "signal": "hold"
    }
   },
@@ -29283,10 +30391,12 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 8,
     "signal": "avoid"
    },
    "long": {
-    "score": 60,
+    "score": 71,
+    "pct": 77,
     "signal": "hold"
    }
   },
@@ -29335,11 +30445,13 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 7,
     "signal": "avoid"
    },
    "long": {
-    "score": 46,
-    "signal": "hold"
+    "score": 54,
+    "pct": 13,
+    "signal": "avoid"
    }
   },
   {
@@ -29392,10 +30504,12 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 4,
     "signal": "avoid"
    },
    "long": {
-    "score": 72,
+    "score": 85,
+    "pct": 88,
     "signal": "buy"
    }
   },
@@ -29444,10 +30558,12 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 6,
     "signal": "avoid"
    },
    "long": {
-    "score": 67,
+    "score": 79,
+    "pct": 94,
     "signal": "buy"
    }
   },
@@ -29496,10 +30612,12 @@
    "data_warnings": [],
    "short": {
     "score": 27,
+    "pct": 5,
     "signal": "avoid"
    },
    "long": {
-    "score": 61,
+    "score": 71,
+    "pct": 76,
     "signal": "hold"
    }
   },
@@ -29548,11 +30666,13 @@
    "data_warnings": [],
    "short": {
     "score": 26,
+    "pct": 3,
     "signal": "avoid"
    },
    "long": {
-    "score": 67,
-    "signal": "buy"
+    "score": 79,
+    "pct": 68,
+    "signal": "hold"
    }
   },
   {
@@ -29600,10 +30720,12 @@
    "data_warnings": [],
    "short": {
     "score": 26,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 77,
+    "score": 73,
+    "pct": 92,
     "signal": "buy"
    }
   },
@@ -29657,11 +30779,13 @@
    "data_warnings": [],
    "short": {
     "score": 26,
+    "pct": 5,
     "signal": "avoid"
    },
    "long": {
-    "score": 76,
-    "signal": "buy"
+    "score": 72,
+    "pct": 23,
+    "signal": "hold"
    }
   },
   {
@@ -29709,10 +30833,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 3,
     "signal": "avoid"
    },
    "long": {
-    "score": 47,
+    "score": 57,
+    "pct": 23,
     "signal": "hold"
    }
   },
@@ -29761,10 +30887,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 54,
+    "score": 64,
+    "pct": 14,
     "signal": "hold"
    }
   },
@@ -29813,11 +30941,13 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 2,
     "signal": "avoid"
    },
    "long": {
-    "score": 66,
-    "signal": "buy"
+    "score": 78,
+    "pct": 62,
+    "signal": "hold"
    }
   },
   {
@@ -29865,11 +30995,13 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 1,
     "signal": "avoid"
    },
    "long": {
-    "score": 68,
-    "signal": "buy"
+    "score": 79,
+    "pct": 65,
+    "signal": "hold"
    }
   },
   {
@@ -29917,10 +31049,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 4,
     "signal": "avoid"
    },
    "long": {
-    "score": 54,
+    "score": 63,
+    "pct": 39,
     "signal": "hold"
    }
   },
@@ -29969,10 +31103,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 55,
+    "score": 65,
+    "pct": 57,
     "signal": "hold"
    }
   },
@@ -30021,10 +31157,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 2,
     "signal": "avoid"
    },
    "long": {
-    "score": 55,
+    "score": 65,
+    "pct": 53,
     "signal": "hold"
    }
   },
@@ -30073,10 +31211,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 59,
+    "score": 69,
+    "pct": 30,
     "signal": "hold"
    }
   },
@@ -30125,10 +31265,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 1,
     "signal": "avoid"
    },
    "long": {
-    "score": 65,
+    "score": 76,
+    "pct": 86,
     "signal": "buy"
    }
   },
@@ -30177,10 +31319,12 @@
    "data_warnings": [],
    "short": {
     "score": 25,
+    "pct": 0,
     "signal": "avoid"
    },
    "long": {
-    "score": 54,
+    "score": 64,
+    "pct": 48,
     "signal": "hold"
    }
   }
