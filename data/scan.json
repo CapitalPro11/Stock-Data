@@ -1,7 +1,22 @@
 {
- "generated_at": "2026-11-08T11:36:52Z",
+ "generated_at": "2026-11-08T12:23:05Z",
  "disclaimer": "Keine Anlageberatung. Alle Angaben ohne Gewähr.",
  "count": 522,
+ "fx": {
+  "USDCHF": 0.8154
+ },
+ "benchmarks": {
+  "^GSPC": {
+   "name": "S&P 500",
+   "price": 7376.86,
+   "change_pct_1d": 0.31
+  },
+  "^SSMI": {
+   "name": "SMI",
+   "price": 14796.5,
+   "change_pct_1d": -1.14
+  }
+ },
  "stocks": [
   {
    "symbol": "WYNN",
