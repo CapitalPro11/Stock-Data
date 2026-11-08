@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T13:14:22Z",
+ "generated_at": "2026-11-08T15:33:37Z",
  "disclaimer": "Keine Anlageberatung. Alle Angaben ohne Gewähr.",
  "schema_version": 5,
  "count": 572,
@@ -5615,7 +5615,7 @@
    "currency": "USD",
    "sector": "Consumer Cyclical",
    "price": 29.58,
-   "change_pct_1d": 0.48,
+   "change_pct_1d": -0.03,
    "spark": [
     22.03,
     24.98,
@@ -6823,7 +6823,7 @@
    "currency": "USD",
    "sector": "Industrials",
    "price": 82.22,
-   "change_pct_1d": -1.54,
+   "change_pct_1d": -1.92,
    "spark": [
     68.1,
     68.11,
@@ -8674,7 +8674,7 @@
    "currency": "USD",
    "sector": "Utilities",
    "price": 69.18,
-   "change_pct_1d": -1.33,
+   "change_pct_1d": -2.12,
    "spark": [
     62.1,
     62.94,
@@ -15072,7 +15072,7 @@
    "currency": "USD",
    "sector": "Utilities",
    "price": 46.43,
-   "change_pct_1d": -0.44,
+   "change_pct_1d": -1.42,
    "spark": [
     42.6,
     43.21,
@@ -15725,7 +15725,7 @@
    "currency": "USD",
    "sector": "Financial Services",
    "price": 83.94,
-   "change_pct_1d": -0.43,
+   "change_pct_1d": -1.01,
    "spark": [
     80.33,
     80.01,
@@ -18519,7 +18519,7 @@
    "currency": "USD",
    "sector": "Healthcare",
    "price": 29.39,
-   "change_pct_1d": -0.2,
+   "change_pct_1d": -1.64,
    "spark": [
     28.31,
     28.31,
@@ -23105,7 +23105,7 @@
    "currency": "USD",
    "sector": "Industrials",
    "price": 217.55,
-   "change_pct_1d": -0.45,
+   "change_pct_1d": -0.66,
    "spark": [
     225.61,
     228.81,
@@ -24981,7 +24981,7 @@
    "currency": "USD",
    "sector": "Industrials",
    "price": 205.81,
-   "change_pct_1d": 2.52,
+   "change_pct_1d": 2.44,
    "spark": [
     228.16,
     230.78,
@@ -25860,7 +25860,7 @@
    "currency": "USD",
    "sector": "Industrials",
    "price": 319.94,
-   "change_pct_1d": -2.43,
+   "change_pct_1d": -2.83,
    "spark": [
     311.77,
     311.72,
