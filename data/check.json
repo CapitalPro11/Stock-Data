@@ -1,11 +1,11 @@
 {
- "checked_at": "2026-11-10T13:41:40Z",
+ "checked_at": "2026-11-10T18:47:00Z",
  "scan_generated_at": "2026-11-10T04:16:09Z",
  "ok": false,
  "sample_size": 40,
  "summary": {
-  "passed": 306,
-  "failed": 17,
+  "passed": 307,
+  "failed": 16,
   "skipped": 4
  },
  "checks": [
@@ -35,9 +35,9 @@
   },
   {
    "symbol": "AAPL",
-   "field": "pe",
-   "ours": 38.1258,
-   "yahoo": 39.0523,
+   "field": "eps_implied",
+   "ours": 9.1982,
+   "yahoo": 8.9799,
    "ok": false
   },
   {
@@ -94,9 +94,9 @@
   },
   {
    "symbol": "MSFT",
-   "field": "pe",
-   "ours": 27.6936,
-   "yahoo": 28.4541,
+   "field": "eps_implied",
+   "ours": 19.6861,
+   "yahoo": 19.1634,
    "ok": false
   },
   {
@@ -153,9 +153,9 @@
   },
   {
    "symbol": "NESN.SW",
-   "field": "pe",
-   "ours": 29.7059,
-   "yahoo": 29.8028,
+   "field": "eps_implied",
+   "ours": 2.8994,
+   "yahoo": 2.89,
    "ok": true
   },
   {
@@ -212,9 +212,9 @@
   },
   {
    "symbol": "ASML.AS",
-   "field": "pe",
-   "ours": 38.4162,
-   "yahoo": 36.6953,
+   "field": "eps_implied",
+   "ours": 33.413,
+   "yahoo": 34.98,
    "ok": false
   },
   {
@@ -271,9 +271,9 @@
   },
   {
    "symbol": "MDT",
-   "field": "pe",
-   "ours": 25.0123,
-   "yahoo": 25.2555,
+   "field": "eps_implied",
+   "ours": 4.1096,
+   "yahoo": 4.07,
    "ok": true
   },
   {
@@ -330,9 +330,9 @@
   },
   {
    "symbol": "EXPE",
-   "field": "pe",
-   "ours": 15.1958,
-   "yahoo": 15.1911,
+   "field": "eps_implied",
+   "ours": 17.0547,
+   "yahoo": 17.06,
    "ok": true
   },
   {
@@ -389,7 +389,7 @@
   },
   {
    "symbol": "VMRK",
-   "field": "pe",
+   "field": "eps_implied",
    "ours": null,
    "yahoo": null,
    "ok": null
@@ -448,9 +448,9 @@
   },
   {
    "symbol": "PODD",
-   "field": "pe",
-   "ours": 23.9395,
-   "yahoo": 24.4788,
+   "field": "eps_implied",
+   "ours": 6.2578,
+   "yahoo": 6.12,
    "ok": false
   },
   {
@@ -507,7 +507,7 @@
   },
   {
    "symbol": "MSTR",
-   "field": "pe",
+   "field": "eps_implied",
    "ours": null,
    "yahoo": null,
    "ok": null
@@ -566,9 +566,9 @@
   },
   {
    "symbol": "FDS",
-   "field": "pe",
-   "ours": 22.5045,
-   "yahoo": 22.4242,
+   "field": "eps_implied",
+   "ours": 14.518,
+   "yahoo": 14.57,
    "ok": true
   },
   {
@@ -625,9 +625,9 @@
   },
   {
    "symbol": "NEM",
-   "field": "pe",
-   "ours": 14.0267,
-   "yahoo": 14.5197,
+   "field": "eps_implied",
+   "ours": 8.923,
+   "yahoo": 8.62,
    "ok": false
   },
   {
@@ -684,9 +684,9 @@
   },
   {
    "symbol": "HPQ",
-   "field": "pe",
-   "ours": 10.8626,
-   "yahoo": 10.7824,
+   "field": "eps_implied",
+   "ours": 2.6007,
+   "yahoo": 2.62,
    "ok": true
   },
   {
@@ -743,9 +743,9 @@
   },
   {
    "symbol": "SHOP",
-   "field": "pe",
-   "ours": 91.6024,
-   "yahoo": 93.2883,
+   "field": "eps_implied",
+   "ours": 1.66,
+   "yahoo": 1.63,
    "ok": true
   },
   {
@@ -802,9 +802,9 @@
   },
   {
    "symbol": "DLTR",
-   "field": "pe",
-   "ours": 15.9732,
-   "yahoo": 16.715,
+   "field": "eps_implied",
+   "ours": 8.5913,
+   "yahoo": 8.21,
    "ok": false
   },
   {
@@ -861,9 +861,9 @@
   },
   {
    "symbol": "OXY",
-   "field": "pe",
-   "ours": 16.017,
-   "yahoo": 15.8409,
+   "field": "eps_implied",
+   "ours": 3.4813,
+   "yahoo": 3.52,
    "ok": true
   },
   {
@@ -871,7 +871,7 @@
    "field": "profit_margin",
    "ours": 0.3032,
    "yahoo": 0.3399,
-   "ok": false
+   "ok": true
   },
   {
    "symbol": "OXY",
@@ -920,9 +920,9 @@
   },
   {
    "symbol": "TSLA",
-   "field": "pe",
-   "ours": 393.6483,
-   "yahoo": 415.4395,
+   "field": "eps_implied",
+   "ours": 0.9604,
+   "yahoo": 0.91,
    "ok": false
   },
   {
@@ -979,9 +979,9 @@
   },
   {
    "symbol": "SBUX",
-   "field": "pe",
-   "ours": 47.6968,
-   "yahoo": 49.5204,
+   "field": "eps_implied",
+   "ours": 2.2945,
+   "yahoo": 2.21,
    "ok": false
   },
   {
@@ -1038,9 +1038,9 @@
   },
   {
    "symbol": "HII",
-   "field": "pe",
-   "ours": 15.5487,
-   "yahoo": 16.3899,
+   "field": "eps_implied",
+   "ours": 19.5746,
+   "yahoo": 18.57,
    "ok": false
   },
   {
@@ -1097,9 +1097,9 @@
   },
   {
    "symbol": "XOM",
-   "field": "pe",
-   "ours": 17.0648,
-   "yahoo": 16.9475,
+   "field": "eps_implied",
+   "ours": 9.6532,
+   "yahoo": 9.72,
    "ok": true
   },
   {
@@ -1156,9 +1156,9 @@
   },
   {
    "symbol": "GEKTERNA.AT",
-   "field": "pe",
-   "ours": 26.1688,
-   "yahoo": 25.4935,
+   "field": "eps_implied",
+   "ours": 1.5003,
+   "yahoo": 1.54,
    "ok": false
   },
   {
@@ -1215,9 +1215,9 @@
   },
   {
    "symbol": "EDP.LS",
-   "field": "pe",
-   "ours": 14.9118,
-   "yahoo": 14.7059,
+   "field": "eps_implied",
+   "ours": 0.3353,
+   "yahoo": 0.34,
    "ok": true
   },
   {
@@ -1274,9 +1274,9 @@
   },
   {
    "symbol": "EN.PA",
-   "field": "pe",
-   "ours": 21.435,
-   "yahoo": 21.145,
+   "field": "eps_implied",
+   "ours": 1.9729,
+   "yahoo": 2.0,
    "ok": true
   },
   {
@@ -1333,9 +1333,9 @@
   },
   {
    "symbol": "GET.PA",
-   "field": "pe",
-   "ours": 33.6,
-   "yahoo": 33.7,
+   "field": "eps_implied",
+   "ours": 0.6018,
+   "yahoo": 0.6,
    "ok": true
   },
   {
@@ -1392,9 +1392,9 @@
   },
   {
    "symbol": "ITV.L",
-   "field": "pe",
-   "ours": 11.15,
-   "yahoo": 11.0333,
+   "field": "eps_implied",
+   "ours": 5.9372,
+   "yahoo": 6.0,
    "ok": true
   },
   {
@@ -1451,9 +1451,9 @@
   },
   {
    "symbol": "BAMNB.AS",
-   "field": "pe",
-   "ours": 14.4835,
-   "yahoo": 13.8571,
+   "field": "eps_implied",
+   "ours": 0.8706,
+   "yahoo": 0.91,
    "ok": false
   },
   {
@@ -1488,122 +1488,115 @@
  "failures": [
   {
    "symbol": "AAPL",
-   "field": "pe",
-   "ours": 38.1258,
-   "yahoo": 39.0523,
+   "field": "eps_implied",
+   "ours": 9.1982,
+   "yahoo": 8.9799,
    "reason": "Abweichung 2.4 %"
   },
   {
    "symbol": "MSFT",
-   "field": "pe",
-   "ours": 27.6936,
-   "yahoo": 28.4541,
+   "field": "eps_implied",
+   "ours": 19.6861,
+   "yahoo": 19.1634,
    "reason": "Abweichung 2.7 %"
   },
   {
    "symbol": "ASML.AS",
-   "field": "pe",
-   "ours": 38.4162,
-   "yahoo": 36.6953,
-   "reason": "Abweichung 4.7 %"
+   "field": "eps_implied",
+   "ours": 33.413,
+   "yahoo": 34.98,
+   "reason": "Abweichung 4.5 %"
   },
   {
    "symbol": "PODD",
-   "field": "pe",
-   "ours": 23.9395,
-   "yahoo": 24.4788,
-   "reason": "Abweichung 2.2 %"
+   "field": "eps_implied",
+   "ours": 6.2578,
+   "yahoo": 6.12,
+   "reason": "Abweichung 2.3 %"
   },
   {
    "symbol": "NEM",
-   "field": "pe",
-   "ours": 14.0267,
-   "yahoo": 14.5197,
-   "reason": "Abweichung 3.4 %"
+   "field": "eps_implied",
+   "ours": 8.923,
+   "yahoo": 8.62,
+   "reason": "Abweichung 3.5 %"
   },
   {
    "symbol": "DLTR",
-   "field": "pe",
-   "ours": 15.9732,
-   "yahoo": 16.715,
-   "reason": "Abweichung 4.4 %"
-  },
-  {
-   "symbol": "OXY",
-   "field": "profit_margin",
-   "ours": 0.3032,
-   "yahoo": 0.3399,
-   "reason": "Abweichung 10.8 %"
+   "field": "eps_implied",
+   "ours": 8.5913,
+   "yahoo": 8.21,
+   "reason": "Abweichung 4.6 %"
   },
   {
    "symbol": "TSLA",
-   "field": "pe",
-   "ours": 393.6483,
-   "yahoo": 415.4395,
-   "reason": "Abweichung 5.2 %"
+   "field": "eps_implied",
+   "ours": 0.9604,
+   "yahoo": 0.91,
+   "reason": "Abweichung 5.5 %"
   },
   {
    "symbol": "SBUX",
-   "field": "pe",
-   "ours": 47.6968,
-   "yahoo": 49.5204,
-   "reason": "Abweichung 3.7 %"
+   "field": "eps_implied",
+   "ours": 2.2945,
+   "yahoo": 2.21,
+   "reason": "Abweichung 3.8 %"
   },
   {
    "symbol": "HII",
-   "field": "pe",
-   "ours": 15.5487,
-   "yahoo": 16.3899,
-   "reason": "Abweichung 5.1 %"
+   "field": "eps_implied",
+   "ours": 19.5746,
+   "yahoo": 18.57,
+   "reason": "Abweichung 5.4 %"
   },
   {
    "symbol": "GEKTERNA.AT",
-   "field": "pe",
-   "ours": 26.1688,
-   "yahoo": 25.4935,
+   "field": "eps_implied",
+   "ours": 1.5003,
+   "yahoo": 1.54,
    "reason": "Abweichung 2.6 %"
   },
   {
    "symbol": "BAMNB.AS",
-   "field": "pe",
-   "ours": 14.4835,
-   "yahoo": 13.8571,
-   "reason": "Abweichung 4.5 %"
+   "field": "eps_implied",
+   "ours": 0.8706,
+   "yahoo": 0.91,
+   "reason": "Abweichung 4.3 %"
   },
   {
    "symbol": "BBY.L",
-   "field": "pe",
-   "ours": 16.8269,
-   "yahoo": 16.375,
-   "reason": "Abweichung 2.8 %"
+   "field": "eps_implied",
+   "ours": 50.6034,
+   "yahoo": 52.0,
+   "reason": "Abweichung 2.7 %"
   },
   {
    "symbol": "MBK.WA",
-   "field": "pe",
-   "ours": 17.1586,
-   "yahoo": 16.8038,
+   "field": "eps_implied",
+   "ours": 95.2293,
+   "yahoo": 97.24,
    "reason": "Abweichung 2.1 %"
   },
   {
    "symbol": "BG.VI",
-   "field": "pe",
-   "ours": 14.6807,
-   "yahoo": 14.2345,
-   "reason": "Abweichung 3.1 %"
+   "field": "eps_implied",
+   "ours": 11.0826,
+   "yahoo": 11.43,
+   "reason": "Abweichung 3.0 %"
   },
   {
    "symbol": "TGS.OL",
-   "field": "pe",
-   "ours": 37.9943,
-   "yahoo": 36.9341,
-   "reason": "Abweichung 2.9 %"
+   "field": "eps_implied",
+   "ours": 3.3926,
+   "yahoo": 3.49,
+   "reason": "Abweichung 2.8 %"
   },
   {
    "symbol": "BCHN.SW",
-   "field": "pe",
-   "ours": 16.8714,
-   "yahoo": 16.0957,
-   "reason": "Abweichung 4.8 %"
+   "field": "eps_implied",
+   "ours": 29.5175,
+   "yahoo": 30.94,
+   "reason": "Abweichung 4.6 %"
   }
  ]
 }
