@@ -1,6 +1,6 @@
 {
  "start_date": "2026-11-06",
- "updated_at": "2026-11-08T20:09:42Z",
+ "updated_at": "2026-11-10T04:16:09Z",
  "fee_pct": 0.1,
  "rules": "Jeden Montag: Top 10 nach Score mit Signal Kaufen, gleich gewichtet. 0.1 % Gebühr pro Kauf und Verkauf.",
  "portfolios": {
@@ -8,74 +8,74 @@
    "label": "Kurzfrist Top 10",
    "holdings": [
     {
-     "symbol": "WYNN",
-     "shares": 0.120202,
-     "entry_price": 83.11,
-     "entry_date": "2026-11-06",
-     "last_price": 83.11
+     "symbol": "BEN",
+     "shares": 0.282827,
+     "entry_price": 35.87,
+     "entry_date": "2026-11-09",
+     "last_price": 35.87
     },
     {
-     "symbol": "HSY",
-     "shares": 0.056098,
-     "entry_price": 178.08,
-     "entry_date": "2026-11-06",
-     "last_price": 178.08
+     "symbol": "TDG",
+     "shares": 0.008323,
+     "entry_price": 1218.85,
+     "entry_date": "2026-11-09",
+     "last_price": 1218.85
     },
     {
-     "symbol": "ABNB",
-     "shares": 0.052582,
-     "entry_price": 189.99,
-     "entry_date": "2026-11-06",
-     "last_price": 189.99
+     "symbol": "SKA-B.ST",
+     "shares": 0.035165,
+     "entry_price": 288.5,
+     "entry_date": "2026-11-09",
+     "last_price": 288.5
     },
     {
      "symbol": "ALGN",
-     "shares": 0.060181,
-     "entry_price": 166.0,
-     "entry_date": "2026-11-06",
-     "last_price": 166.0
+     "shares": 0.058218,
+     "entry_price": 174.26,
+     "entry_date": "2026-11-09",
+     "last_price": 174.26
     },
     {
-     "symbol": "VTRS",
-     "shares": 0.501758,
-     "entry_price": 19.91,
-     "entry_date": "2026-11-06",
-     "last_price": 19.91
+     "symbol": "FERG",
+     "shares": 0.03903,
+     "entry_price": 259.93,
+     "entry_date": "2026-11-09",
+     "last_price": 259.93
     },
     {
-     "symbol": "EVRG",
-     "shares": 0.114119,
-     "entry_price": 87.54,
-     "entry_date": "2026-11-06",
-     "last_price": 87.54
+     "symbol": "RSGN.SW",
+     "shares": 0.479896,
+     "entry_price": 21.14,
+     "entry_date": "2026-11-09",
+     "last_price": 21.14
     },
     {
-     "symbol": "APP",
-     "shares": 0.025536,
-     "entry_price": 391.22,
-     "entry_date": "2026-11-06",
-     "last_price": 391.22
+     "symbol": "MPWR",
+     "shares": 0.007309,
+     "entry_price": 1388.05,
+     "entry_date": "2026-11-09",
+     "last_price": 1388.05
     },
     {
-     "symbol": "CPAY",
-     "shares": 0.021948,
-     "entry_price": 455.16,
-     "entry_date": "2026-11-06",
-     "last_price": 455.16
+     "symbol": "TMUS",
+     "shares": 0.060133,
+     "entry_price": 168.71,
+     "entry_date": "2026-11-09",
+     "last_price": 168.71
     },
     {
-     "symbol": "SOLV",
-     "shares": 0.110533,
-     "entry_price": 90.38,
-     "entry_date": "2026-11-06",
-     "last_price": 90.38
+     "symbol": "PMN.SW",
+     "shares": 0.022054,
+     "entry_price": 460.0,
+     "entry_date": "2026-11-09",
+     "last_price": 460.0
     },
     {
-     "symbol": "DOC",
-     "shares": 0.49309,
-     "entry_price": 20.26,
-     "entry_date": "2026-11-06",
-     "last_price": 20.26
+     "symbol": "LTMC.MI",
+     "shares": 0.367972,
+     "entry_price": 27.57,
+     "entry_date": "2026-11-09",
+     "last_price": 27.57
     }
    ],
    "cash": 0.0,
@@ -83,6 +83,10 @@
     {
      "d": "2026-11-06",
      "v": 99.9
+    },
+    {
+     "d": "2026-11-09",
+     "v": 101.4499
     }
    ]
   },
@@ -90,74 +94,74 @@
    "label": "Langfrist Top 10",
    "holdings": [
     {
+     "symbol": "BAER.SW",
+     "shares": 0.143077,
+     "entry_price": 70.32,
+     "entry_date": "2026-11-09",
+     "last_price": 70.32
+    },
+    {
+     "symbol": "XTB.WA",
+     "shares": 0.075911,
+     "entry_price": 132.54,
+     "entry_date": "2026-11-09",
+     "last_price": 132.54
+    },
+    {
+     "symbol": "BMED.MI",
+     "shares": 0.436305,
+     "entry_price": 23.06,
+     "entry_date": "2026-11-09",
+     "last_price": 23.06
+    },
+    {
+     "symbol": "MU",
+     "shares": 0.013723,
+     "entry_price": 733.15,
+     "entry_date": "2026-11-09",
+     "last_price": 733.15
+    },
+    {
+     "symbol": "HIAG.SW",
+     "shares": 0.075535,
+     "entry_price": 133.2,
+     "entry_date": "2026-11-09",
+     "last_price": 133.2
+    },
+    {
+     "symbol": "BBVA.MC",
+     "shares": 0.44264,
+     "entry_price": 22.73,
+     "entry_date": "2026-11-09",
+     "last_price": 22.73
+    },
+    {
+     "symbol": "PAF.L",
+     "shares": 0.086959,
+     "entry_price": 115.7,
+     "entry_date": "2026-11-09",
+     "last_price": 115.7
+    },
+    {
+     "symbol": "ALPHA.AT",
+     "shares": 2.221015,
+     "entry_price": 4.53,
+     "entry_date": "2026-11-09",
+     "last_price": 4.53
+    },
+    {
+     "symbol": "BIRG.IR",
+     "shares": 0.531495,
+     "entry_price": 18.93,
+     "entry_date": "2026-11-09",
+     "last_price": 18.93
+    },
+    {
      "symbol": "EOG",
-     "shares": 0.067899,
-     "entry_price": 147.13,
-     "entry_date": "2026-11-06",
-     "last_price": 147.13
-    },
-    {
-     "symbol": "OXY",
-     "shares": 0.177191,
-     "entry_price": 56.38,
-     "entry_date": "2026-11-06",
-     "last_price": 56.38
-    },
-    {
-     "symbol": "STT",
-     "shares": 0.060341,
-     "entry_price": 165.56,
-     "entry_date": "2026-11-06",
-     "last_price": 165.56
-    },
-    {
-     "symbol": "APA",
-     "shares": 0.223841,
-     "entry_price": 44.63,
-     "entry_date": "2026-11-06",
-     "last_price": 44.63
-    },
-    {
-     "symbol": "COP",
-     "shares": 0.07331,
-     "entry_price": 136.27,
-     "entry_date": "2026-11-06",
-     "last_price": 136.27
-    },
-    {
-     "symbol": "REGN",
-     "shares": 0.011047,
-     "entry_price": 904.35,
-     "entry_date": "2026-11-06",
-     "last_price": 904.35
-    },
-    {
-     "symbol": "CF",
-     "shares": 0.083675,
-     "entry_price": 119.39,
-     "entry_date": "2026-11-06",
-     "last_price": 119.39
-    },
-    {
-     "symbol": "CVX",
-     "shares": 0.046987,
-     "entry_price": 212.61,
-     "entry_date": "2026-11-06",
-     "last_price": 212.61
-    },
-    {
-     "symbol": "PFG",
-     "shares": 0.090073,
-     "entry_price": 110.91,
-     "entry_date": "2026-11-06",
-     "last_price": 110.91
-    },
-    {
-     "symbol": "NTRS",
-     "shares": 0.057826,
-     "entry_price": 172.76,
-     "entry_date": "2026-11-06",
-     "last_price": 172.76
+     "shares": 0.067784,
+     "entry_price": 148.43,
+     "entry_date": "2026-11-09",
+     "last_price": 148.43
     }
    ],
    "cash": 0.0,
@@ -165,6 +169,10 @@
     {
      "d": "2026-11-06",
      "v": 99.9003
+    },
+    {
+     "d": "2026-11-09",
+     "v": 100.6118
     }
    ]
   },
@@ -175,6 +183,10 @@
     {
      "d": "2026-11-06",
      "v": 100.0
+    },
+    {
+     "d": "2026-11-09",
+     "v": 102.3463
     }
    ]
   },
@@ -185,6 +197,10 @@
     {
      "d": "2026-11-06",
      "v": 100.0
+    },
+    {
+     "d": "2026-11-09",
+     "v": 101.0114
     }
    ]
   },
@@ -195,6 +211,10 @@
     {
      "d": "2026-11-06",
      "v": 100.0
+    },
+    {
+     "d": "2026-11-09",
+     "v": 101.9441
     }
    ]
   }
@@ -339,7 +359,287 @@
    "symbol": "NTRS",
    "action": "buy",
    "price": 172.76
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "WYNN",
+   "action": "sell",
+   "price": 86.7
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "HSY",
+   "action": "sell",
+   "price": 173.48
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "ABNB",
+   "action": "sell",
+   "price": 190.29
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "ALGN",
+   "action": "sell",
+   "price": 174.26
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "VTRS",
+   "action": "sell",
+   "price": 20.49
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "EVRG",
+   "action": "sell",
+   "price": 87.99
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "APP",
+   "action": "sell",
+   "price": 410.0
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "CPAY",
+   "action": "sell",
+   "price": 457.97
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "SOLV",
+   "action": "sell",
+   "price": 90.43
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "DOC",
+   "action": "sell",
+   "price": 20.62
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "BEN",
+   "action": "buy",
+   "price": 35.87
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "TDG",
+   "action": "buy",
+   "price": 1218.85
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "SKA-B.ST",
+   "action": "buy",
+   "price": 288.5
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "ALGN",
+   "action": "buy",
+   "price": 174.26
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "FERG",
+   "action": "buy",
+   "price": 259.93
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "RSGN.SW",
+   "action": "buy",
+   "price": 21.14
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "MPWR",
+   "action": "buy",
+   "price": 1388.05
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "TMUS",
+   "action": "buy",
+   "price": 168.71
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "PMN.SW",
+   "action": "buy",
+   "price": 460.0
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "short_top10",
+   "symbol": "LTMC.MI",
+   "action": "buy",
+   "price": 27.57
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "EOG",
+   "action": "sell",
+   "price": 148.43
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "OXY",
+   "action": "sell",
+   "price": 55.76
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "STT",
+   "action": "sell",
+   "price": 170.88
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "APA",
+   "action": "sell",
+   "price": 44.55
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "COP",
+   "action": "sell",
+   "price": 134.47
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "REGN",
+   "action": "sell",
+   "price": 919.96
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "CF",
+   "action": "sell",
+   "price": 119.28
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "CVX",
+   "action": "sell",
+   "price": 210.78
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "PFG",
+   "action": "sell",
+   "price": 115.39
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "NTRS",
+   "action": "sell",
+   "price": 177.65
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "BAER.SW",
+   "action": "buy",
+   "price": 70.32
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "XTB.WA",
+   "action": "buy",
+   "price": 132.54
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "BMED.MI",
+   "action": "buy",
+   "price": 23.06
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "MU",
+   "action": "buy",
+   "price": 733.15
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "HIAG.SW",
+   "action": "buy",
+   "price": 133.2
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "BBVA.MC",
+   "action": "buy",
+   "price": 22.73
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "PAF.L",
+   "action": "buy",
+   "price": 115.7
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "ALPHA.AT",
+   "action": "buy",
+   "price": 4.53
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "BIRG.IR",
+   "action": "buy",
+   "price": 18.93
+  },
+  {
+   "d": "2026-11-09",
+   "portfolio": "long_top10",
+   "symbol": "EOG",
+   "action": "buy",
+   "price": 148.43
   }
  ],
- "last_rebalance": "2026-11-06"
+ "last_rebalance": "2026-11-09"
 }
