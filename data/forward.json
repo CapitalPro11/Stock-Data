@@ -1,6 +1,6 @@
 {
  "start_date": "2026-11-06",
- "updated_at": "2026-11-12T03:14:47Z",
+ "updated_at": "2026-11-13T02:49:56Z",
  "fee_pct": 0.1,
  "rules": "Jeden Montag: Top 10 nach Score mit Signal Kaufen, gleich gewichtet. 0.1 % Gebühr pro Kauf und Verkauf.",
  "portfolios": {
@@ -12,56 +12,56 @@
      "shares": 0.282827,
      "entry_price": 35.87,
      "entry_date": "2026-11-09",
-     "last_price": 36.3
+     "last_price": 35.86
     },
     {
      "symbol": "TDG",
      "shares": 0.008323,
      "entry_price": 1218.85,
      "entry_date": "2026-11-09",
-     "last_price": 1245.0
+     "last_price": 1203.0
     },
     {
      "symbol": "SKA-B.ST",
      "shares": 0.035165,
      "entry_price": 288.5,
      "entry_date": "2026-11-09",
-     "last_price": 301.9
+     "last_price": 305.0
     },
     {
      "symbol": "ALGN",
      "shares": 0.058218,
      "entry_price": 174.26,
      "entry_date": "2026-11-09",
-     "last_price": 172.08
+     "last_price": 166.97
     },
     {
      "symbol": "FERG",
      "shares": 0.03903,
      "entry_price": 259.93,
      "entry_date": "2026-11-09",
-     "last_price": 264.5
+     "last_price": 254.89
     },
     {
      "symbol": "RSGN.SW",
      "shares": 0.479896,
      "entry_price": 21.14,
      "entry_date": "2026-11-09",
-     "last_price": 20.84
+     "last_price": 20.9
     },
     {
      "symbol": "MPWR",
      "shares": 0.007309,
      "entry_price": 1388.05,
      "entry_date": "2026-11-09",
-     "last_price": 1478.69
+     "last_price": 1447.4
     },
     {
      "symbol": "TMUS",
      "shares": 0.060133,
      "entry_price": 168.71,
      "entry_date": "2026-11-09",
-     "last_price": 172.16
+     "last_price": 171.03
     },
     {
      "symbol": "PMN.SW",
@@ -75,7 +75,7 @@
      "shares": 0.367972,
      "entry_price": 27.57,
      "entry_date": "2026-11-09",
-     "last_price": 28.41
+     "last_price": 28.04
     }
    ],
    "cash": 0.0,
@@ -95,6 +95,10 @@
     {
      "d": "2026-11-11",
      "v": 103.1704
+    },
+    {
+     "d": "2026-11-12",
+     "v": 101.7288
     }
    ]
   },
@@ -120,21 +124,21 @@
      "shares": 0.436305,
      "entry_price": 23.06,
      "entry_date": "2026-11-09",
-     "last_price": 24.03
+     "last_price": 23.44
     },
     {
      "symbol": "MU",
      "shares": 0.013723,
      "entry_price": 733.15,
      "entry_date": "2026-11-09",
-     "last_price": 811.3
+     "last_price": 798.44
     },
     {
      "symbol": "HIAG.SW",
      "shares": 0.075535,
      "entry_price": 133.2,
      "entry_date": "2026-11-09",
-     "last_price": 133.0
+     "last_price": 132.4
     },
     {
      "symbol": "BBVA.MC",
@@ -148,28 +152,28 @@
      "shares": 0.086959,
      "entry_price": 115.7,
      "entry_date": "2026-11-09",
-     "last_price": 113.8
+     "last_price": 113.1
     },
     {
      "symbol": "ALPHA.AT",
      "shares": 2.221015,
      "entry_price": 4.53,
      "entry_date": "2026-11-09",
-     "last_price": 4.77
+     "last_price": 4.85
     },
     {
      "symbol": "BIRG.IR",
      "shares": 0.531495,
      "entry_price": 18.93,
      "entry_date": "2026-11-09",
-     "last_price": 19.6
+     "last_price": 19.62
     },
     {
      "symbol": "EOG",
      "shares": 0.067784,
      "entry_price": 148.43,
      "entry_date": "2026-11-09",
-     "last_price": 153.77
+     "last_price": 155.62
     }
    ],
    "cash": 0.0,
@@ -189,6 +193,10 @@
     {
      "d": "2026-11-11",
      "v": 104.031
+    },
+    {
+     "d": "2026-11-12",
+     "v": 103.8046
     }
    ]
   },
@@ -211,6 +219,10 @@
     {
      "d": "2026-11-11",
      "v": 103.2876
+    },
+    {
+     "d": "2026-11-12",
+     "v": 102.9218
     }
    ]
   },
@@ -233,6 +245,10 @@
     {
      "d": "2026-11-11",
      "v": 101.7393
+    },
+    {
+     "d": "2026-11-12",
+     "v": 102.3852
     }
    ]
   },
@@ -255,6 +271,10 @@
     {
      "d": "2026-11-11",
      "v": 103.6124
+    },
+    {
+     "d": "2026-11-12",
+     "v": 103.7029
     }
    ]
   }
