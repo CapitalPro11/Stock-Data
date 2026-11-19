@@ -1,0 +1,1511 @@
+{
+ "checked_at": "2026-11-19T14:38:12Z",
+ "scan_generated_at": "2026-11-19T03:45:51Z",
+ "ok": false,
+ "sample_size": 40,
+ "summary": {
+  "passed": 324,
+  "failed": 3,
+  "skipped": 0
+ },
+ "checks": [
+  {
+   "symbol": "AAPL",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "AAPL",
+   "field": "price",
+   "ours": 352.45,
+   "yahoo": 352.45,
+   "ok": true,
+   "second": 352.45,
+   "second_source": "Nasdaq",
+   "stooq": 352.45
+  },
+  {
+   "symbol": "AAPL",
+   "field": "change_pct_1d",
+   "ours": 0.15,
+   "yahoo": 0.1535,
+   "ok": true
+  },
+  {
+   "symbol": "AAPL",
+   "field": "eps",
+   "ours": 8.89,
+   "yahoo": 8.98,
+   "ok": true
+  },
+  {
+   "symbol": "AAPL",
+   "field": "profit_margin",
+   "ours": 0.276,
+   "yahoo": 0.276,
+   "ok": true
+  },
+  {
+   "symbol": "AAPL",
+   "field": "rsi14",
+   "ours": 56.78,
+   "yahoo": 56.7768,
+   "ok": true
+  },
+  {
+   "symbol": "AAPL",
+   "field": "sma50",
+   "ours": 340.92,
+   "yahoo": 340.9164,
+   "ok": true
+  },
+  {
+   "symbol": "AAPL",
+   "field": "macd_hist",
+   "ours": 0.3164,
+   "yahoo": 0.3164,
+   "ok": true
+  },
+  {
+   "symbol": "MSFT",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "MSFT",
+   "field": "price",
+   "ours": 508.29,
+   "yahoo": 508.29,
+   "ok": true,
+   "second": 508.29,
+   "second_source": "Nasdaq",
+   "stooq": 508.29
+  },
+  {
+   "symbol": "MSFT",
+   "field": "change_pct_1d",
+   "ours": 0.4,
+   "yahoo": 0.4049,
+   "ok": true
+  },
+  {
+   "symbol": "MSFT",
+   "field": "eps",
+   "ours": 18.94,
+   "yahoo": 19.16,
+   "ok": true
+  },
+  {
+   "symbol": "MSFT",
+   "field": "profit_margin",
+   "ours": 0.4117,
+   "yahoo": 0.4117,
+   "ok": true
+  },
+  {
+   "symbol": "MSFT",
+   "field": "rsi14",
+   "ours": 42.91,
+   "yahoo": 42.906,
+   "ok": true
+  },
+  {
+   "symbol": "MSFT",
+   "field": "sma50",
+   "ours": 519.94,
+   "yahoo": 519.9416,
+   "ok": true
+  },
+  {
+   "symbol": "MSFT",
+   "field": "macd_hist",
+   "ours": -3.5296,
+   "yahoo": -3.5296,
+   "ok": true
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "currency",
+   "ours": "CHF",
+   "yahoo": "CHF",
+   "ok": true
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "price",
+   "ours": 86.03,
+   "yahoo": 86.03,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "change_pct_1d",
+   "ours": -0.81,
+   "yahoo": -0.8071,
+   "ok": true
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "eps",
+   "ours": 2.89,
+   "yahoo": 2.89,
+   "ok": true
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "profit_margin",
+   "ours": 0.0838,
+   "yahoo": 0.0838,
+   "ok": true
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "rsi14",
+   "ours": 59.12,
+   "yahoo": 59.1168,
+   "ok": true
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "sma50",
+   "ours": 80.78,
+   "yahoo": 80.7844,
+   "ok": true
+  },
+  {
+   "symbol": "NESN.SW",
+   "field": "macd_hist",
+   "ours": -0.1153,
+   "yahoo": -0.1153,
+   "ok": true
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "currency",
+   "ours": "EUR",
+   "yahoo": "EUR",
+   "ok": true
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "price",
+   "ours": 1236.8,
+   "yahoo": 1236.8,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "change_pct_1d",
+   "ours": -5.34,
+   "yahoo": -5.3421,
+   "ok": true
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "eps",
+   "ours": 34.98,
+   "yahoo": 34.98,
+   "ok": true
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "profit_margin",
+   "ours": 0.3413,
+   "yahoo": 0.3413,
+   "ok": true
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "rsi14",
+   "ours": 33.8,
+   "yahoo": 33.8021,
+   "ok": true
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "sma50",
+   "ours": 1464.53,
+   "yahoo": 1464.5332,
+   "ok": true
+  },
+  {
+   "symbol": "ASML.AS",
+   "field": "macd_hist",
+   "ours": -7.4582,
+   "yahoo": -7.4582,
+   "ok": true
+  },
+  {
+   "symbol": "WAT",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "WAT",
+   "field": "price",
+   "ours": 466.1,
+   "yahoo": 466.1,
+   "ok": true,
+   "second": 466.1,
+   "second_source": "Nasdaq",
+   "stooq": 466.1
+  },
+  {
+   "symbol": "WAT",
+   "field": "change_pct_1d",
+   "ours": 3.63,
+   "yahoo": 3.6284,
+   "ok": true
+  },
+  {
+   "symbol": "WAT",
+   "field": "eps",
+   "ours": 2.39,
+   "yahoo": 2.39,
+   "ok": true
+  },
+  {
+   "symbol": "WAT",
+   "field": "profit_margin",
+   "ours": 0.0176,
+   "yahoo": 0.0176,
+   "ok": true
+  },
+  {
+   "symbol": "WAT",
+   "field": "rsi14",
+   "ours": 55.25,
+   "yahoo": 55.2498,
+   "ok": true
+  },
+  {
+   "symbol": "WAT",
+   "field": "sma50",
+   "ours": 443.25,
+   "yahoo": 443.25,
+   "ok": true
+  },
+  {
+   "symbol": "WAT",
+   "field": "macd_hist",
+   "ours": -2.1302,
+   "yahoo": -2.1302,
+   "ok": true
+  },
+  {
+   "symbol": "GWW",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "GWW",
+   "field": "price",
+   "ours": 1448.12,
+   "yahoo": 1448.12,
+   "ok": true,
+   "second": 1448.12,
+   "second_source": "Nasdaq",
+   "stooq": 1448.12
+  },
+  {
+   "symbol": "GWW",
+   "field": "change_pct_1d",
+   "ours": -1.28,
+   "yahoo": -1.2843,
+   "ok": true
+  },
+  {
+   "symbol": "GWW",
+   "field": "eps",
+   "ours": 45.71,
+   "yahoo": 45.51,
+   "ok": true
+  },
+  {
+   "symbol": "GWW",
+   "field": "profit_margin",
+   "ours": 0.1117,
+   "yahoo": 0.1117,
+   "ok": true
+  },
+  {
+   "symbol": "GWW",
+   "field": "rsi14",
+   "ours": 58.21,
+   "yahoo": 58.2052,
+   "ok": true
+  },
+  {
+   "symbol": "GWW",
+   "field": "sma50",
+   "ours": 1338.12,
+   "yahoo": 1338.1202,
+   "ok": true
+  },
+  {
+   "symbol": "GWW",
+   "field": "macd_hist",
+   "ours": 0.2118,
+   "yahoo": 0.2118,
+   "ok": true
+  },
+  {
+   "symbol": "ALGN",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "ALGN",
+   "field": "price",
+   "ours": 163.96,
+   "yahoo": 163.96,
+   "ok": true,
+   "second": 163.96,
+   "second_source": "Nasdaq",
+   "stooq": 163.96
+  },
+  {
+   "symbol": "ALGN",
+   "field": "change_pct_1d",
+   "ours": 0.31,
+   "yahoo": 0.3059,
+   "ok": true
+  },
+  {
+   "symbol": "ALGN",
+   "field": "eps",
+   "ours": 6.77,
+   "yahoo": 6.86,
+   "ok": true
+  },
+  {
+   "symbol": "ALGN",
+   "field": "profit_margin",
+   "ours": 0.1183,
+   "yahoo": 0.1183,
+   "ok": true
+  },
+  {
+   "symbol": "ALGN",
+   "field": "rsi14",
+   "ours": 55.39,
+   "yahoo": 55.3871,
+   "ok": true
+  },
+  {
+   "symbol": "ALGN",
+   "field": "sma50",
+   "ours": 152.24,
+   "yahoo": 152.2372,
+   "ok": true
+  },
+  {
+   "symbol": "ALGN",
+   "field": "macd_hist",
+   "ours": -0.0291,
+   "yahoo": -0.0291,
+   "ok": true
+  },
+  {
+   "symbol": "IVZ",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "IVZ",
+   "field": "price",
+   "ours": 28.65,
+   "yahoo": 28.65,
+   "ok": true,
+   "second": 28.65,
+   "second_source": "Nasdaq",
+   "stooq": 28.65
+  },
+  {
+   "symbol": "IVZ",
+   "field": "change_pct_1d",
+   "ours": -1.0,
+   "yahoo": -1.0021,
+   "ok": true
+  },
+  {
+   "symbol": "IVZ",
+   "field": "eps",
+   "ours": -0.68,
+   "yahoo": -0.69,
+   "ok": true
+  },
+  {
+   "symbol": "IVZ",
+   "field": "profit_margin",
+   "ours": -0.011,
+   "yahoo": -0.011,
+   "ok": true
+  },
+  {
+   "symbol": "IVZ",
+   "field": "rsi14",
+   "ours": 50.14,
+   "yahoo": 50.14,
+   "ok": true
+  },
+  {
+   "symbol": "IVZ",
+   "field": "sma50",
+   "ours": 29.26,
+   "yahoo": 29.2585,
+   "ok": true
+  },
+  {
+   "symbol": "IVZ",
+   "field": "macd_hist",
+   "ours": 0.1664,
+   "yahoo": 0.1664,
+   "ok": true
+  },
+  {
+   "symbol": "TROW",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "TROW",
+   "field": "price",
+   "ours": 109.76,
+   "yahoo": 109.76,
+   "ok": true,
+   "second": 109.76,
+   "second_source": "Nasdaq",
+   "stooq": 109.76
+  },
+  {
+   "symbol": "TROW",
+   "field": "change_pct_1d",
+   "ours": 2.25,
+   "yahoo": 2.2545,
+   "ok": true
+  },
+  {
+   "symbol": "TROW",
+   "field": "eps",
+   "ours": 9.79,
+   "yahoo": 9.88,
+   "ok": true
+  },
+  {
+   "symbol": "TROW",
+   "field": "profit_margin",
+   "ours": 0.284,
+   "yahoo": 0.284,
+   "ok": true
+  },
+  {
+   "symbol": "TROW",
+   "field": "rsi14",
+   "ours": 57.22,
+   "yahoo": 57.2179,
+   "ok": true
+  },
+  {
+   "symbol": "TROW",
+   "field": "sma50",
+   "ours": 105.1,
+   "yahoo": 105.097,
+   "ok": true
+  },
+  {
+   "symbol": "TROW",
+   "field": "macd_hist",
+   "ours": 0.0436,
+   "yahoo": 0.0436,
+   "ok": true
+  },
+  {
+   "symbol": "PFG",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "PFG",
+   "field": "price",
+   "ours": 110.37,
+   "yahoo": 110.37,
+   "ok": true,
+   "second": 110.37,
+   "second_source": "Nasdaq",
+   "stooq": 110.37
+  },
+  {
+   "symbol": "PFG",
+   "field": "change_pct_1d",
+   "ours": -0.88,
+   "yahoo": -0.8801,
+   "ok": true
+  },
+  {
+   "symbol": "PFG",
+   "field": "eps",
+   "ours": 8.98,
+   "yahoo": 8.98,
+   "ok": true
+  },
+  {
+   "symbol": "PFG",
+   "field": "profit_margin",
+   "ours": 0.1189,
+   "yahoo": 0.1189,
+   "ok": true
+  },
+  {
+   "symbol": "PFG",
+   "field": "rsi14",
+   "ours": 45.38,
+   "yahoo": 45.3779,
+   "ok": true
+  },
+  {
+   "symbol": "PFG",
+   "field": "sma50",
+   "ours": 112.31,
+   "yahoo": 112.3108,
+   "ok": true
+  },
+  {
+   "symbol": "PFG",
+   "field": "macd_hist",
+   "ours": -0.2806,
+   "yahoo": -0.2806,
+   "ok": true
+  },
+  {
+   "symbol": "BAX",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "BAX",
+   "field": "price",
+   "ours": 26.16,
+   "yahoo": 26.16,
+   "ok": true,
+   "second": 26.16,
+   "second_source": "Nasdaq",
+   "stooq": 26.16
+  },
+  {
+   "symbol": "BAX",
+   "field": "change_pct_1d",
+   "ours": 1.55,
+   "yahoo": 1.5528,
+   "ok": true
+  },
+  {
+   "symbol": "BAX",
+   "field": "eps",
+   "ours": -1.21,
+   "yahoo": -1.21,
+   "ok": true
+  },
+  {
+   "symbol": "BAX",
+   "field": "profit_margin",
+   "ours": -0.0623,
+   "yahoo": -0.0623,
+   "ok": true
+  },
+  {
+   "symbol": "BAX",
+   "field": "rsi14",
+   "ours": 56.67,
+   "yahoo": 56.6726,
+   "ok": true
+  },
+  {
+   "symbol": "BAX",
+   "field": "sma50",
+   "ours": 24.59,
+   "yahoo": 24.5882,
+   "ok": true
+  },
+  {
+   "symbol": "BAX",
+   "field": "macd_hist",
+   "ours": 0.016,
+   "yahoo": 0.016,
+   "ok": true
+  },
+  {
+   "symbol": "LEN",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "LEN",
+   "field": "price",
+   "ours": 82.91,
+   "yahoo": 82.91,
+   "ok": true,
+   "second": 82.91,
+   "second_source": "Nasdaq",
+   "stooq": 82.91
+  },
+  {
+   "symbol": "LEN",
+   "field": "change_pct_1d",
+   "ours": 0.69,
+   "yahoo": 0.6923,
+   "ok": true
+  },
+  {
+   "symbol": "LEN",
+   "field": "eps",
+   "ours": 5.28,
+   "yahoo": 5.28,
+   "ok": true
+  },
+  {
+   "symbol": "LEN",
+   "field": "profit_margin",
+   "ours": 0.0409,
+   "yahoo": 0.0409,
+   "ok": true
+  },
+  {
+   "symbol": "LEN",
+   "field": "rsi14",
+   "ours": 47.46,
+   "yahoo": 47.4628,
+   "ok": true
+  },
+  {
+   "symbol": "LEN",
+   "field": "sma50",
+   "ours": 81.47,
+   "yahoo": 81.4728,
+   "ok": true
+  },
+  {
+   "symbol": "LEN",
+   "field": "macd_hist",
+   "ours": -0.8656,
+   "yahoo": -0.8656,
+   "ok": true
+  },
+  {
+   "symbol": "AXP",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "AXP",
+   "field": "price",
+   "ours": 315.4,
+   "yahoo": 315.4,
+   "ok": true,
+   "second": 315.4,
+   "second_source": "Nasdaq",
+   "stooq": 315.4
+  },
+  {
+   "symbol": "AXP",
+   "field": "change_pct_1d",
+   "ours": -0.12,
+   "yahoo": -0.1203,
+   "ok": true
+  },
+  {
+   "symbol": "AXP",
+   "field": "eps",
+   "ours": 17.66,
+   "yahoo": 17.75,
+   "ok": true
+  },
+  {
+   "symbol": "AXP",
+   "field": "profit_margin",
+   "ours": 0.1682,
+   "yahoo": 0.1682,
+   "ok": true
+  },
+  {
+   "symbol": "AXP",
+   "field": "rsi14",
+   "ours": 45.81,
+   "yahoo": 45.813,
+   "ok": true
+  },
+  {
+   "symbol": "AXP",
+   "field": "sma50",
+   "ours": 314.61,
+   "yahoo": 314.6142,
+   "ok": true
+  },
+  {
+   "symbol": "AXP",
+   "field": "macd_hist",
+   "ours": -1.1556,
+   "yahoo": -1.1556,
+   "ok": true
+  },
+  {
+   "symbol": "FDXF",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "FDXF",
+   "field": "price",
+   "ours": 129.43,
+   "yahoo": 129.43,
+   "ok": true,
+   "second": 129.43,
+   "second_source": "Nasdaq",
+   "stooq": 129.43
+  },
+  {
+   "symbol": "FDXF",
+   "field": "change_pct_1d",
+   "ours": -1.91,
+   "yahoo": -1.9098,
+   "ok": true
+  },
+  {
+   "symbol": "FDXF",
+   "field": "eps",
+   "ours": 3.39,
+   "yahoo": 3.41,
+   "ok": true
+  },
+  {
+   "symbol": "FDXF",
+   "field": "profit_margin",
+   "ours": 0.0745,
+   "yahoo": 0.0745,
+   "ok": true
+  },
+  {
+   "symbol": "FDXF",
+   "field": "rsi14",
+   "ours": 58.34,
+   "yahoo": 58.2679,
+   "ok": true
+  },
+  {
+   "symbol": "FDXF",
+   "field": "sma50",
+   "ours": 118.76,
+   "yahoo": 118.7592,
+   "ok": true
+  },
+  {
+   "symbol": "FDXF",
+   "field": "macd_hist",
+   "ours": 0.7212,
+   "yahoo": 0.7212,
+   "ok": true
+  },
+  {
+   "symbol": "LNT",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "LNT",
+   "field": "price",
+   "ours": 72.08,
+   "yahoo": 72.08,
+   "ok": true,
+   "second": 72.08,
+   "second_source": "Nasdaq",
+   "stooq": 72.08
+  },
+  {
+   "symbol": "LNT",
+   "field": "change_pct_1d",
+   "ours": 1.08,
+   "yahoo": 1.0798,
+   "ok": true
+  },
+  {
+   "symbol": "LNT",
+   "field": "eps",
+   "ours": 3.61,
+   "yahoo": 3.59,
+   "ok": true
+  },
+  {
+   "symbol": "LNT",
+   "field": "profit_margin",
+   "ours": 0.2074,
+   "yahoo": 0.2074,
+   "ok": true
+  },
+  {
+   "symbol": "LNT",
+   "field": "rsi14",
+   "ours": 56.21,
+   "yahoo": 56.2124,
+   "ok": true
+  },
+  {
+   "symbol": "LNT",
+   "field": "sma50",
+   "ours": 67.85,
+   "yahoo": 67.8457,
+   "ok": true
+  },
+  {
+   "symbol": "LNT",
+   "field": "macd_hist",
+   "ours": -0.2533,
+   "yahoo": -0.2533,
+   "ok": true
+  },
+  {
+   "symbol": "AME",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "AME",
+   "field": "price",
+   "ours": 235.61,
+   "yahoo": 235.61,
+   "ok": true,
+   "second": 235.61,
+   "second_source": "Nasdaq",
+   "stooq": 235.61
+  },
+  {
+   "symbol": "AME",
+   "field": "change_pct_1d",
+   "ours": 0.33,
+   "yahoo": 0.3279,
+   "ok": true
+  },
+  {
+   "symbol": "AME",
+   "field": "eps",
+   "ours": 7.09,
+   "yahoo": 7.09,
+   "ok": true
+  },
+  {
+   "symbol": "AME",
+   "field": "profit_margin",
+   "ours": 0.1991,
+   "yahoo": 0.1991,
+   "ok": true
+  },
+  {
+   "symbol": "AME",
+   "field": "rsi14",
+   "ours": 44.9,
+   "yahoo": 44.9029,
+   "ok": true
+  },
+  {
+   "symbol": "AME",
+   "field": "sma50",
+   "ours": 243.26,
+   "yahoo": 243.2589,
+   "ok": true
+  },
+  {
+   "symbol": "AME",
+   "field": "macd_hist",
+   "ours": -0.2342,
+   "yahoo": -0.2342,
+   "ok": true
+  },
+  {
+   "symbol": "WM",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "WM",
+   "field": "price",
+   "ours": 241.21,
+   "yahoo": 241.21,
+   "ok": true,
+   "second": 241.21,
+   "second_source": "Nasdaq",
+   "stooq": 241.21
+  },
+  {
+   "symbol": "WM",
+   "field": "change_pct_1d",
+   "ours": -0.61,
+   "yahoo": -0.6098,
+   "ok": true
+  },
+  {
+   "symbol": "WM",
+   "field": "eps",
+   "ours": 7.64,
+   "yahoo": 7.62,
+   "ok": true
+  },
+  {
+   "symbol": "WM",
+   "field": "profit_margin",
+   "ours": 0.1178,
+   "yahoo": 0.1178,
+   "ok": true
+  },
+  {
+   "symbol": "WM",
+   "field": "rsi14",
+   "ours": 60.37,
+   "yahoo": 60.3746,
+   "ok": true
+  },
+  {
+   "symbol": "WM",
+   "field": "sma50",
+   "ours": 222.92,
+   "yahoo": 222.9161,
+   "ok": true
+  },
+  {
+   "symbol": "WM",
+   "field": "macd_hist",
+   "ours": -0.2061,
+   "yahoo": -0.2061,
+   "ok": true
+  },
+  {
+   "symbol": "NKE",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "NKE",
+   "field": "price",
+   "ours": 36.31,
+   "yahoo": 36.31,
+   "ok": true,
+   "second": 36.31,
+   "second_source": "Nasdaq",
+   "stooq": 36.31
+  },
+  {
+   "symbol": "NKE",
+   "field": "change_pct_1d",
+   "ours": 1.28,
+   "yahoo": 1.2831,
+   "ok": true
+  },
+  {
+   "symbol": "NKE",
+   "field": "eps",
+   "ours": 2.09,
+   "yahoo": 2.08,
+   "ok": true
+  },
+  {
+   "symbol": "NKE",
+   "field": "profit_margin",
+   "ours": 0.0674,
+   "yahoo": 0.0674,
+   "ok": true
+  },
+  {
+   "symbol": "NKE",
+   "field": "rsi14",
+   "ours": 42.92,
+   "yahoo": 42.9215,
+   "ok": true
+  },
+  {
+   "symbol": "NKE",
+   "field": "sma50",
+   "ours": 36.82,
+   "yahoo": 36.8168,
+   "ok": true
+  },
+  {
+   "symbol": "NKE",
+   "field": "macd_hist",
+   "ours": -0.357,
+   "yahoo": -0.357,
+   "ok": true
+  },
+  {
+   "symbol": "MDT",
+   "field": "currency",
+   "ours": "USD",
+   "yahoo": "USD",
+   "ok": true
+  },
+  {
+   "symbol": "MDT",
+   "field": "price",
+   "ours": 100.72,
+   "yahoo": 100.72,
+   "ok": true,
+   "second": 100.72,
+   "second_source": "Nasdaq",
+   "stooq": 100.72
+  },
+  {
+   "symbol": "MDT",
+   "field": "change_pct_1d",
+   "ours": -1.56,
+   "yahoo": -1.5637,
+   "ok": true
+  },
+  {
+   "symbol": "MDT",
+   "field": "eps",
+   "ours": 4.07,
+   "yahoo": 4.07,
+   "ok": true
+  },
+  {
+   "symbol": "MDT",
+   "field": "profit_margin",
+   "ours": 0.1393,
+   "yahoo": 0.1393,
+   "ok": true
+  },
+  {
+   "symbol": "MDT",
+   "field": "rsi14",
+   "ours": 56.49,
+   "yahoo": 56.4862,
+   "ok": true
+  },
+  {
+   "symbol": "MDT",
+   "field": "sma50",
+   "ours": 94.11,
+   "yahoo": 94.108,
+   "ok": true
+  },
+  {
+   "symbol": "MDT",
+   "field": "macd_hist",
+   "ours": -0.2192,
+   "yahoo": -0.2192,
+   "ok": true
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "currency",
+   "ours": "EUR",
+   "yahoo": "EUR",
+   "ok": true
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "price",
+   "ours": 184.3,
+   "yahoo": 184.3,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "change_pct_1d",
+   "ours": -1.39,
+   "yahoo": -1.3911,
+   "ok": true
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "eps",
+   "ours": 11.92,
+   "yahoo": 11.7,
+   "ok": true
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "profit_margin",
+   "ours": 0.5538,
+   "yahoo": 0.5538,
+   "ok": true
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "rsi14",
+   "ours": 38.32,
+   "yahoo": 38.3227,
+   "ok": true
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "sma50",
+   "ours": 204.93,
+   "yahoo": 204.934,
+   "ok": true
+  },
+  {
+   "symbol": "GTT.PA",
+   "field": "macd_hist",
+   "ours": 0.8145,
+   "yahoo": 0.8145,
+   "ok": true
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "currency",
+   "ours": "EUR",
+   "yahoo": "EUR",
+   "ok": true
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "price",
+   "ours": 9.6,
+   "yahoo": 9.605,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "change_pct_1d",
+   "ours": -1.18,
+   "yahoo": -1.1831,
+   "ok": true
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "eps",
+   "ours": 1.2,
+   "yahoo": 1.2,
+   "ok": true
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "profit_margin",
+   "ours": 0.0394,
+   "yahoo": 0.0394,
+   "ok": true
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "rsi14",
+   "ours": 55.24,
+   "yahoo": 55.2359,
+   "ok": true
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "sma50",
+   "ours": 9.5,
+   "yahoo": 9.5008,
+   "ok": true
+  },
+  {
+   "symbol": "AYV.PA",
+   "field": "macd_hist",
+   "ours": 0.0757,
+   "yahoo": 0.0757,
+   "ok": true
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "currency",
+   "ours": "GBp",
+   "yahoo": "GBp",
+   "ok": true
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "price",
+   "ours": 224.0,
+   "yahoo": 224.0,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "change_pct_1d",
+   "ours": -1.84,
+   "yahoo": -1.8405,
+   "ok": true
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "eps",
+   "ours": 0.21,
+   "yahoo": 0.21,
+   "ok": true
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "profit_margin",
+   "ours": 0.2807,
+   "yahoo": 0.2807,
+   "ok": true
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "rsi14",
+   "ours": 42.3,
+   "yahoo": 42.2961,
+   "ok": true
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "sma50",
+   "ours": 235.44,
+   "yahoo": 235.44,
+   "ok": true
+  },
+  {
+   "symbol": "ABDN.L",
+   "field": "macd_hist",
+   "ours": 0.7227,
+   "yahoo": 0.7227,
+   "ok": true
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "currency",
+   "ours": "GBp",
+   "yahoo": "GBp",
+   "ok": true
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "price",
+   "ours": 442.4,
+   "yahoo": 442.4,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "change_pct_1d",
+   "ours": 0.64,
+   "yahoo": 0.6369,
+   "ok": true
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "eps",
+   "ours": 0.43,
+   "yahoo": 0.43,
+   "ok": true
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "profit_margin",
+   "ours": 0.1996,
+   "yahoo": 0.1996,
+   "ok": true
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "rsi14",
+   "ours": 40.59,
+   "yahoo": 40.5938,
+   "ok": true
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "sma50",
+   "ours": 513.23,
+   "yahoo": 513.232,
+   "ok": true
+  },
+  {
+   "symbol": "HOC.L",
+   "field": "macd_hist",
+   "ours": 1.2289,
+   "yahoo": 1.2289,
+   "ok": true
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "currency",
+   "ours": "GBp",
+   "yahoo": "GBp",
+   "ok": true
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "price",
+   "ours": 2815.0,
+   "yahoo": 2815.0,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "change_pct_1d",
+   "ours": -0.71,
+   "yahoo": -0.7055,
+   "ok": true
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "eps",
+   "ours": 0.88,
+   "yahoo": 0.88,
+   "ok": true
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "profit_margin",
+   "ours": 0.0799,
+   "yahoo": 0.0799,
+   "ok": true
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "rsi14",
+   "ours": 39.99,
+   "yahoo": 39.9897,
+   "ok": true
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "sma50",
+   "ours": 3006.3,
+   "yahoo": 3006.3,
+   "ok": true
+  },
+  {
+   "symbol": "HILS.L",
+   "field": "macd_hist",
+   "ours": -5.1606,
+   "yahoo": -5.1606,
+   "ok": true
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "currency",
+   "ours": "EUR",
+   "yahoo": "EUR",
+   "ok": true
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "price",
+   "ours": 132.3,
+   "yahoo": 132.3,
+   "ok": true,
+   "second": null,
+   "second_source": null,
+   "stooq": null
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "change_pct_1d",
+   "ours": -1.85,
+   "yahoo": -1.8546,
+   "ok": true
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "eps",
+   "ours": 10.49,
+   "yahoo": 10.49,
+   "ok": true
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "profit_margin",
+   "ours": 0.058,
+   "yahoo": 0.0579,
+   "ok": true
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "rsi14",
+   "ours": 60.66,
+   "yahoo": 60.6645,
+   "ok": true
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "sma50",
+   "ours": 124.45,
+   "yahoo": 124.454,
+   "ok": true
+  },
+  {
+   "symbol": "TLX.DE",
+   "field": "macd_hist",
+   "ours": 0.1409,
+   "yahoo": 0.1409,
+   "ok": true
+  }
+ ],
+ "failures": [
+  {
+   "symbol": "CURN.SW",
+   "field": "price",
+   "ours": 15.5,
+   "yahoo": 15.1,
+   "reason": "Abweichung 2.6 %"
+  },
+  {
+   "symbol": "CURN.SW",
+   "field": "change_pct_1d",
+   "ours": -3.12,
+   "yahoo": -5.625,
+   "reason": "Abweichung 2.50 Prozentpunkte"
+  },
+  {
+   "symbol": "CURN.SW",
+   "field": "rsi14",
+   "ours": 41.1,
+   "yahoo": 39.4428,
+   "reason": "Abweichung 4.2 %"
+  }
+ ]
+}
