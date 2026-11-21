@@ -1,6 +1,3291 @@
 {
- "generated_at": "2026-11-20T03:39:19Z",
+ "generated_at": "2026-11-21T03:20:47Z",
  "changes": [
+  {
+   "d": "2026-11-20",
+   "symbol": "ZTS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 74,
+   "score_to": 41
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ZEHN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 75,
+   "score_to": 55
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ZEG.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ZEAL.CO",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ZAB.WA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 47,
+   "score_to": 69
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "XYZ",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "XLS.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WY",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WTB.L",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 72,
+   "score_to": 56
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WSM",
+   "horizon": "long",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 68,
+   "score_to": 71
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WRT1V.HE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WRB",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 62,
+   "score_to": 72
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WMT",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 52,
+   "score_to": 67
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WMB",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 29,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WKBN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WISE.L",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 54,
+   "score_to": 40
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WDAY",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "WARN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 52,
+   "score_to": 62
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VYLR",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VRT",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 36,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VRSN",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 42,
+   "score_to": 47
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VPK.AS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 51,
+   "score_to": 42
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VPBN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 60,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VOW3.DE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 31,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VOLV-B.ST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 52,
+   "score_to": 64
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VOD.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VNA.DE",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 72,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VLTO",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 54,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VIE.PA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 55
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VETN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VEEV",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VBSN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 60,
+   "score_to": 72
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VATN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 44
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VARN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VAHN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 63,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "VACN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 48,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "UNH",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "UHS",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "UHRN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 70
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "UBSG.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "UBER",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 53,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TXN",
+   "horizon": "long",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 81,
+   "score_to": 83
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TW.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 30,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TTE.PA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 41,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TSN",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 84
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TSLA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 32,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TSCO",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 65,
+   "score_to": 66
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TRI",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 37
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TRGP",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 31,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TREL-B.ST",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 62,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TOM.OL",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 30,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TMUS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 54,
+   "score_to": 69
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TLX.DE",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TKBP.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TJX",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 54,
+   "score_to": 67
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TIBN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 45
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TGT",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 81,
+   "score_to": 64
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TEL2-B.ST",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TCAP.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "TBCG.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 62,
+   "score_to": 68
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "T",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 51,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SYY",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 36,
+   "score_to": 48
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SWTQ.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SWON.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 33,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SUBC.OL",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 30,
+   "score_to": 43
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "STT",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 32,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "STRN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 47,
+   "score_to": 61
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "STMMI.MI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 41,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "STLD",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 28,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "STGN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "STE",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 67,
+   "score_to": 56
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "STB.OL",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 66
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SSAB-B.ST",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SRE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 39
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SQN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 40,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SPSN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 44
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SPM.MI",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "buy",
+   "score_from": 28,
+   "score_to": 46
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SPCX",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 53,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SOI.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 37,
+   "score_to": 52
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SNBN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SMIN.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SIKA.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 52,
+   "score_to": 52
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SIGN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 78,
+   "score_to": 56
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SHB-A.ST",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 67,
+   "score_to": 57
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SENS.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 41,
+   "score_to": 24
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SECU-B.ST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 59,
+   "score_to": 60
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SECT-B.ST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 54,
+   "score_to": 60
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SDLF.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SCYR.MC",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 35
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SBRY.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 38,
+   "score_to": 40
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SAN.PA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 57
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SAN.MC",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 37,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SALM.OL",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 79,
+   "score_to": 52
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SAGA-B.ST",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 55
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "SAB.MC",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 35
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RYA.IR",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RWE.DE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RVTY",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 39,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ROR.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 59,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RMS.PA",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RL",
+   "horizon": "long",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 70,
+   "score_to": 70
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RKLB",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RILBA.CO",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 55,
+   "score_to": 67
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RI.PA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 67,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RF",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 32,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "REHN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 36
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "REG",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "RBREW.CO",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 82,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "QCOM",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 29,
+   "score_to": 24
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PZU.WA",
+   "horizon": "long",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 65,
+   "score_to": 51
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PYPL",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PRY.MI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 61,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PRX.AS",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PPC.AT",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 33,
+   "score_to": 41
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PLUS.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PLTR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PKO.WA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PHIA.AS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PFE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PDD",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 32,
+   "score_to": 70
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PANW",
+   "horizon": "long",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 53,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "PAH3.DE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ORLY",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 61,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ORCL",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 26,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ON",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 26,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NWSA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NWS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 37,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NVDA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 23
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NUE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 30,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NTRS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 35,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NSIS-B.CO",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 49,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NOVO-B.CO",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 42
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NOKIA.HE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 41
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NN.AS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 35
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NEX.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 55,
+   "score_to": 60
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NEM.DE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 26,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NEM",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 28,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NDA-FI.HE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 57,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "NBIS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MU",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MTG.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 59,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MSFT",
+   "horizon": "long",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 82,
+   "score_to": 82
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MRO.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 37,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MRNA",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 26,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MRL.MC",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MRK.DE",
+   "horizon": "long",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 44,
+   "score_to": 45
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MRK",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MPWR",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 70,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MOWI.OL",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 70,
+   "score_to": 61
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MONC.MI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 32,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MOLN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MOH.AT",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 26,
+   "score_to": 37
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MKS.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 65,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MKC",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 64
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "METSO.HE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "META",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 36,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MET",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MELI",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 35
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MED.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 62,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MCO",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MCHP",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MCHN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 46
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MAS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 54,
+   "score_to": 57
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "MAP.MC",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LYB",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LVS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 68,
+   "score_to": 49
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LUV",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 67,
+   "score_to": 46
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LRCX",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LOOMIS.ST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 58,
+   "score_to": 58
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LISP.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LISN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LII",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 35,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LI.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LGEN.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "LEON.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 38
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KURN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 41,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KRZ.IR",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 73,
+   "score_to": 50
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KRX.IR",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 72,
+   "score_to": 57
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KMI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 28,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KLIN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 37,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KLAC",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KKR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 32,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KGX.DE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KGH.WA",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 38
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KGF.L",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 74,
+   "score_to": 56
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KEYS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 45,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KBCA.BR",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 35
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "KARN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 34,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "JYSK.CO",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 46
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "JNJ",
+   "horizon": "long",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 44,
+   "score_to": 43
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "JMAT.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 26,
+   "score_to": 45
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "JFN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 55,
+   "score_to": 58
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "JCI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 39,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ITV.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 33,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ITRK.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 59,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "IT",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 38
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "IP",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 30,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "INVP.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 34,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "INVH",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "INTU",
+   "horizon": "long",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 74,
+   "score_to": 87
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "IFX.DE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 46,
+   "score_to": 51
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "IBM",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "IBKR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 39,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HWM",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 70,
+   "score_to": 51
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HUBN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 58,
+   "score_to": 42
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HSY",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 58,
+   "score_to": 68
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HPQ",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 37
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HOOD",
+   "horizon": "long",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 53,
+   "score_to": 55
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HON",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HOC.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 28,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HO.PA",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 42
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HLMA.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 44,
+   "score_to": 79
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HIG",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 49,
+   "score_to": 60
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HIAG.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 33,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "HEN3.DE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 66
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GSK.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 41,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GRMN",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GPN",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 31,
+   "score_to": 72
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GOOGL",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 40,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GNRC",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 76,
+   "score_to": 55
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GMI.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 41,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GLW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GLKBN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GLE.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 55,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GL9.IR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 40,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GL",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GJF.OL",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 63,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GIS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 50,
+   "score_to": 76
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GF.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 30,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GEV",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 37,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GEHC",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 55,
+   "score_to": 58
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GE",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 69,
+   "score_to": 39
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GDDY",
+   "horizon": "long",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 82,
+   "score_to": 82
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GAW.L",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 69,
+   "score_to": 62
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "GAV.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 63,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FTON.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 47
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FTNT",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 45,
+   "score_to": 47
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FRES.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FRE.DE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 62,
+   "score_to": 67
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FITB",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FHZN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 67,
+   "score_to": 47
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FFIV",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 47,
+   "score_to": 47
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FER",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 49
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FE",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 62,
+   "score_to": 52
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FDXF",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 68,
+   "score_to": 39
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "FAST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EVO.ST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 65,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EVK.DE",
+   "horizon": "short",
+   "from": "buy",
+   "to": "avoid",
+   "score_from": 67,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EUROB.AT",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 63,
+   "score_to": 66
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ETR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ESS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 39,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ERIC-B.ST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 42,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EQT",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EPIC.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 60,
+   "score_to": 58
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EOG",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 29,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ENT.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 30,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EMR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 32,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EFGN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 36
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EDPR.LS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 70,
+   "score_to": 49
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "EBP.WA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 54,
+   "score_to": 71
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DVA",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 38
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DSFIR.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 49,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DPLM.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DOW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 27
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DOKA.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 43
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DOCM.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 56,
+   "score_to": 69
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DLR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 34,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DLN.L",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 64
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DLG.MI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 63,
+   "score_to": 65
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DHL.DE",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 44
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DELL",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DELL",
+   "horizon": "long",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 81,
+   "score_to": 83
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DECK",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 33,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "DANSKE.CO",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 57
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CSGP",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 35
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CRL",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 39,
+   "score_to": 26
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CPHN.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 43,
+   "score_to": 64
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "COST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 64,
+   "score_to": 69
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "COP",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 35
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "COHR",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 38
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CMS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 51,
+   "score_to": 61
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CMI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 39,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CMBN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CLNX.MC",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CLN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 44
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CICN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 68,
+   "score_to": 36
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CFR.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 80,
+   "score_to": 47
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CEG",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 50,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CDW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 55,
+   "score_to": 40
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CDR.WA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 86,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CCC.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 41
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CBRE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 36
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CARR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "CAH",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 56
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BYS.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 36
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BRO",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 48,
+   "score_to": 60
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BOL.ST",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BOL.PA",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 34,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BNY",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 34,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BNP.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 57,
+   "score_to": 60
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BN.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 66,
+   "score_to": 67
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BMY",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BMED.MI",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BME.L",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 77,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BLND.L",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 75,
+   "score_to": 52
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BLK",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BKNG",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BESI.AS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 37,
+   "score_to": 49
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BELL.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 78,
+   "score_to": 51
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BELA.AT",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 79,
+   "score_to": 58
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BEKN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BEI.DE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 43,
+   "score_to": 31
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BEAN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "buy",
+   "score_from": 28,
+   "score_to": 63
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BCHN.SW",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 68,
+   "score_to": 46
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BC8.DE",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BC.MI",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 81,
+   "score_to": 60
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BBN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 32,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BANB.SW",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 40,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BAMNB.AS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 67,
+   "score_to": 57
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BAMI.MI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 58,
+   "score_to": 59
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "BAB.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "buy",
+   "score_from": 31,
+   "score_to": 79
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AXP",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 30,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AVGO",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 67,
+   "score_to": 37
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AV.L",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ATS.VI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 46,
+   "score_to": 46
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ATCO-A.ST",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 52,
+   "score_to": 58
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ASRNL.AS",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 64,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ASML.AS",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 37
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ASM.AS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 45,
+   "score_to": 50
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ASCN.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 28,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ARM",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 45,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ARM",
+   "horizon": "long",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 54,
+   "score_to": 54
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ARES",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 49,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "APTV",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ANTO.L",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 25,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ANET",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 39
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AMS.MC",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 45
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AMD",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 37,
+   "score_to": 23
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AMCR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 40,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AMAT",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 38,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ALSYDB.CO",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 56
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ALFA.ST",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 33
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ALE.WA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 81,
+   "score_to": 61
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ALB",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 29,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ALAB",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 45,
+   "score_to": 25
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AKE.PA",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 34
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AKAM",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 61,
+   "score_to": 37
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AIZ",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 66,
+   "score_to": 55
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AGN.AS",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 63,
+   "score_to": 66
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AERO.SW",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 29,
+   "score_to": 32
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AEE",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 42,
+   "score_to": 53
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AED.BR",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 60,
+   "score_to": 30
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ADYEN.AS",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 26,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ADP.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 55,
+   "score_to": 78
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ADP",
+   "horizon": "short",
+   "from": "hold",
+   "to": "buy",
+   "score_from": 39,
+   "score_to": 50
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ADI",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 31,
+   "score_to": 24
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ADI",
+   "horizon": "long",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 82,
+   "score_to": 82
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ACX.MC",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 29
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ACS.MC",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 42,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ACN",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 27,
+   "score_to": 37
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ACKB.BR",
+   "horizon": "short",
+   "from": "buy",
+   "to": "hold",
+   "score_from": 65,
+   "score_to": 46
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "ABVX.PA",
+   "horizon": "short",
+   "from": "hold",
+   "to": "avoid",
+   "score_from": 37,
+   "score_to": 28
+  },
+  {
+   "d": "2026-11-20",
+   "symbol": "AALB.AS",
+   "horizon": "short",
+   "from": "avoid",
+   "to": "hold",
+   "score_from": 31,
+   "score_to": 43
+  },
   {
    "d": "2026-11-19",
    "symbol": "ZEHN.SW",

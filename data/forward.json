@@ -1,6 +1,6 @@
 {
  "start_date": "2026-11-06",
- "updated_at": "2026-11-20T03:39:19Z",
+ "updated_at": "2026-11-21T03:20:47Z",
  "fee_pct": 0.1,
  "rules": "Jeden Montag: Top 10 nach Score mit Signal Kaufen, gleich gewichtet. 0.1 % Gebühr pro Kauf und Verkauf.",
  "portfolios": {
@@ -12,35 +12,35 @@
      "shares": 0.098949,
      "entry_price": 100.99,
      "entry_date": "2026-11-16",
-     "last_price": 96.88
+     "last_price": 98.71
     },
     {
      "symbol": "ED",
      "shares": 0.08199,
      "entry_price": 121.88,
      "entry_date": "2026-11-16",
-     "last_price": 119.09
+     "last_price": 119.36
     },
     {
      "symbol": "WISE.L",
      "shares": 0.011173,
      "entry_price": 894.4,
      "entry_date": "2026-11-16",
-     "last_price": 834.4
+     "last_price": 816.4
     },
     {
      "symbol": "CHD",
      "shares": 0.087092,
      "entry_price": 114.74,
      "entry_date": "2026-11-16",
-     "last_price": 109.68
+     "last_price": 110.84
     },
     {
      "symbol": "TSN",
      "shares": 0.156261,
      "entry_price": 63.95,
      "entry_date": "2026-11-16",
-     "last_price": 63.86
+     "last_price": 65.12
     },
     {
      "symbol": "ALLN.SW",
@@ -54,28 +54,28 @@
      "shares": 0.013066,
      "entry_price": 764.8,
      "entry_date": "2026-11-16",
-     "last_price": 742.6
+     "last_price": 738.4
     },
     {
      "symbol": "AZA.ST",
      "shares": 0.025196,
      "entry_price": 396.6,
      "entry_date": "2026-11-16",
-     "last_price": 376.4
+     "last_price": 375.3
     },
     {
      "symbol": "ALL",
      "shares": 0.036952,
      "entry_price": 270.43,
      "entry_date": "2026-11-16",
-     "last_price": 266.77
+     "last_price": 267.0
     },
     {
      "symbol": "EIX",
      "shares": 0.161254,
      "entry_price": 61.97,
      "entry_date": "2026-11-16",
-     "last_price": 63.02
+     "last_price": 62.24
     }
    ],
    "cash": -0.0,
@@ -119,6 +119,10 @@
     {
      "d": "2026-11-19",
      "v": 97.0301
+    },
+    {
+     "d": "2026-11-20",
+     "v": 97.1302
     }
    ]
   },
@@ -130,7 +134,7 @@
      "shares": 0.073395,
      "entry_price": 139.1,
      "entry_date": "2026-11-16",
-     "last_price": 110.0
+     "last_price": 113.66
     },
     {
      "symbol": "BAER.SW",
@@ -144,21 +148,21 @@
      "shares": 0.014199,
      "entry_price": 719.02,
      "entry_date": "2026-11-16",
-     "last_price": 690.44
+     "last_price": 594.51
     },
     {
      "symbol": "WDC",
      "shares": 0.036341,
      "entry_price": 280.93,
      "entry_date": "2026-11-16",
-     "last_price": 296.78
+     "last_price": 261.11
     },
     {
      "symbol": "ALPHA.AT",
      "shares": 2.153836,
      "entry_price": 4.74,
      "entry_date": "2026-11-16",
-     "last_price": 4.49
+     "last_price": 4.52
     },
     {
      "symbol": "HIAG.SW",
@@ -172,28 +176,28 @@
      "shares": 0.526518,
      "entry_price": 19.39,
      "entry_date": "2026-11-16",
-     "last_price": 18.9
+     "last_price": 18.83
     },
     {
      "symbol": "BBVA.MC",
      "shares": 0.433143,
      "entry_price": 23.57,
      "entry_date": "2026-11-16",
-     "last_price": 22.77
+     "last_price": 21.83
     },
     {
      "symbol": "EOG",
      "shares": 0.065667,
      "entry_price": 155.47,
      "entry_date": "2026-11-16",
-     "last_price": 149.49
+     "last_price": 148.6
     },
     {
      "symbol": "PAF.L",
      "shares": 0.093748,
      "entry_price": 108.9,
      "entry_date": "2026-11-16",
-     "last_price": 99.05
+     "last_price": 99.3
     }
    ],
    "cash": -0.0,
@@ -237,6 +241,10 @@
     {
      "d": "2026-11-19",
      "v": 96.7729
+    },
+    {
+     "d": "2026-11-20",
+     "v": 93.9687
     }
    ]
   },
@@ -283,6 +291,10 @@
     {
      "d": "2026-11-19",
      "v": 97.2749
+    },
+    {
+     "d": "2026-11-20",
+     "v": 93.6766
     }
    ]
   },
@@ -329,6 +341,10 @@
     {
      "d": "2026-11-19",
      "v": 99.4954
+    },
+    {
+     "d": "2026-11-20",
+     "v": 98.4837
     }
    ]
   },
@@ -375,6 +391,10 @@
     {
      "d": "2026-11-19",
      "v": 99.0822
+    },
+    {
+     "d": "2026-11-20",
+     "v": 96.2962
     }
    ]
   }
