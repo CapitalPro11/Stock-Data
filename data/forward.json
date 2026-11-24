@@ -1,6 +1,6 @@
 {
  "start_date": "2026-11-06",
- "updated_at": "2026-11-21T03:20:47Z",
+ "updated_at": "2026-11-24T06:18:29Z",
  "fee_pct": 0.1,
  "rules": "Jeden Montag: Top 10 nach Score mit Signal Kaufen, gleich gewichtet. 0.1 % Gebühr pro Kauf und Verkauf.",
  "portfolios": {
@@ -8,74 +8,74 @@
    "label": "Kurzfrist Top 10",
    "holdings": [
     {
-     "symbol": "CL",
-     "shares": 0.098949,
-     "entry_price": 100.99,
-     "entry_date": "2026-11-16",
-     "last_price": 98.71
+     "symbol": "PDD",
+     "shares": 0.110481,
+     "entry_price": 87.14,
+     "entry_date": "2026-11-23",
+     "last_price": 87.14
     },
     {
-     "symbol": "ED",
-     "shares": 0.08199,
-     "entry_price": 121.88,
-     "entry_date": "2026-11-16",
-     "last_price": 119.36
+     "symbol": "FNTN.DE",
+     "shares": 0.39072,
+     "entry_price": 24.64,
+     "entry_date": "2026-11-23",
+     "last_price": 24.64
     },
     {
-     "symbol": "WISE.L",
-     "shares": 0.011173,
-     "entry_price": 894.4,
-     "entry_date": "2026-11-16",
-     "last_price": 816.4
+     "symbol": "TGT",
+     "shares": 0.057241,
+     "entry_price": 168.19,
+     "entry_date": "2026-11-23",
+     "last_price": 168.19
     },
     {
-     "symbol": "CHD",
-     "shares": 0.087092,
-     "entry_price": 114.74,
-     "entry_date": "2026-11-16",
-     "last_price": 110.84
+     "symbol": "UHR.SW",
+     "shares": 0.049371,
+     "entry_price": 195.0,
+     "entry_date": "2026-11-23",
+     "last_price": 195.0
     },
     {
-     "symbol": "TSN",
-     "shares": 0.156261,
-     "entry_price": 63.95,
-     "entry_date": "2026-11-16",
-     "last_price": 65.12
+     "symbol": "GEKTERNA.AT",
+     "shares": 0.219202,
+     "entry_price": 43.92,
+     "entry_date": "2026-11-23",
+     "last_price": 43.92
     },
     {
-     "symbol": "ALLN.SW",
-     "shares": 0.050469,
-     "entry_price": 198.0,
-     "entry_date": "2026-11-16",
-     "last_price": 190.6
+     "symbol": "PCG",
+     "shares": 0.68376,
+     "entry_price": 14.08,
+     "entry_date": "2026-11-23",
+     "last_price": 14.08
     },
     {
-     "symbol": "AV.L",
-     "shares": 0.013066,
-     "entry_price": 764.8,
-     "entry_date": "2026-11-16",
-     "last_price": 738.4
+     "symbol": "OFN.SW",
+     "shares": 0.066395,
+     "entry_price": 145.0,
+     "entry_date": "2026-11-23",
+     "last_price": 145.0
     },
     {
-     "symbol": "AZA.ST",
-     "shares": 0.025196,
-     "entry_price": 396.6,
-     "entry_date": "2026-11-16",
-     "last_price": 375.3
+     "symbol": "RTO.L",
+     "shares": 0.026218,
+     "entry_price": 367.2,
+     "entry_date": "2026-11-23",
+     "last_price": 367.2
     },
     {
-     "symbol": "ALL",
-     "shares": 0.036952,
-     "entry_price": 270.43,
-     "entry_date": "2026-11-16",
-     "last_price": 267.0
+     "symbol": "ORLY",
+     "shares": 0.102834,
+     "entry_price": 93.62,
+     "entry_date": "2026-11-23",
+     "last_price": 93.62
     },
     {
-     "symbol": "EIX",
-     "shares": 0.161254,
-     "entry_price": 61.97,
-     "entry_date": "2026-11-16",
-     "last_price": 62.24
+     "symbol": "BELL.SW",
+     "shares": 0.03599,
+     "entry_price": 267.5,
+     "entry_date": "2026-11-23",
+     "last_price": 267.5
     }
    ],
    "cash": -0.0,
@@ -123,6 +123,10 @@
     {
      "d": "2026-11-20",
      "v": 97.1302
+    },
+    {
+     "d": "2026-11-23",
+     "v": 96.2732
     }
    ]
   },
@@ -131,73 +135,73 @@
    "holdings": [
     {
      "symbol": "XTB.WA",
-     "shares": 0.073395,
-     "entry_price": 139.1,
-     "entry_date": "2026-11-16",
-     "last_price": 113.66
+     "shares": 0.085715,
+     "entry_price": 109.9,
+     "entry_date": "2026-11-23",
+     "last_price": 109.9
     },
     {
      "symbol": "BAER.SW",
-     "shares": 0.143428,
-     "entry_price": 71.18,
-     "entry_date": "2026-11-16",
-     "last_price": 68.0
+     "shares": 0.146685,
+     "entry_price": 64.22,
+     "entry_date": "2026-11-23",
+     "last_price": 64.22
     },
     {
-     "symbol": "MU",
-     "shares": 0.014199,
-     "entry_price": 719.02,
-     "entry_date": "2026-11-16",
-     "last_price": 594.51
+     "symbol": "ABN.AS",
+     "shares": 0.242724,
+     "entry_price": 38.81,
+     "entry_date": "2026-11-23",
+     "last_price": 38.81
+    },
+    {
+     "symbol": "RDDT",
+     "shares": 0.10613,
+     "entry_price": 88.76,
+     "entry_date": "2026-11-23",
+     "last_price": 88.76
     },
     {
      "symbol": "WDC",
-     "shares": 0.036341,
-     "entry_price": 280.93,
-     "entry_date": "2026-11-16",
-     "last_price": 261.11
+     "shares": 0.031691,
+     "entry_price": 297.25,
+     "entry_date": "2026-11-23",
+     "last_price": 297.25
     },
     {
-     "symbol": "ALPHA.AT",
-     "shares": 2.153836,
-     "entry_price": 4.74,
-     "entry_date": "2026-11-16",
-     "last_price": 4.52
-    },
-    {
-     "symbol": "HIAG.SW",
-     "shares": 0.075624,
-     "entry_price": 135.0,
-     "entry_date": "2026-11-16",
-     "last_price": 129.2
+     "symbol": "MU",
+     "shares": 0.013311,
+     "entry_price": 707.7,
+     "entry_date": "2026-11-23",
+     "last_price": 707.7
     },
     {
      "symbol": "BIRG.IR",
-     "shares": 0.526518,
-     "entry_price": 19.39,
-     "entry_date": "2026-11-16",
-     "last_price": 18.83
+     "shares": 0.515324,
+     "entry_price": 18.28,
+     "entry_date": "2026-11-23",
+     "last_price": 18.28
     },
     {
      "symbol": "BBVA.MC",
-     "shares": 0.433143,
-     "entry_price": 23.57,
-     "entry_date": "2026-11-16",
+     "shares": 0.431522,
+     "entry_price": 21.83,
+     "entry_date": "2026-11-23",
      "last_price": 21.83
     },
     {
-     "symbol": "EOG",
-     "shares": 0.065667,
-     "entry_price": 155.47,
-     "entry_date": "2026-11-16",
-     "last_price": 148.6
+     "symbol": "ALPHA.AT",
+     "shares": 2.185642,
+     "entry_price": 4.31,
+     "entry_date": "2026-11-23",
+     "last_price": 4.31
     },
     {
-     "symbol": "PAF.L",
-     "shares": 0.093748,
-     "entry_price": 108.9,
-     "entry_date": "2026-11-16",
-     "last_price": 99.3
+     "symbol": "OXY",
+     "shares": 0.17875,
+     "entry_price": 52.7,
+     "entry_date": "2026-11-23",
+     "last_price": 52.7
     }
    ],
    "cash": -0.0,
@@ -245,6 +249,10 @@
     {
      "d": "2026-11-20",
      "v": 93.9687
+    },
+    {
+     "d": "2026-11-23",
+     "v": 94.2012
     }
    ]
   },
@@ -295,6 +303,10 @@
     {
      "d": "2026-11-20",
      "v": 93.6766
+    },
+    {
+     "d": "2026-11-23",
+     "v": 98.1064
     }
    ]
   },
@@ -345,6 +357,10 @@
     {
      "d": "2026-11-20",
      "v": 98.4837
+    },
+    {
+     "d": "2026-11-23",
+     "v": 99.5887
     }
    ]
   },
@@ -395,6 +411,10 @@
     {
      "d": "2026-11-20",
      "v": 96.2962
+    },
+    {
+     "d": "2026-11-23",
+     "v": 98.4439
     }
    ]
   }
@@ -1099,7 +1119,287 @@
    "symbol": "PAF.L",
    "action": "buy",
    "price": 108.9
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "CL",
+   "action": "sell",
+   "price": 97.93
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "ED",
+   "action": "sell",
+   "price": 118.48
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "WISE.L",
+   "action": "sell",
+   "price": 831.6
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "CHD",
+   "action": "sell",
+   "price": 110.87
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "TSN",
+   "action": "sell",
+   "price": 62.95
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "ALLN.SW",
+   "action": "sell",
+   "price": 188.6
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "AV.L",
+   "action": "sell",
+   "price": 736.2
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "AZA.ST",
+   "action": "sell",
+   "price": 368.0
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "ALL",
+   "action": "sell",
+   "price": 265.28
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "EIX",
+   "action": "sell",
+   "price": 62.42
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "PDD",
+   "action": "buy",
+   "price": 87.14
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "FNTN.DE",
+   "action": "buy",
+   "price": 24.64
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "TGT",
+   "action": "buy",
+   "price": 168.19
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "UHR.SW",
+   "action": "buy",
+   "price": 195.0
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "GEKTERNA.AT",
+   "action": "buy",
+   "price": 43.92
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "PCG",
+   "action": "buy",
+   "price": 14.08
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "OFN.SW",
+   "action": "buy",
+   "price": 145.0
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "RTO.L",
+   "action": "buy",
+   "price": 367.2
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "ORLY",
+   "action": "buy",
+   "price": 93.62
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "short_top10",
+   "symbol": "BELL.SW",
+   "action": "buy",
+   "price": 267.5
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "XTB.WA",
+   "action": "sell",
+   "price": 109.9
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "BAER.SW",
+   "action": "sell",
+   "price": 64.22
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "MU",
+   "action": "sell",
+   "price": 707.7
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "WDC",
+   "action": "sell",
+   "price": 297.25
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "ALPHA.AT",
+   "action": "sell",
+   "price": 4.31
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "HIAG.SW",
+   "action": "sell",
+   "price": 125.0
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "BIRG.IR",
+   "action": "sell",
+   "price": 18.28
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "BBVA.MC",
+   "action": "sell",
+   "price": 21.83
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "EOG",
+   "action": "sell",
+   "price": 145.34
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "PAF.L",
+   "action": "sell",
+   "price": 94.95
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "XTB.WA",
+   "action": "buy",
+   "price": 109.9
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "BAER.SW",
+   "action": "buy",
+   "price": 64.22
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "ABN.AS",
+   "action": "buy",
+   "price": 38.81
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "RDDT",
+   "action": "buy",
+   "price": 88.76
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "WDC",
+   "action": "buy",
+   "price": 297.25
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "MU",
+   "action": "buy",
+   "price": 707.7
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "BIRG.IR",
+   "action": "buy",
+   "price": 18.28
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "BBVA.MC",
+   "action": "buy",
+   "price": 21.83
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "ALPHA.AT",
+   "action": "buy",
+   "price": 4.31
+  },
+  {
+   "d": "2026-11-23",
+   "portfolio": "long_top10",
+   "symbol": "OXY",
+   "action": "buy",
+   "price": 52.7
   }
  ],
- "last_rebalance": "2026-11-16"
+ "last_rebalance": "2026-11-23"
 }
