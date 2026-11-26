@@ -1,6 +1,6 @@
 {
  "start_date": "2026-11-06",
- "updated_at": "2026-11-25T05:00:18Z",
+ "updated_at": "2026-11-26T04:16:48Z",
  "fee_pct": 0.1,
  "rules": "Jeden Montag: Top 10 nach Score mit Signal Kaufen, gleich gewichtet. 0.1 % Gebühr pro Kauf und Verkauf.",
  "portfolios": {
@@ -12,70 +12,70 @@
      "shares": 0.110481,
      "entry_price": 87.14,
      "entry_date": "2026-11-23",
-     "last_price": 87.22
+     "last_price": 87.42
     },
     {
      "symbol": "FNTN.DE",
      "shares": 0.39072,
      "entry_price": 24.64,
      "entry_date": "2026-11-23",
-     "last_price": 24.38
+     "last_price": 24.64
     },
     {
      "symbol": "TGT",
      "shares": 0.057241,
      "entry_price": 168.19,
      "entry_date": "2026-11-23",
-     "last_price": 176.06
+     "last_price": 172.22
     },
     {
      "symbol": "UHR.SW",
      "shares": 0.049371,
      "entry_price": 195.0,
      "entry_date": "2026-11-23",
-     "last_price": 195.0
+     "last_price": 197.4
     },
     {
      "symbol": "GEKTERNA.AT",
      "shares": 0.219202,
      "entry_price": 43.92,
      "entry_date": "2026-11-23",
-     "last_price": 44.8
+     "last_price": 44.0
     },
     {
      "symbol": "PCG",
      "shares": 0.68376,
      "entry_price": 14.08,
      "entry_date": "2026-11-23",
-     "last_price": 14.22
+     "last_price": 14.26
     },
     {
      "symbol": "OFN.SW",
      "shares": 0.066395,
      "entry_price": 145.0,
      "entry_date": "2026-11-23",
-     "last_price": 145.0
+     "last_price": 147.0
     },
     {
      "symbol": "RTO.L",
      "shares": 0.026218,
      "entry_price": 367.2,
      "entry_date": "2026-11-23",
-     "last_price": 371.1
+     "last_price": 375.0
     },
     {
      "symbol": "ORLY",
      "shares": 0.102834,
      "entry_price": 93.62,
      "entry_date": "2026-11-23",
-     "last_price": 95.43
+     "last_price": 96.69
     },
     {
      "symbol": "BELL.SW",
      "shares": 0.03599,
      "entry_price": 267.5,
      "entry_date": "2026-11-23",
-     "last_price": 261.0
+     "last_price": 262.5
     }
    ],
    "cash": -0.0,
@@ -131,6 +131,10 @@
     {
      "d": "2026-11-24",
      "v": 96.974
+    },
+    {
+     "d": "2026-11-25",
+     "v": 97.267
     }
    ]
   },
@@ -142,70 +146,70 @@
      "shares": 0.085715,
      "entry_price": 109.9,
      "entry_date": "2026-11-23",
-     "last_price": 108.5
+     "last_price": 106.62
     },
     {
      "symbol": "BAER.SW",
      "shares": 0.146685,
      "entry_price": 64.22,
      "entry_date": "2026-11-23",
-     "last_price": 64.22
+     "last_price": 61.42
     },
     {
      "symbol": "ABN.AS",
      "shares": 0.242724,
      "entry_price": 38.81,
      "entry_date": "2026-11-23",
-     "last_price": 39.85
+     "last_price": 38.94
     },
     {
      "symbol": "RDDT",
      "shares": 0.10613,
      "entry_price": 88.76,
      "entry_date": "2026-11-23",
-     "last_price": 90.34
+     "last_price": 91.51
     },
     {
      "symbol": "WDC",
      "shares": 0.031691,
      "entry_price": 297.25,
      "entry_date": "2026-11-23",
-     "last_price": 273.95
+     "last_price": 272.45
     },
     {
      "symbol": "MU",
      "shares": 0.013311,
      "entry_price": 707.7,
      "entry_date": "2026-11-23",
-     "last_price": 629.79
+     "last_price": 601.25
     },
     {
      "symbol": "BIRG.IR",
      "shares": 0.515324,
      "entry_price": 18.28,
      "entry_date": "2026-11-23",
-     "last_price": 18.8
+     "last_price": 18.42
     },
     {
      "symbol": "BBVA.MC",
      "shares": 0.431522,
      "entry_price": 21.83,
      "entry_date": "2026-11-23",
-     "last_price": 22.5
+     "last_price": 21.94
     },
     {
      "symbol": "ALPHA.AT",
      "shares": 2.185642,
      "entry_price": 4.31,
      "entry_date": "2026-11-23",
-     "last_price": 4.4
+     "last_price": 4.28
     },
     {
      "symbol": "OXY",
      "shares": 0.17875,
      "entry_price": 52.7,
      "entry_date": "2026-11-23",
-     "last_price": 53.38
+     "last_price": 53.95
     }
    ],
    "cash": -0.0,
@@ -261,6 +265,10 @@
     {
      "d": "2026-11-24",
      "v": 93.6012
+    },
+    {
+     "d": "2026-11-25",
+     "v": 91.9074
     }
    ]
   },
@@ -319,6 +327,10 @@
     {
      "d": "2026-11-24",
      "v": 97.6173
+    },
+    {
+     "d": "2026-11-25",
+     "v": 97.3691
     }
    ]
   },
@@ -377,6 +389,10 @@
     {
      "d": "2026-11-24",
      "v": 99.5769
+    },
+    {
+     "d": "2026-11-25",
+     "v": 99.1107
     }
    ]
   },
@@ -435,6 +451,10 @@
     {
      "d": "2026-11-24",
      "v": 97.2979
+    },
+    {
+     "d": "2026-11-25",
+     "v": 95.5266
     }
    ]
   }
