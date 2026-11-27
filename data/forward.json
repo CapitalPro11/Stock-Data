@@ -1,6 +1,6 @@
 {
  "start_date": "2026-11-06",
- "updated_at": "2026-11-26T04:16:48Z",
+ "updated_at": "2026-11-27T04:24:05Z",
  "fee_pct": 0.1,
  "rules": "Jeden Montag: Top 10 nach Score mit Signal Kaufen, gleich gewichtet. 0.1 % Gebühr pro Kauf und Verkauf.",
  "portfolios": {
@@ -19,7 +19,7 @@
      "shares": 0.39072,
      "entry_price": 24.64,
      "entry_date": "2026-11-23",
-     "last_price": 24.64
+     "last_price": 24.7
     },
     {
      "symbol": "TGT",
@@ -40,7 +40,7 @@
      "shares": 0.219202,
      "entry_price": 43.92,
      "entry_date": "2026-11-23",
-     "last_price": 44.0
+     "last_price": 41.28
     },
     {
      "symbol": "PCG",
@@ -61,7 +61,7 @@
      "shares": 0.026218,
      "entry_price": 367.2,
      "entry_date": "2026-11-23",
-     "last_price": 375.0
+     "last_price": 373.5
     },
     {
      "symbol": "ORLY",
@@ -75,7 +75,7 @@
      "shares": 0.03599,
      "entry_price": 267.5,
      "entry_date": "2026-11-23",
-     "last_price": 262.5
+     "last_price": 261.5
     }
    ],
    "cash": -0.0,
@@ -135,6 +135,10 @@
     {
      "d": "2026-11-25",
      "v": 97.267
+    },
+    {
+     "d": "2026-11-26",
+     "v": 96.6189
     }
    ]
   },
@@ -146,21 +150,21 @@
      "shares": 0.085715,
      "entry_price": 109.9,
      "entry_date": "2026-11-23",
-     "last_price": 106.62
+     "last_price": 107.8
     },
     {
      "symbol": "BAER.SW",
      "shares": 0.146685,
      "entry_price": 64.22,
      "entry_date": "2026-11-23",
-     "last_price": 61.42
+     "last_price": 62.48
     },
     {
      "symbol": "ABN.AS",
      "shares": 0.242724,
      "entry_price": 38.81,
      "entry_date": "2026-11-23",
-     "last_price": 38.94
+     "last_price": 37.48
     },
     {
      "symbol": "RDDT",
@@ -188,21 +192,21 @@
      "shares": 0.515324,
      "entry_price": 18.28,
      "entry_date": "2026-11-23",
-     "last_price": 18.42
+     "last_price": 17.67
     },
     {
      "symbol": "BBVA.MC",
      "shares": 0.431522,
      "entry_price": 21.83,
      "entry_date": "2026-11-23",
-     "last_price": 21.94
+     "last_price": 21.28
     },
     {
      "symbol": "ALPHA.AT",
      "shares": 2.185642,
      "entry_price": 4.31,
      "entry_date": "2026-11-23",
-     "last_price": 4.28
+     "last_price": 4.11
     },
     {
      "symbol": "OXY",
@@ -269,6 +273,10 @@
     {
      "d": "2026-11-25",
      "v": 91.9074
+    },
+    {
+     "d": "2026-11-26",
+     "v": 90.7668
     }
    ]
   },
@@ -330,6 +338,10 @@
     },
     {
      "d": "2026-11-25",
+     "v": 97.3691
+    },
+    {
+     "d": "2026-11-26",
      "v": 97.3691
     }
    ]
@@ -393,6 +405,10 @@
     {
      "d": "2026-11-25",
      "v": 99.1107
+    },
+    {
+     "d": "2026-11-26",
+     "v": 100.1431
     }
    ]
   },
@@ -455,6 +471,10 @@
     {
      "d": "2026-11-25",
      "v": 95.5266
+    },
+    {
+     "d": "2026-11-26",
+     "v": 97.4759
     }
    ]
   }
